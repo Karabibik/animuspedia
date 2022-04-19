@@ -1,43 +1,69 @@
-site_name: obsidian-mkdocs template
+site_name: Animuspedia
 
+# Theme
 theme:
     name: 'material'
+    language: tr
+    
+    features:
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.top
+      
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: red
+      accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
+        name: Karart
+        
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
-      accent: blue
+      primary: red
+      accent: orange
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Aydınlat
 
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
-  # - pymdownx.arithmatex
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
-  # - pymdownx.tasklist:
-  #     custom_checkbox: true
-#  - pymdownx.emoji:
-#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  # - admonition
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - toc:
       permalink: true
-
+  - meta
+  - footnotes
+  - tables
+  - md_in_html
+  
 plugins:
   - search
   - roamlinks 
+  - tags
+  
+# Extra JS
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tablesort.js
+  
+extra_css:
+  - stylesheets/extra.css
