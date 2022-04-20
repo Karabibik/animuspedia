@@ -1,8 +1,14 @@
-# Obsidian Notes
+# Animus Projesi - Veritabanı
 
-Publish your public notes with MkDocs
+Animus Projesi'nin arşiv niteliğinde sitesi.
 
-## Hello World!
+## Veritabanı
+
+
+
+## Yama Listesi
+
+## Çeviri Rehberleri
 
 The `index.md` in the `/docs` folder is the homepage you see here.
 
