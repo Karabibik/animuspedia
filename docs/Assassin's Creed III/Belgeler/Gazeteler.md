@@ -1,6 +1,5 @@
 
-&nbsp;
-<h2>BOSTON KATLİAMI</h2>
+## BOSTON KATLİAMI
 Kral Caddesi'nde katliam.
 
 Eminim ki okuyucularımız geçen Pazartesi olanları iyi bilir, bir süvari bölüğü Gümrük Binası'na varmadan tertiplenip kalabalığa ateş açtılar ve 4 kişiyi öldürüp birçok insanı yaraladılar. Okuyucularımız bu trajik hadisenin ayrıntılı bir hesabını bekliyordu; ama olmamız gerektiği kadar ihtiyatlı olmamızı mazur göreceklerini umuyoruz, halk bu durumu deşmek niyetinde değil ya da nispi temsil sisteminin uygulanmasını istemiyorlar. Buna rağmen, birkaç olay kanıtlanabileceğe benziyordu.
@@ -23,8 +22,7 @@ Bazılarının da ameliyat edilmesi gerekti, kemikleri kırıldı, vücutlarınd
 
 Vali Hutchinson kasabayı sakinleştirmek için çabaladı. Olayda adı geçen Yüzbaşı Preston'ın ve tabi ki olaya bulaşan askerlerinin soruşturma yapılana ya da bir emir çıkana kadar tutuklanmasını emretti.
 
-&nbsp;
-<h2>BOSTON ÇAY PARTİSİ</h2>
+## BOSTON ÇAY PARTİSİ
 Çay kutuları yok edildi. 16 Aralık Çarşamba günü Boston'daki Griffin'in Limanında yaşanan en ilginç ve fark edilebilir olay.
 
 Kızılderililer gibi yüzlerinde boyalar olan ve her biri geyik derisi giyinmiş bir topluluk limanda Dartmouth, Eleanor ve Beaver adlı gemilere sırasıyla çıkmaya çalıştı. Bu kızılderililer, yada her kimseler, görgü tanıklarının genel olarak ifadelerine göre bu olayı yapanlar yanlarında Tomahawk olarak adlandırılan baltalar bulunduruyorlardı.
@@ -37,8 +35,7 @@ O gün erken saatlerde, Suffolk bölgesi vatandaşlarının Boston,Old South'da 
 
 Bu çay kutuları dışında gemiye herhangi bir zarar verilmedi. Çayı yokedenler tüm kutuları denize attıktan sonra gemi güvertelerini çay yapraklarından temizlerken görüldüler.
 
-&nbsp;
-<h2>PAUL REVERE'NİN GEZİNTİSİ</h2>
+## PAUL REVERE'NİN GEZİNTİSİ
 Milislerin yükselişi.
 
 Son olaylar gürültülü ve çarpıcıydı, eğer büyük efor sarfeden bazı biniciler kasabayı ve gönüllü askerleri uyarmamış olsalardı bu zafer kazanılamazdı.
@@ -49,8 +46,7 @@ Dr. Warren mesajının bucaklara ulaştırılamaması riskini alamazdı. Hızlı
 
 Ama Bay Revere'nin macerası henüz bitmemişti.  Lexington'a dönerken John Hancock'u gelen askerlerle savaşmak için hazırlanırken ve bir subay olarak görünce şaşırdı. Revere Bay Hancock'u yerinin savaş alanı olmadığı konusunda ikna etmeye çalıştı. Revere başarılı oldu ve Bay Hancock ve Bay Adams daha güvenli bir yere gittiler, ama askerlerin yaklaşması nedeniyle yanlarında kongre kağıtlarını getirmekte başarısız oldular. Bay Revere bu kağıtları askerlerden önce ele geçirebilmek için Lexington Green'e geri döndü.
 
-&nbsp;
-<h2>LEXINGTON VE CONCORD</h2>
+## LEXINGTON VE CONCORD
 Nizamiler milislerle karşılaştı. Silahlar ateşlendi.
 
 Amerikalılar! LEXINGTON SAVAŞI her zaman akıllarda olacak! bu savaşta İngiliz Güçleri, sebesiz ve gereksiz yere, ve en insanlık dışı nedenlerle köylülere ateş açtılar ve birçoğunu öldürdüler! The events, görülebildiği gibi, terleticiydi bu nedenle: Habercilerin uyardığı üzere bir alay Nizami Concord ve civarındaki gizli cephaneleri yok etmek üzere Menotomy'e doğru yola çıkmıştı, Milis güçleri toplandı, Sudbury, Acton, Lincoln and Bedford gibi uzak yerlerden askerler çağırıldı. Bu tür bir güç ilk kez Concord'a 7 mil uzakta Nizamilere karşı Lexington Green'de ortaya konuldu. Koloni milis yüzbaşı John Parker tarafından komuta edildi, yaklaşık düzünelerce adamları vardı, Binbaşı Pitcairn'ın emri altında toplanan bir ekip Concord yolundaydı. Sonradan gelenlerin sayımı karışmıştı, ama Milis üyeleri ateş etmediklerini ileri sürdüler, ama ateş Nizamilerin üzerine açılmış ve bu onlara 8 kayıp ve birkaç yaralıyla sonuçlanmıştı. Yüzbaşı Parker adamlarını savaş alanına yolladı ve tehlikeli Nizamiler Concord'a doğru devam ettiler.
@@ -59,8 +55,7 @@ Concord'da Albay James Barrett kontrolünde başka bir tugay daha vardı ve Niza
 
 Böylece biz ve denizin öbür tarafından olan kuzenlerimiz arasında silahlar ateşlendi. Rubicon nehri geçildi. Amerikalılar!--Özgürlük yada Ölüm! -- Katılın yada Ölün!
 
-&nbsp;
-<h2>İKİNCİ KITASAL KONGRE</h2>
+## İKİNCİ KITASAL KONGRE
 İkinci Kıtasal Kongre.
 
 Massachusetts'deki kanlı olaylar ışığında, İkinci Kıtasal Kongre 13 kolonininde temsilcilerinin katılımıyla Philadelphia'da toplandı. Kongre Koloniler arasında bir anlaşma ile askeri bir düzen önerisinde bulunacak.  Kongrede Londra ile bütün kolonilerin birlite katılacağı bir görüşme yapılması değerlendirilecek. İkinci kongreye önceki kongre başkanı Peyton Randolph sağlık durumu yüzünden katılamayacağı ve bu nedenle görevine devam edemeyeceği için Boston'dan John Hancock başkanlık yapacak.
@@ -69,8 +64,7 @@ Bu bir kaç ayda yapılan müthiş Lexington ve Concord savaşlarında askeri ga
 
 Kıtasal Ordunun oluşturulmasına rağmen, kongrenin beklentisi bütün koloniler arasındaki bölümlerin ve hükümdarlığın herkesin yararına bir sonuçda olmasıydı. Bu yüzden kongre İngiliz kraliyetine zeytin dalı uzatmaya ve barış önermeye karar verdi.
 
-&nbsp;
-<h2>BUNKER HILL SAVAŞI</h2>
+## BUNKER HILL SAVAŞI
 Charlestownda kanlı bir savaş!
 
 Koloni Milisleri Krallık kuvvetleriyle Breed's tepesinde karşılaştı. Çoğu öldü ve ağır bir biçimde yaralandı.
@@ -85,8 +79,7 @@ Cesur milisler, cephane ve sayıca azda olsalar, konumlarını korudular ve taki
 
 General Howe tarafından kazanılması zor bir savaştı. O kadar yaşanan olayda bine yakın kayıp verilmişti, buna ölüler ve yaralılar dahil. Milislerin kayıpları dörtyüze kadar sayılmıştı.
 
-&nbsp;
-<h2>BÜYÜK NEW YORK YANGINI</h2>
+## BÜYÜK NEW YORK YANGINI
 Yangın Manhattan'ı harap etti. Trinity Kilisesi yandı. Bundan asilerin sorumlu olduğu düşünüldü.
 
 Büyük bir ateş sondan önceki cumarteside ayın 21'inde New York'da yayıldı.  Yangın Whitehall Slip yakınlarında başladı, büyük olasılık Cocks Meyhanesindeki şanssız bir kavga sonucu. Güney-batı'dan gelen rüzgar yangını sokağın kuzeyine doğru hızlıca yaydı, birçok ev yandı. Evleri yananlar evden alabildikleri eşyalarını aldılar ve kasabada kalıcak güvenli bir yer buldular. Rüzgar yön değiştirdi ve neredeyse Broadway'den Hudson'a şehrin tamamını yok etti. Yanmış küller zona hastalığını sokaklar boyunca taşıdı. Trinity Kilisesinin çatısı çabucak tutuştu ve kilise dakikalar içinde yandı.
@@ -97,8 +90,7 @@ Beş yüze yakın ev ve bina yok oldu.
 
 Bu yangının sorumluları bilinmiyorlar ama, Asilerin son zamanlarda şehri elinde bulunduran Kraliyet askerlerine zorluk çıkarmak istedikleri bir gizem değil. General Howe tarafından bir soruşturma başlatıldı.
 
-&nbsp;
-<h2>BAĞIMSIZLIK BİLDİRGESİ</h2>
+## BAĞIMSIZLIK BİLDİRGESİ
 Özgürlük! Kongre oy birliğiyle Birleşmiş Koloniler özgürlüğünü ve bağımsızlığını ilan etti!
 
 Dün, onüç kolonininde temsilcileri bir araya geldi ve vatandaşlarının bağımsızlığını ve İngiltire ile olan bağlarını kopardıklarını ilan etti. Bu Bağımsızlık Bildirgesi, bazı yazarlar tarafından oluşturulmuştu, öncelikle Thos. Jefferson, John Adams ve Benj. Franklin ve olayları bizim anlatabileceğimizden daha dokunaklı bir şekilde kullanıp bildirgeyi bu haline getirdiler.
@@ -107,8 +99,7 @@ Dün, onüç kolonininde temsilcileri bir araya geldi ve vatandaşlarının bağ
 
 John Adams bu günün görkem ve geçit törenleriylle, şovlarla, oyunlarla, sporlarla, silahlarla, çanlarla, kamp ateşleriyle ve illüminasyonla, bu kıtanın her ucunda, şimdiden sonsuza kadar kutlanacağını ilan etti.
 
-&nbsp;
-<h2>VALLEY FORGE</h2>
+## VALLEY FORGE
 Kıtasal ordu yoksunluk içindeydi.
 
 Philadelphia'ya yirmi kilometre uzaktaki karargahda, Gen. Washington’nın ordusu zorlu kışla mücadele veriyordu. Brandywine'daki yenilgiden sonra Kıtasal ordu aşağılandı ve Kongre Kraliyet güçlerinin ilerleyişi nedeniyle Philadelphia'ya kaçtı. Kızılceketliler ilerlemeye devam ettiler ve bizim ana üssümüzü ele geçirdiler. Hemen ardından, mutsuzluk Germantown'daki üzücü yenilgi nedeniyle arttı.
@@ -119,8 +110,7 @@ Ama birkaç inç karın altında, ve askerler işlerini yapmakta bitirmekte zorl
 
 Askeri danışman Frederick von Steuben'ın gelişinden sonra adamlar doğru formasyonlar ve manevralar için eğitilmeye başlandı, önemli sayıda eş ve çocuklarında kampa katılmasıyla yemek ve odun ihtiyaçları azda olsa giderildi ve genel olarak moraller arttı.
 
-&nbsp;
-<h2>MONMOUTH SAVAŞI</h2>
+## MONMOUTH SAVAŞI
 Monmouth adliyesinde savaş!  Kıtasal ordu Kırallık ordusunu takip ediyor.
 
 Korgeneral Henry Clinton tarafından yönetilen İngiliz birlikleri Philadelphia'yı boşaltıyor ve New York City'deki İngiliz kuvvetlerine katılmak için ilerliyorlardı, 28 Haziranda kendilerini takip eden General Washington ve yaklaşık on bir bin adamı ile savaşa girdiler.
@@ -131,8 +121,7 @@ Lee’nin adamları karışıklık içinde General Washington'ın komutasında i
 
 Bu yazılırken, General Lee  Englishtown'da askeri mahkemede yargılanıyor. Bunun onun komutasını rahatlatması bekleniyor.
 
-&nbsp;
-<h2>CHESAPEAKE</h2>
+## CHESAPEAKE
 Bu yazıyı okuyanların öğrendiği gibi, Amiral de Grasse kontrolündeki Fransız donanması yakın zamanda karayiplerden Yorktown'da General Cornwallis kontrolündeki İngiliz kuvvetleri durdurmak için kalktı. Geçen çarşamba,5 Eylül, 19 gemisiyle bir İngiliz donanması geldi. Fransız donanması, yaklaşık yirmi gemiden oluşuyordu, cesurca İngilizlerle savaşmak üzere yola çıktı.
 
 Bu yazar sarp kayalıktan bu iki donanma uzakta çarpışırken onları gözlemledi.  Fransız donanmasının savaş düzenini korumakta zorluk çektiği aşikardı.. Ortalarındaki gecikme İngilizlerin saldırması ve onları rahatsız etmeleri için açık bir fırsattı.  Ama İngiliz Amiral Graves, böyle bir denemede bulunmadı.  Yakınlardaki dürbün kullanan bir adam İngiliz gemilerinin Fransızların yanaşmasına ve düzgün bir formasyon oluşturmalarına izin verdiğini iddaa etti. Aslında hepimiz buna şaşırdık. Bunun yerine İngilizler dönüş sırasında geriye düştü ve o gün herhangi bir çatışma yaşanmadı.
@@ -143,8 +132,7 @@ Bu yazar sarp kayalıktan bu iki donanma uzakta çarpışırken onları gözleml
 
 Ama kuşatma Gens'in yönetimindeki piyadeler ve topçular ile birlikte devam etti. Washington ve Rochambeau Cornwallis'i kuşatmayı düşünüyor.
 
-&nbsp;
-<h2>TRENTON SAVAŞI</h2>
+## TRENTON SAVAŞI
 İnanılmaz Zafer!  General Washington Hessian kuvvetlerini Trenton'da şaşkına uğrattı.
 
 Yüzlerce insan mahkum oldu.
@@ -161,4 +149,3 @@ Seferden birkaç gün önce, Thomas Paine'in bröşürü, Kriz, bu adamlara okun
 
 Albay Rall savaş sona ermeden aldığı yara nedeniyle öldü.  Cebinde katlanmış bir mesaj bulundu, Amerikalıların geldiğine dair bir mesaj. Yoksayması ölümüne neden olan bir mesaj.
 
-&nbsp;

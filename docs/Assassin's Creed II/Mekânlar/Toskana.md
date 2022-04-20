@@ -1,6 +1,5 @@
 
-&nbsp;
-<h2>ANTICO TEATRO ROMANO</h2>
+## ANTICO TEATRO ROMANO
 <img src="http://i.imgur.com/kF59eSG.jpg" alt="" />
 
 <em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
@@ -11,8 +10,7 @@ Tipik Roma tiyatroları, tarifi kaybolduğu için Rönesans İtalya'sında kulla
 
 Hiç mermer olmadığını fark ettin mi? Rönesans İtalyanları Roma kalıntıları ile ilkel bir geri dönüşüm formu geliştirmişlerdi: bulunan her mermer parçası daha sonra bedavadan kullanılmak üzere sökülürdü.
 
-&nbsp;
-<h2> MONTE OLIVETO MAGGIORE</h2>
+##  MONTE OLIVETO MAGGIORE
 <img src="http://i.imgur.com/Uo4n8HM.jpg" alt="" />
 
 <em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
@@ -21,8 +19,7 @@ Hiç mermer olmadığını fark ettin mi? Rönesans İtalyanları Roma kalıntı
 
 Monte Oliveto Maggiore Siena bölgesi topraklarının çoğuna hakimdi, bu yüzden kendi özel yönetimine sahip olması, örneğin iyi avukatlara, böyle bir zenginliğin işleriyle uğraşması için gerekliydi. Şans eseri, Bernardo Tolomei bir hukukçuydu ve öldüğünde manastırı oldukça kazançlı bir yer olarak bırakmıştı.
 
-&nbsp;
-<h2>MONTERIGGIONI</h2>
+## MONTERIGGIONI
 <img src="http://i.imgur.com/3DbNuCf.jpg" alt="" />
 
 13. yüzyılda Siena yöneticileri tarafından yaptırılan Monteriggioni, Floransa'nın toprak kazanma ataklarına karşılık Toskana savunmasında aktif rol aldı. Bu çatışmanın ön cephesinde, şehrin yöneticileri ve koruyucuları olan Auditore ailesi vardı. Bugün hala görülebilen Monteriggioni'nin ünlü surlarını da Auditore ailesi yaptırmıştı.
@@ -33,16 +30,14 @@ Monteriggioni, Floransa saldırılarına karşı kendini başarıyla savundu, ta
 
 Sıradışı bir şekilde Auditoreler, Medici ailesinin dostlarını unutmadığının bir göstergesi olarak Floransa egemenliği altında da şehrin yönetiminde kalmaya devam ettiler.
 
-&nbsp;
-<h2>PALAZZO COMUNALE</h2>
+## PALAZZO COMUNALE
 <img src="http://i.imgur.com/hnTNkiv.jpg" alt="" />
 
 San Gimignano'nun belediye binası olan Palazzo Comunale belediye yöneticilerinin oturması için 1288'de inşa edildi.
 
 Kuleler Şehri tanımına yaraşacak şekilde, belediye konseyinin yeni evlerindeki ilk icraatlarından biri binanın tepesine Torre Grossa'yı inşa ettirmek oldu. Podestà 1337 yılında Palazzo Comunale'de kalmaya başladı.
 
-&nbsp;
-<h2>SAN GIMIGNANO</h2>
+## SAN GIMIGNANO
 <img src="http://i.imgur.com/zhhr5sP.jpg" alt="" />
 
 Modena şehrini Attila Han'dan kurtarmak için yoğun bir sis yarattığına inanılan Aziz Geminianus'un adı verilen San Gimignano 3. yüzyılda kuruldu. Şehir Roma'ya giden hacıların yolu üzerinde bir durak noktası olması itibariyle 10. yüzyıldan bu yana büyümeyi sürdürdü.
@@ -51,30 +46,26 @@ Modena şehrini Attila Han'dan kurtarmak için yoğun bir sis yarattığına ina
 
 Fakat 1348 yılındaki veba salgını San Gimignano'yu kırıp geçirdi. bakım masrafları için yeterli parası olmayan şehir dağılmaya başladı. Konsey yardım için Floransa'ya başvurdu, ve Floransa kontrolü ele geçirdi.
 
-&nbsp;
-<h2>SANTA MARIA ASSUNTA</h2>
+## SANTA MARIA ASSUNTA
 <img src="http://i.imgur.com/O8YoC7j.jpg" alt="" />
 
 <em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
 
 Şehirde hiç piskopos olmamasına rağmen, yerel halk tarafından Duomo ismiyle anılan Santa Maria Assunta 12. yüzyılda kuruldu. Şok edici bir şekilde, Kuleler Şehri San Gimignano'nun aksine şehirde hiç kule yoktu. Bir kilise zoruyla evlenmemeye benzeyen bu tavır muhtemelen akıllıca bir hareketti.
 
-&nbsp;
-<h2>TORRE DEL DIAVOLO</h2>
+## TORRE DEL DIAVOLO
 <img src="http://i.imgur.com/6FVyJkZ.jpg" alt="" />
 
 Muhtemelen ortaçağa özgü bir savunma için yapılan Torre del Diavolo bir zamanlar zirvesinde bir yürüyüş yoluna sahipti. Tepedeki tahta kazıklar yolun tahtalarını düzende tutuyordu.
 
 Kime sorduğunuza bağlı olarak, kule ismini (Şeytan'ın Kulesi) bir keresinde kuleye isabet eden bir yıldırımdan ya da kulenin ilk sahibinin bir geziye çıkması ve döndüğünde kuleyi bıraktığından açık bir şekilde daha yüksek bulmasından alıyor.
 
-&nbsp;
-<h2>TORRE GROSSA</h2>
+## TORRE GROSSA
 <img src="http://i.imgur.com/kcRh7nE.jpg" alt="" />
 
 San Gimignano'nun 54 metre üstünde yükselen, şehrin en yüksek kulesi Torre Grossa, isminin hakkını verir. diğer bazı kulelerin aksine içinde bir çan bile vardır. Torre Grossa'nın yapımı 1300 yılında başladı ve 1311'de bitti.
 
-&nbsp;
-<h2>TORRE ROGNOSA</h2>
+## TORRE ROGNOSA
 <img src="http://i.imgur.com/VXY8Ft7.jpg" alt="" />
 
 13. Yüzyıl Palazzo Vecchio del Podestà'sına bağlanmış olan Torre Rognosa, San Gimignano'nun 51 metre yukarısına kadar uzanır.
@@ -85,8 +76,7 @@ Neden Podestà büyük bir geleneği böyle bir anda terk etsin ki? Belki de Pal
 
 Kule Kıskançlığı: Bunun değişim için yeterli bir güç olmasını küçümseme.
 
-&nbsp;
-<h2>TORRI DEI SALVUCCI</h2>
+## TORRI DEI SALVUCCI
 <img src="http://i.imgur.com/A04sm3c.jpg" alt="" />
 
 <em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
@@ -95,8 +85,7 @@ Kuleleriyle ünlü bir şehirde, Salvucci ailesi 13. yüzyılın gücünü göst
 
 Çileden çıkan Podestà, kulelerin kendi kulesinden kısa olana kadar kesilmelerini istedi.
 
-&nbsp;
-<h2>VILLA AUDITORE</h2>
+## VILLA AUDITORE
 <img src="http://i.imgur.com/3PQyVs1.jpg" alt="" />
 
 <em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
@@ -109,12 +98,10 @@ Yalnızca estetiği düşünmeyen, Ezio Auditore'nin büyük-büyük babası ola
 
 Domenico bir mimar ve bir savaşçı olmasının yanında, aynı zamanda yetenekli bir mühendisti. Kısa süre önce ortaya çıkarılan, girişi engelleyen mekanizmaya sahip odalar ve gizli geçitler gibi bazı sıra dışı özellikler, binayı mimarinin yanında teknolojik olarak da bir şaheser yapıyor.
 
-&nbsp;
-<h2>VILLA SALVIATI</h2>
+## VILLA SALVIATI
 <img src="http://i.imgur.com/mkQYIw6.jpg" alt="" />
 
 Papa'yla olan bağlantıları sayesinde zengin olan Başpiskopos Francesco Salviati, bu Toskana konağını Floransa başpiskoposu olacağı beklentisiyle 1475 yılında satın aldı. Sonraki birkaç yılı Pazzi ailesiyle Floransa'yı işgal etme planları yaparken, binayı Toskana stilinde yenilemekle geçirdi. Maalesef, bu ona kaçınılmaz sonundan önce konağın tadını çıkarmak için pek az zaman bıraktı.
 
 Komplo tersine dönerken, arşiv dokümanları Salviati'nin başpiskopos kıyafetlerini Floransa halkından biriyle değiştirdiğini söyler, daha sonra o konağına kaçarken kıyafetini değiştirdiği adam linç edilmişti.
 
-&nbsp;

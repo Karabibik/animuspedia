@@ -1,14 +1,12 @@
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/9qz98Z.jpg" alt="" width="166" height="302" />ACHILLES DAVENPORT</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/9qz98Z.jpg" alt="" width="166" height="302" />ACHILLES DAVENPORT
 Görünüşüne bakarak düşünmeyebilirsin ama bu adam, Suikastçıların çok güçlü bir dalının akıl hocasıydı - Koloni kardeşliği.
 
 Achilles'in Suikastçı olmadan önceki hayatı iyi kaydedilmemiş. Görünüşe göre Tapınakçılar 1763'te birliği nerdeyse yok ederken kayıtların çoğu yok edilmiş.
 
 Elimde olanlara göre, Achilles 1730'larda katıldı ve 1746'da akıl hocası oldu. Onun daha koloniler yayılan Suikastçıların ekibinin başı olmadan önce askerlik ve organizasyona dair bir yeteneği vardı. Achilles, tarikatla İrokua konfederasyonu ulusları arasındaki bağlantıları güçlendirdi, özellikle Kanien'kehá:ka, kayıtların gösterdiğine göre, Connor Suikastçı olan ilk Yerli Amerikalı.
 
-&nbsp;
-<h2>ALEXANDER HAMILTON</h2>
+## ALEXANDER HAMILTON
 Alexander Hamilton Amerikan Devrimi sırasında George Washington'ın en güvenilir danışmanlarındandı ve Birleşik Devletler'in ilk maliye bakanıydı.
 
 Hamilton 1757'de Karayipler’de doğdu ve 11 yaşında öksüz kaldı. Fakat zekâsı kendini erken gösterdi ve işverenleri üniversiteye gitmesi için aralarında para topladı. Ya bunu istiyorlardı ya da sadece onu başlarından atmak istiyorlardı. Hamilton 1773'de New York'a taşındı ve King's Collage'e (daha sonra Columbia University oldu) gitmeye başladı. 1774'den itibaren, asi yandaşı makaleler yazmaya başladı – Kral tarafından ad verilmiş bir okula gitmenin hevesinde değildi - ve 1775'in başlarında milislere gönüllü olarak katıldı. Ayrıca… Muhtemelen tam olarak sponsorları da onu göndermeden önce bunu düşünmemişlerdi.
@@ -21,8 +19,7 @@ Hamilton 1788'de New York Meclisinin bir üyesi oldu. Federal Hükümeti finanse
 
 Ama ettim. Çünkü önemsiyorum.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/7XJVEL.jpg" alt="" width="161" height="300" />ALTAÏR IBN-LA'AHAD</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/7XJVEL.jpg" alt="" width="161" height="300" />ALTAÏR IBN-LA'AHAD
 Altaïr Masyaf kalesinde, Suikastçı Tarikatı'nda doğdu. Küçük yaşları zorlu bir hayat içerisinde geçti - annesi onu doğururken ölmüştü. Sonra, genç bir erkekken, babası Masyaf'ın ilk kuşatılışı sırasında öldürüldü. Hemen arkasından, babasının hayatını kurtarmak için canını verdiği Suikastçı 11 yaşındaki Altaïr'in gözleri önünde intihar etti.
 
 Ebeveynlerinden yoksul kalan Altaïr Al Mualim'i - tarikatın gelecekteki Üstad'ını - bir baba figürü gibi görmeye başlamıştı. Al Mualim Altaïr'in potansiyelini fark etti ve onunla özel olarak ilgilenmeye başladı. Altaïr 25 yaşına geldiğinde Usta Suikastçı rütbesine ulaşmıştı - bu duyulmadık bir başarıydı. Eğer bir yerlerde bir Suikastçı Rekorlar Kitabı varsa, ön sayfada bu adamın resmi olmalı.
@@ -35,8 +32,7 @@ Altaïr'i böyle ölümcül bir Suikastçı yapan şeylerden biri bugün bizim "
 
 Eh, dürüst olalım. Burada benim vahşi cazibem ya da benim sıcak, içten sarılışlarım yüzünden olmadığını sen de biliyorsun.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/MgQP5M.jpg" alt="" width="158" height="303" />AMANDA BAILEY</h2>
+## <img class="alignright" src="https://i.hizliresim.com/MgQP5M.jpg" alt="" width="158" height="303" />AMANDA BAILEY
 Amanda Bailey, Amerika Devrimi sırasında Martha's Vineyard'da iyi tanınan ve sevilen bir hancıydı.
 
 1730'da Kuzay Carolina'da geniş bir ailenin en büyüğü olarak doğdu. Annesi, 14 yaşındayken öldü ve Amanda küçük kardeşlerine  çalışarak tek başına bakmak zorunda kaldı.
@@ -47,8 +43,7 @@ Raporlar, Faulkner'ın denize düşüp öldüğünü göstermesine rağmen Amand
 
 Amanda liderlik ve organizasyon yeteneğiyle doğmuştu. Bölgedeki ilk okulun kurulmasından sorumluydu - daha fazla iş getirmek için limanlardaki geliştirmeleri savunmasından bahsetmiyorum bile. Hanı, Devrim sırasında bir dedikodu merkeziydi, özellikle eğer en son gemi geliştirmelerini istiyorsan. Muhtemelen onun Vatanseverler için bir casus olduğunu duyunca şaşıracaksın ama bu 1919'da Benjamin Tallmadge'nin yazdığı şifreli notların da olduğu kişisel yazışmalarının bulunduğu bir kutu bulunana kadar açıklanmadı.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/kLQ13J.jpg" alt="" width="153" height="300" />AMIRAL DE GRASSE</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/kLQ13J.jpg" alt="" width="153" height="300" />AMIRAL DE GRASSE
 Francois Joseph Paul de Grasse Fransız donanmasında bir generaldi ve en çok, İngiliz güçlerinin Yorktown'daki orduya yetişip takviye almalarını engellediği Chesapeake Savaşı'ndaki zaferiyle tanınır.
 
 De Grasse bir Fransız asilzadesinin en küçük çocuğuydu. Dini/askeri Malta Tarikatı'nda ulak olarak 11 yaşında askeri yaşamına başladı. Fransız Donanması'na tam olarak 1740'ta katıldı. 1775 yılına gelindiğinde Kaptan olmuştu ve Saint Domingue'nun (şimdi Haiti) güvenliğini koruyarak Fransızlar'da kalmasını sağlamıştı - bu o zamanlar için önemli bir başarıydı muhtemelen.
@@ -61,8 +56,7 @@ Sanırım ‘kahraman’ ya da ‘gaddar’ olman yalnızca bakış açısı mes
 
 Peh, kimse pattis demez.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/o85YPX.jpg" alt="" width="156" height="302" />BENJAMIN CHURCH</h2>
+## <img class="alignright" src="https://i.hizliresim.com/o85YPX.jpg" alt="" width="156" height="302" />BENJAMIN CHURCH
 Benjamin Church yetenekli bir hekim ve esasen Amerikan Ordusu'ndaki ilk bas doktordu.
 
 Church Rhode Island'da doğdu, ve 1754'te Harvard Üniversitesi'nden mezun oldu -yani burada henüz yeni mezun. 1775'te Kıta Ordusu'nun tıbbi kanadının başına geçirilecekti ancak tanrı aşkına ona bunun onu sarhoşa çevireceğini söyleme.
@@ -85,8 +79,7 @@ Bu esnada yeni kurulan Amerikan hükümeti onun pahalı mülküne el koydu ve sa
 
 İhanet konusuyla ilgili- İngilizler'i satması onu Tapınakçılar için de bir haine dönüştürdü. Bunun inanılmaz derecede cesurca mı yoksa son derece aptalca mı olduğuna karar veremiyorum. Church'ün akıbeti göz önüne alındığında, ben ikinci seçeneği değerlendiriyorum. O kendine ihanet eden birinden farksızdı (tabi eğer diğer Church, ilk Church'e yeterince iyi ödediyse.).
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/yoWA8n.jpg" alt="" width="156" height="300" />BENJAMIN FRANKLIN</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/yoWA8n.jpg" alt="" width="156" height="300" />BENJAMIN FRANKLIN
 Benjamin Franklin meşhur bir mucit, diplomat ve Bağımsızlık Bildirgesi'ni imzalayanlardan birisiydi. Yani çevirisi: o çağının bir rock yıldızıydı.
 
 Benjamin Franklin 1706'da Boston'da doğdu, bir sabuncunun onuncu oğlu olarak. On Oğul! Sanırım ailesinin bir televizyon bile almaya parası yetmezdi ve ayrıca, o zamanlar televizyon yoktu.
@@ -105,16 +98,14 @@ Aynı zamanda tam bir çapkındı - Yüce İsa. Bu adam - Avrupa'dayken kadınla
 
 (Eğer bu doğru olsaydı burada olmazdım. Portekiz'de etrafım onlarla sarılmış olurdu ve sen de şimdi boş bir ekrana bakıyor olurdun.)
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/NgX96g.jpg" alt="" width="143" height="302" />BENJAMIN TALLMADGE</h2>
+## <img class="alignright" src="https://i.hizliresim.com/NgX96g.jpg" alt="" width="143" height="302" />BENJAMIN TALLMADGE
 Benjamin Tallmadge Devrim Savaşı sırasında Kıta Ordusu'nun İstihbarat biriminin başındaydı. İngilizler ise, elbette, bunu bir tezat olarak görüyordu.
 
 Tallmadge New York doğumluydu ancak devrimden önce Connecticut'a yerleşmişti. George Washington tarafından istihbarat biriminin başına geçmesi önerilmeden önce askeriyede önce Teğmen, sonra da Binbaşı olarak görev yapmıştı. Tallmadge New York'taki bağlantılarını kullanarak, New York'taki İngiliz hareketlerini gözlemleyen ve raporlayan bir casuslar takımı olan Culper Zinciri'ni kurdu. Bağlantılarının ayrıca Benedict Arnold'ın ihanetini de ortaya çıkarmış olmaları mümkündür, ancak bu kesin değildir.
 
 Savaşın ardından, Tallmadge Connecticut'a dönerek bir tüccar ve politikacı oldu. 1801 yılında Temsilciler Meclisi'ne seçildi.
 
-&nbsp;
-<h2>CASIMIR PULASKI</h2>
+## CASIMIR PULASKI
 Casimir Pulaski (ya da Polonya yazısını kullanırsak, Kazimierz Pulaski) Amerika Devrimi sırasında asilerin tarafında yer alan süvari lideri olan soylu bir Polonyalıydı.
 
 Pulaski, 1760 sonları ve 1770 başlarında Polonya direnişinde bir savaşçıydı. Onun için ne yazık ki kaybeden taraftaydı ve Fransa'ya kaçmak zorunda kaldı. Zavallı adam. Fransa'ya kaçmak zorunda kalmak. Orada, asi savaşında yardım edebilecek deneyimli askeri komutan arayan Benjamin Franklin ile tanıştı. Franklin, Pulaski'yi George Washington'a göndermek için hiç vakit kaybetmedi.
@@ -123,8 +114,7 @@ Pulaski, 1777'de Kıta Ordusu'na katıldı ve hemen Brandywine savaşında, Geor
 
 Üst subaylarıyla bir kaç gerilimden sonra Pulaski, görevinden istifa etti ve başka bir yerde "Pulaski'nin Birliği" adını alan, mızraklı ve piyade eğitmesine izin verildi.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/ZQ6Ag3.jpg" alt="" width="238" height="302" />CHARLES LEE</h2>
+## <img class="alignright" src="https://i.hizliresim.com/ZQ6Ag3.jpg" alt="" width="238" height="302" />CHARLES LEE
 Charles Lee Devrimci Savaş'ta çok önemli bir figüre sahip İngiliz bir askerdi.
 
 Lee'nin babası İngiliz ordusunda bir albaydı ve oğlunun askeri kariyerine erkenden başlamasına sebep oldu. Gelişme çağındayken İsviçre’ye harp okuluna gönderildi, daha sonra 1746'da, Lee babasının alayında bir asteğmen oldu.
@@ -157,8 +147,7 @@ Washington askeri mahkemeyi seçti ki bu hiç de Lee'nin umduğu gibi olmadı. "
 
 Lee emekli olarak Virginia'ya taşındı ve zamanını daha fazla köpek üreterek geçirdi.  Ölümünden sonra onun için askeri bir cenaze töreni düzenlendi ve -öldükten sonra isine yaramayacak olan- istediği saygıyı gördü.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/R9AbLY.jpg" alt="" width="200" height="302" />DANIEL BOONE</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/R9AbLY.jpg" alt="" width="200" height="302" />DANIEL BOONE
 Daniel Boone, yeteneği ve şansının da yardımıyla, Amerikan hudutları içerisindeki öykülerde yarı-mistik bir figür haline gelen bir avcıydı.
 Boon Pennsylvania'da doğmuş, 1752 yılında ailesiyle beraber Kuzey Carolina'ya taşınmıştı. Sık sık avlanmak ve tuzak kurmak için hudutları dolaşırdı, bu da günümüzde tüm Kuzey Carolina, Florida ve Kentucky içlerine denk geliyor (liste uzayıp gidiyor ama ben burada keseceğim, ne de olsa bunlar yalnızca yer isimleri, bir süre sonra bıkkınlık veriyor).
 
@@ -168,8 +157,7 @@ Ancak Boone 1775 yılında, Transylvania Şirketi tarafından sonraları "Bakir 
 
 Boone sonraki yıllarda daha da ünlenmişti, ancak bu yaşadığı maceralarla değil (ki ÇOK fazlasını yaşamıştır, bazılarını sana da anlatacağından eminim), hakkında yazılan kitaplarla olmuştu - bunların bazıları çoğunlukla... şey, tarihsel yanlışlıklarla dolulardı diyelim. Bir tanesinde on sekiz metre boyundaki bir balık-insanla boğuştuğunun yazdığı geldi aklıma. Gerçekte Boone tecrübelerini bir bin katacak biri değildir - belki de insanlar bu yüzden bunu kendileri yapmışlardır.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/q80m1Z.jpg" alt="" width="160" height="301" />DAVID VE RICHARD CLUTTERBUCK</h2>
+## <img class="alignright" src="https://i.hizliresim.com/q80m1Z.jpg" alt="" width="160" height="301" />DAVID VE RICHARD CLUTTERBUCK
 David ve Richard Clutterbuck, 18. yüzyılın ortasında başlayan Tüccar Donanması'nda topçuydular. Şöhretlerine bakılırsa, bu ikisi başka şeylerin aksine dostlar arasındaki yumruk kavgasına karşı değillermiş -bu yüzden onlarla konuşurken isimlerini karıştırmamaya çalış. David büyük olan kardeş, Richard küçük olan. Oh ve kesinlikle soy isimleriyle dalga geçme.
 
 Clutterbuck'lar David ve Richard daha küçükken Londra'ya taşınmış olan Hollandalı bir aileydi. Babaları bir liman işçisiydi, bu yüzden bu iki kardeş limanların yakınında (ve içinde) zaman geçirmek ve para kazanmak için ayak işleri yaparak büyüdüler. Dövüşmek için bir eğilim gösterdiler - eğer istersen sempati de diyebilirsin.  İki kardeş Robert Faulkner ile birlikte Stelward gemisinde mürettebata katıldılar ve 1753'te ortadan kaybolana kadar onunla çalıştılar.
@@ -182,8 +170,7 @@ Clutterbucks'lar yıllarca tüccar ve korsan yelkenlilerinde seyahat ettiler - n
 
 Bu şakayı sonra açıklarım.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/v8GQdA.jpg" alt="" width="147" height="300" />EDWARD BRADDOCK</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/v8GQdA.jpg" alt="" width="147" height="300" />EDWARD BRADDOCK
 Edward 'Bulldog' Braddock, Fransız ve Kızılderili savaşında arkerlerin başında olan öncelikli generaldi, muhtemelen 'Bulldog' rumuzu olduğu için.
 
 Braddock, Kuzey Amerika'da komuta teklifi geldiğinde Gibraltar'da vekil valilik yapıyordu. Ona, iki düzenli ordu alayı kontrolü verildi ve kıtadaki Fransız kolonilere yapılacak daha büyük bir saldırının parçası olarak, Duquesne Kalesi'ni Fransızlardan geri almaya atandı (Braddock Seferi olarakta bilinir).
@@ -198,8 +185,7 @@ Onu savaş alanından fularıyla taşıyan George Washington'du - bu Braddock'un
 
 İşte ilginç bir şey - düşman askerlerinin Braddock'un vücudunu kirletmesi endişesi yüzünden, yolun altına gömüldü, böylece vagonlar toprağın üstünden geçebilecek ve mezarı saklayabilecekti.  1804'de, yol işçileri kalıntıları keşfetti ve bir mermer anıtın olduğu başka bir bölgeye taşındılar.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/gVg4z0.jpg" alt="" width="192" height="300" />EZIO AUDITORE</h2>
+## <img class="alignright" src="https://i.hizliresim.com/gVg4z0.jpg" alt="" width="192" height="300" />EZIO AUDITORE
 Ezio Auditore da Firenze İtalyan Rönesansı sırasında, "Kartal Görüşü" adındaki gizemli yeteneğinin mirasçısı olmakla birlikte, bir Usta suikastçi ve senin atalarından biriydi.
 
 Ezio, gençlik yıllarında biraz çapkın biriydi, fakat hayatı 1476'da, babası ve kardeşleri ihanetten tutuklanıp idam edildiğinde değişti. Ezio onları kurtarmaya çalıştı - ama isimlerini temize çıkaran belgeler bir aile 'dostunun' elinde gizemli bir şekilde kayboldu. Aklanmak yerine, Ezio izlerken asıldılar.
@@ -215,9 +201,7 @@ Sonraki 20 veya daha fazla yıl boyunca, Ezio İtalyan Suikastçi Kardeşliğini
 Ayrıca zıplamakta da harikaydı.
 
 Ezio 1524'te Floransa'da öldü.
-<h2></h2>
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/5m0or5.jpg" alt="" width="170" height="303" />GEORGE WASHINGTON</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/5m0or5.jpg" alt="" width="170" height="303" />GEORGE WASHINGTON
 İşte senin bile tanıyabileceğin bir isim - George Washington, Amerikan Devrimi sırasında orduya komuta eden ve Amerika Birleşik Devletleri'nin ilk Başkanı olacak adam.
 
 Sana söyleyeceğim her şeyi zaten biliyor olduğunu söylerdim ama bu yalan olur. Bildiğin, George Washington'ın ölümünden sonra ona yakıştırılan bir çok şey olduğu ve gerçek hayatta karşına hiç çıkmayacağını düşündüğün için okulda öğrendikten sonra unuttuğun diğer her şey. (Şimdi tarih hocanı arayıp ona başından beri haklı olduğunu söyleyebilirsin.)
@@ -250,8 +234,7 @@ Elbette, Washington'ı eleştirecek bir şey arıyorsan çok uzağa bakmana gere
 
 Oh, onu kötülemiş gibi mi oldum? Kusura bakma. Burada sana tarih öğretmek için varım, vatan aşkını pohpohlamak için değil.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/G27pQb.jpg" alt="" width="160" height="300" />ISRAEL PUTNAM</h2>
+## <img class="alignright" src="https://i.hizliresim.com/G27pQb.jpg" alt="" width="160" height="300" />ISRAEL PUTNAM
 Israel Putnam (daha şefkatle "Yaşlı Put" olarak bilinir) Bağımsızlık savaşı tarihinin efsanevi bir simgesiydi ve muhtemelen en bilindik asker - birazcık da halk kahramanı, canın isterse.
 
 Putnam Massachusetts'de doğdu ama tarlalarda çalışmak için Connecticut'a taşındı.  Kolonideki son kurdu öldürerek saygınlık kazanmış – bir tüfek, meşale ve geri çıkarılmak için ayaklarına bağlı bir iple hayvanın inine girdi. Kurtları gerçekten sevmezdi. Oh, ve sanırım onun bir halk kahramanı olduğundan bahsetmiştim? Bu sadece bir kısmı.
@@ -264,16 +247,14 @@ Washington Putnam'ın liderliğine dair büyük umutları vardı ve Long Island 
 
 En azından sigaraları vardı.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/O9b3nn.jpg" alt="" width="160" height="299" />JAMES BARRETT</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/O9b3nn.jpg" alt="" width="160" height="299" />JAMES BARRETT
 James Barrett Concord'da asi milislerin bir albayıydı ve bağımsızlık savaşının başladığı yıllarda Boston parlamentosu'ndaki kasabanın delegesisiydi.
 
 Barrett milislerin başı olma makamını tam olarak istemiyordu. Savaş başladığında 65 yaşındaydı. Piposunu ve terliklerini hazırlamış ve muhtemelen sadece oyun şovları izlemek istiyordu. Ne yazık ki, kaynakları kısıtlı olan deneyimli komutanlar ve Barrett Fransız - Kızılderili Savaşında mücadele etti - yani albay da.
 
 İngilizler Lexington ve Concord'a geldiğinde asilerin silah zulalarını arıyordu, birlikler Barrett Çifliğine doğru yola çıkmış ve burada malzemelerin büyük bir kısmını bulabilecekleri söylenmiş. Tabii ki, onlar gelmeden önce silahların birçoğu alınıp başka bir yere saklanmış. Barret'da orada değildi. Biraz uzaktaydı, milisleri Kuzey Köprüsü'ne ilerlemeleri için organize ediyordu - ve Concord'daki nihai zaferi gözetiyordu.
 
-&nbsp;
-<h2>JOHN FRASER</h2>
+## JOHN FRASER
 John Fraser (Ayrıca Frazer ya da Frazier olarak da telaffuz edilir) Fransız - Kızılderili Savaşı sırasında Fort Duquesne civarında yaşayan ve Braddock Seferi'ne katılanlardan biri olan, aslen İskoçyalı bir tüccardı.
 
 Fraser 1745 yılından sonra bir zaman, büyük ihtimalle politik nedenlerden ötürü (Fraser'lar bir isyanla devrilen Stuart'ları destekliyordu) İskoçya'yı terk etti. Allegheny nehrinin üst kısımlarında ticarete başladı ancak kısa süre sonra Fransızlar tarafından karavanı elinden alındı. Nehir boyunca aşağı indi - günümüz Pittsburgh sınırlarına kadar, yeniden bir karavan inşa etti ve tekrar ticarete başladı.
@@ -282,8 +263,7 @@ Fraser, Fransızlar - tekrar - geri almadan önce Fort Duquesne bölgesinde (ken
 
 Braddock'ın başarısızlığının ardından Fraser bölgeden ayrıldı - Fransızlar onu bölgesinden üçüncü kez kovmuşlardı, bu onlar için pek zor olmamıştı bana kalırsa. Tuscarora vadisine yerleşti ve nihayet Fort Bedford'ı inşa etti.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/aMvyJ2.jpg" alt="" width="155" height="303" />JOHN HANCOCK</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/aMvyJ2.jpg" alt="" width="155" height="303" />JOHN HANCOCK
 John Hancock Devrim Savaşı öncesinde Boston'da Liberal Parti lideriydi ve sonunda Bağımsızlık Bildirgesi'nin yayınlanacağı İkinci Kıta Kongresi'ne Başkanlık etmişti. Çok etkileyici değil mi? Ancak hepsinden etkileyicisi, soyadının argoda ‘imza’ kelimesi yerine kullanılarak sonsuza kadar yaşayacak olmasıydı. İşte efsane diye buna derim. Ben de bir gün “Shaun” kelimesinin gençler tarafından görmüş geçirmiş ince bir gülümsemeyi anlatmak için kullanılacağını hayal ediyorum. Umut fakirin ekmeği.
 
 Hancock Massachusetts'te bir Papaz'ın oğlu olarak dünyaya geldi, ancak babası genç yaşında ölünce John Beacon Hill'e, amcasının yanına gönderildi. Thomas Hancock başarılı bir gemi işi yürütüyordu, 1764 yılında öldüğünde yerine John geçti.
@@ -296,16 +276,14 @@ Bunun nedenini açıklamamalıyım, kulağa biraz pis geliyor!
 
 Ama yapacağım: bir penis referansına benziyor.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/YWyj2k.jpg" alt="" width="227" height="299" />JOHN PARKER</h2>
+## <img class="alignright" src="https://i.hizliresim.com/YWyj2k.jpg" alt="" width="227" height="299" />JOHN PARKER
 John Parker Lexington birliklerinden sorumlu Yüzbaşı'ydı, bu aynı zamanda onu Lexington ve Concord'da yapılan savaşları da komuta eden adam yapıyordu.
 
 PArker bir çiftçiydi, ancak Fransız - Kızılderili Savaşı'nda bulunduğundan dolayı o sırada tüberküloz hastası olmasına rağmen askeri birliklerin başına getirildi. Parker Boston Kuşatması sırasında Kıta Ordusu'na katıldı, ancak Bunker Hill savaşına katılamayacak kadar hastaydı.
 
 Parker Eylül 1775'te öldü. Lexington çayırındaki Gönüllü heykelinin onun anısına olduğu söylenir - Parker'ın bilinen hiç resmi olmasa da, yarım yamalak bir benzerlik olduğu söylenebilir. Önemli olan niyet.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/VXOg5B.jpg" alt="" width="159" height="300" />JOHN PITCAIRN</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/VXOg5B.jpg" alt="" width="159" height="300" />JOHN PITCAIRN
 1754'te, John Pitcairn İngiliz Deniz Piyadelerinde genç bir kaptandı. Fransız ve Kızılderili savaşlarında yer aldı, ama kayıtları hakkında fazla bir şey bulamıyorum. Louisburg'un işgali sırasında -burası Kanada'da- HMS Lancaster'da olduğu kaydedilmiş.  Kolonilerin 'Amerikan' tarafında olduğuna dair bir kayıt yok ama görünüşe göre bir kaç gizli görev yapmış - bu detay azlığını açıklıyor.
 
 Pitcairn, 1771'de Binbaşılığa yükseltildi ve astları tarafından popüler olmasından ve düşmanlarının onu övmesinden kaynaklanan bir ün kazandı. Bu başarılması zor bir numara. Belki de tatlı bir gülümsemesi vardı.
@@ -320,8 +298,7 @@ Pitcairn'in raporunda, onun askerlerine ilk asiler ateş etmezse ateş etmemeler
 
 Pitcairn'in Lexington ve Concord'a asilerin silahlarına el koymaya mı yoksa o sırada Lexington'da saklanan John Hancock ve Samuel Adams'ı bulup tutuklamaya mı gittiği tartışılmaktadır. Muhtemelen ikisinden de biraz. Pitcairn'in hikayesi Adams ve Hancock'u bulup onlarla görüşmek istemesidir - ve o bunun için ideal kişiydi. Hala neden arkasındaki orduyla ateşkes görüşmesi yapmaya çalıştığını anlamıyorum. Sanki yanlış bir mesaj veriyor, sence de öyle değil mi?
 
-&nbsp;
-<h2><strong><img class="alignright" src="https://i.hizliresim.com/dZrWzp.jpg" alt="" width="170" height="300" />KANEN'TÓ:KON</strong></h2>
+## <strong><img class="alignright" src="https://i.hizliresim.com/dZrWzp.jpg" alt="" width="170" height="300" />KANEN'TÓ:KON</strong>
 Ratonhnhaké:ton'un bir arkadaşı da aynı köydendi. İki çocuk aynı yaştaydı ve aynı kabilenin üyesiydi: bu onları aralarındaki bağ uzak olsa bile kuzen yapıyordu. Çocuklar, küçüklükleri boyunca ayrılmadı, Kanen'tó:kon ikisinin daha muhafazakarı olduğundan, Ratonhnhaké:ton onların başını belaya sokan kişiydi ve Kanen'tó:kon bundan kurtulmaya çalışırdı.
 
 **
@@ -332,8 +309,7 @@ Tabii ki, Connor suikastçi olmak için ayrıldığında, o ve eski arkadaşı b
 
 Anlaşmazlıkları Kanen'tó:kon, Connor'u Kraliyet yanlıları'nın köylerine bir saldırı planı bilgisiyle yüzleştirdiğinde doruğa ulaştı. Ardından gelen savaşta, Connor arkadaşını öldürmek zorunda kaldı. Bunun olması çok rahatsız edici!
 
-&nbsp;
-<h2><strong><img class="alignleft" src="https://i.hizliresim.com/XqGD75.jpg" alt="" width="172" height="300" />KANİEHTÍ:İO</strong></h2>
+## <strong><img class="alignleft" src="https://i.hizliresim.com/XqGD75.jpg" alt="" width="172" height="300" />KANİEHTÍ:İO</strong>
 Kaniehtí:io, Kanien'kehá:ka ulusunun, Fransız ve Kızılderili savaşında Boston'un önlerinde yaşayan bir üyesiydi. Suikastçi kayıtları onun Iakoiá:ner'in, yada Kabile Annesi'nin kızı olduğunu ve liderlik için eğitildiğini gösteriyor.
 
 Halkı, Koloniciler tarafından bölgeye yapılan baskınları, Fransız ve İngiliz arasındaki yükselen tansiyonu görmezden gelirken, Kaniehtí:io, onların çok büyük bir tehlike olduğunu anladı.  Sessiz kalmak yerine, köyün bir şeyler yapmasını isteyen herkesle konuşmaya başladı - bu o zamanlar kabile şeflerinin istediği şeyin tam tersiydi. Onların tarafsız kalma emirlerini kendi yoluyla savaşmaya karar vererek reddetti ve bulabildiği yardımı toplamaya başladı - Haytham Kenway dâhil.
@@ -348,14 +324,12 @@ Tapınakçıların 1760'ta neden saldırdıkları ve amaçlarının ne olabilece
 
 Şey - bu biraz daha anlam katıyor. Görünüşe göre köyün yakılmasının ardındakiler Tapınakçılar değildi. Bunun için George Washington'a teşekkür edebilirsin. Sanırım Washington'ın askeri kariyerindeki bu parça tarih kitaplarınızda yer edememiş. Gerçi çok fazla şey edemiyor…
 
-&nbsp;
-<h2>LOUIS MILLS</h2>
+## LOUIS MILLS
 Louis Mills biz İngilizlerin iyimser bir biçimde 'Güneşli Brighton' dediğimiz yerde bir güverte tayfasından biriydi. Denize olan aşkını yine bir denizci olan babasından aldı. Babası, genç Louis'i ilk kez Windward ismindeki Londra'dan Boston'a giden bir gemide 10 yaşındayken genize çıkardı.
 
 Büyüdükçe, Mills dünya çapında seyahat ederek ve güvenilir mantıklı bir denizci olarak saygı kazanarak, tüccar denizci olarak çaışmaya devam etti. 1752'de Providence tayfasına katıldı, çeşitli zorluklara rağmen kaptan ve tayfayla kaldı - Oysa 1755'te hayatına devam etmeyi düşünüyordu.
 
-&nbsp;
-<h2>MARQUIS DE LAFAYETTE</h2>
+## MARQUIS DE LAFAYETTE
 Daha çok bilinen adıyla "Lafayette" ve şaşırılmayacak şekilde - tam adı "Marie Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette". Kartvisitleri herhalde üç feet uzunluğundaydı. Lafayette Bağımsızlık savaşına katılan ve George Washington'ın en sadık destekçilerinden olan Fransız bir aristokratdı. (Eminim arkadaşları onu sadece MJ diye çağırıyordu.)
 
 Lafayette savaşa katılmak niyetiyle 1777'de kolonilere geldi. Öyle bir niyet ki, aslında, bunun için Fransız Ordusundaki makamını terketmiş. Fransız Ordusu onun planlarını öğrendiği zaman, denize açılmayı planladığı gemisi bağlanmış ve bir hikayeye göre, Lafayette New York'a giden başka bir gemiye kadın kılığında kaçak olarak binmiş. Hepimiz yaptık bunu.
@@ -372,8 +346,7 @@ Savaştan sonra, Lafayette Fransa'ya döndü ve Fransız Devrimi'nin başlangı�
 
 İşte sana tam bir Fransız.
 
-&nbsp;
-<h2>MASON LOCKE WEEMS</h2>
+## MASON LOCKE WEEMS
 Mason Locke Weems (sonraları Parson Weems olarak bilinir) gezici bir kitap satıcısı, yazarlık ve editörlük yapmaya başlamış eski bir mahalle papazıdır. İlk 1800'de yayımlanmış George Washington'ın Hayatı biyografisiyle en yüksek ününe kavuşmuştur. Kısaca Vernon Dağı cemaatinin papazıydı ve George Washington'ı da kendi cemaatinden biri olarak görüyordu.
 
 Weems çok renkli bir karakterdi ve birazcık da hilekardı - her zaman anlatacak bir hikayesi vardı, bir çoğu tamamen asılsız - ya da çok abartılmıştı. Genç George'un babasının ödüllü kiraz ağacını kestiğini cesurca itiraf ettiği o çok bilinen hikayeyi de Weems'in Washington Biyografisinden biliriz. Weems o hikayeyi "şüphe edilmeyecek kadar çok gerçek" olarak yazmış ama "şüphe edilmeyecek kadar çok gerçek" deyişinin şüphe edilecek kadar gerçek olup olmadığını kim bilir...
@@ -381,7 +354,7 @@ Weems çok renkli bir karakterdi ve birazcık da hilekardı - her zaman anlataca
 Weems ayrıca Benjamin Franklin, Francis Marion ve William Penn'in de biyografilerini yazarak - üstelik, asıl gerçeklikten daha eğlencelidir. İyi satmıştır yine de - magazin gazetelerine giden yolunu çiziyordu.
 
 <strong> </strong>
-<h2><img class="alignleft" src="https://i.hizliresim.com/zlZ2vR.jpg" alt="" width="158" height="301" />NICHOLAS BIDDLE</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/zlZ2vR.jpg" alt="" width="158" height="301" />NICHOLAS BIDDLE
 Nicholas Biddle Kıtasal Donanmanın ilk kaptanlarından biri olan genç, hırslı bir denizciydi.
 
 Biddle Kraliyet Donanmasına 1770'de katıldı (Yani demek istediğim İngilizlerin tarafına), ama Amerikan Devrimi başladığında hizmetini Kıtasal Kongre'ye sundu. Yani bir hain, o halde - Aslında, çoğunlukla bunu böyle görmemeniz çok tuhaf. Neyse, İngilizler için sadece bir deniz asteğmeniyken, Kongre hemen ona kendi gemisinin komutasını verdi, The Franklin. 1776'de daha iyi bir anlaşma teklif edildi - kendisine yepyeni bir geminin komutası, Randolph.
@@ -390,24 +363,21 @@ Biddle'ın şöhretindeki yükselişin arkasındaki sebepler hakkında tarih dil
 
 Biddle zamanla Kıtasal Kongre'den izinli bir korsan oldu ve İngiliz gemi rotalarında devriye gezerek gemilerini taciz etti ve yakalayabildiklerinin de yüklerini aldı. Mükemmel bir kaptan olarak saygınlığı vardı - ganimetleri eşit bir şekilde paylaşır ve asla tayfalarına işkence cezası vermezdi. Ne yufka yürekli ama. Merhametli, gerçekten. Yine de sanırım neden bunun bir iş ikramiyesi olabileceğini görebilirsin.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/3j51B9.jpg" alt="" width="153" height="302" />PAUL REVERE</h2>
+## <img class="alignright" src="https://i.hizliresim.com/3j51B9.jpg" alt="" width="153" height="302" />PAUL REVERE
 Paul Revere'nin geceyarısı gezisini duymuş olman lazım, tabii ki – 18 Nisan 1775'de Lexington ve Concord'u gelen askeri saldırı için uyaran birkaç atlıdan biriydi. Devrimde Revere'nin rolü bundan daha büyüktü, aslında. Özgürlüğün Çocukları ve Kıtasal Kongrenin bir üyesiydi, ayrıca Boston Çay Partisi'ne katılanlardan biriydi.
 
 Mesleken, Revere bir gümüş kuyumcusuydu ve kolonilerdeki en yetenekli zanaatçılardan biriydi. Ayrıca bakır kaplama oymacılığı yaptı – en dikkat çekicisi, İngiliz askerlerinin silahsız kalabalığa yakından ateş ettiğini tasvir ettiği Boston Katliamı resmi. Çok etkili bir propaganda parçası. Bu günlerde bakır levha propaganda pek almazsın. Yok olan bir sanat.
 
 Revere ayrıca uyanık bir işadamıydı ve para neredeyse oraya giderdi. Gümüş işçiliği faturalara yetmediği zamanlarda, dişçilik aletleri yaptı ve Devrim sırasında barut kıtlığı olduğu zamanda barut yaptı, bir barut imalathanesi inşa etti. Savaş bittikten sonra Revere çan imal ederek işlerini büyüttü, neticede King's Chapel'de asılı duran çanı yaptı, Boston'un işaretlerinden biri.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/LgMY70.jpg" alt="" width="177" height="300" />REGINALD BIRCH</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/LgMY70.jpg" alt="" width="177" height="300" />REGINALD BIRCH
 Reginald Birch Londralı bir tüccarın Londralı bir tüccar olan oğluydu (Şaşırdın değil mi? Bu da herhalde şu aile içi garip olaylardan biri).
 
 Birch genç yaşlarında kendi işini kurdu. 20'li yaşlarının ortalarında Amerikan kolonileri ile çay ticareti yapan birkaç ticaret gemisine sahip olmuştu bile. O zamanlar 20'li yaşlarındaki birçok insanın sırtına giyecek bir gömleği bile olmadığını düşünürsek bu oldukça büyük bir başarıydı. İlerleyen zamanlarda Birch Londra içinde ve etrafında irili ufaklı birçok başka iş de kurmuştu. Londra'da üyelerinin çoğunluğunu tanınmış, şehrin ünlü simalarının oluşturduğu gösterişli bir Erkekler kulübü olan "Beyazlar" üyesiydi.
 
 Kestirebildiğim kadarıyla Birch Haytham Kenway babası Edward için çalıştığı sıralarda tanışmış olmalı. İki erkek Haytham hâlâ oldukça genç iken Beyazlar'da tanıştı. Sonraları Birch Haytham'ın eğitimini üstlendi - 1730lu yıllarda Avrupa'ya yaptıkları gezilerde ona rehberlik etti. Animus'tan gördüğüm kadarıyla arkadaşlıkları gençliklerinde de devam etti - Suikastçılar olarak birlikte çalıştılar.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/QY54Ej.jpg" alt="" width="183" height="302" />ROBERT FAULKNER</h2>
+## <img class="alignright" src="https://i.hizliresim.com/QY54Ej.jpg" alt="" width="183" height="302" />ROBERT FAULKNER
 Robert Faulkner muhtemelen Suikasçilerin Donanması'ndaki en çok sözü edilen üyesiydi - yine de resmi olarak hiçbir zaman ikinci kaptanlıktan daha yükseğe ulaşamadı.
 
 Robert Faulkner ailesinde denizci olan dördüncü jenerasyondu (Bunu sesli söylemediğime memnunum) - ama ailesinde Suikastçiler için çalışan ilk jenerasyondu. İlk Kraliyet Donanmasında işe başladı, ama kariyerini ilerletemedi (bu, bir parça komisyon alamamasından kaynaklandı), oradan Birleşmiş Tüccarlar Şirketi'nde çalışmak için ayrıldı.
@@ -418,8 +388,7 @@ Faulkner bir denizci olarak çok aranıyordu - onu işe almak Kardeşlik için b
 
 Faulkner 1768'de neredeyse yok edilene kadar Aquila'da hizmet verdi, her zaman kaptan olması istendiğinde erteledi - asla sebebini söylemedi. Yine de, gemiye olan sevgisi çok dokunaklıydı - Tekrar denize açılması şüpheli olmasına rağmen Boston'un yakınındaki kendi yerine çektirdi. Faulkner başka bir gemiyle denize geri dönebilirdi, ama yapmadı - Hep arızalı olan Aquila'nın yanında kaldı ve kendini içkiye verdi, Connor onu orada buldu.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/82O901.jpg" alt="" width="182" height="299" />ROBERT NEWMAN</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/82O901.jpg" alt="" width="182" height="299" />ROBERT NEWMAN
 Robert Newman İsa Kilisesi'nin (günümüzdeki adıyla Eski Kuzey Kilisesi) zangoçuydu ve Paul Revere'in yakın dostuydu. Çan kulesine astığı fenerlerle Lexington ve Concord'a doğru ilerleyen İngilizler'in hareketini Charlestown'daki süvarilere haber veren Newman'dı. İki fener - böylece İngilizlerin denizden geldiği anlaşılabilecekti.
 
 Öte yandan Newman'ın gizli planında bazı aksaklıklar vardı. Ailesinden kalan evi bir konaklama evi olarak kullanılıyordu ve bazı İngiliz subayları orada kalıyordu. Newman yorgun olduğunu ve yatacağını söyleyerek onlardan kurtuldu, karton gibi bir şeyden yapılmış küçük bir pencereden dışarı süzüldü. Arkadaşı John Pulling ona fenerleri çan kulesine çıkarmasında yardım ederken üçüncü bir kişi de kilise kapısını gözlüyordu.
@@ -428,8 +397,7 @@ Newman daha sonra o gecedeki hareketlerinden dolayı sorgulanmıştı - muhtemel
 
 Newman şehre döndüğünde tekrar zangoç olarak eski işine döndü. Kilise mahzenini turistlere gezdirmek için para aldığına dair kanıtlar vardı - bu gezilere John Pitcairn'in naaşını göstermesi de dahildi. Bunun 1788 yılında Newman'ın yerine başka bir zangoçun işe başlamasıyla bir alakası olabilir belki.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/W9z6A4.jpg" alt="" width="148" height="302" />SAMUEL ADAMS</h2>
+## <img class="alignright" src="https://i.hizliresim.com/W9z6A4.jpg" alt="" width="148" height="302" />SAMUEL ADAMS
 Samuel Adams bir Boston avukatı, Bağımsızlık Bildirgesi'ni imzalayanlardan ve Amerikan Devriminin yükseldiği zamanların önde gelen siyasi bir simgesiydi. Sanırım bu senin küçük hayatına bir bakış açısı vermiştir, değil mi?
 Adams Massachusetts'de doğdu, zengin bir tüccar olan başka bir Samuel Adams'ın oğlu olarak. Adams (daha genç olan) Harvard'a gitti, 1740'da mezun oldu. Kendi işini kurdu ama bu kederli bir başarısızlıktı ve aile bira fabrikasında işe girmekle sonlanmıştı. Birçok insan işleri başarısız olduğunda bira fabrikalarında çalışmaya başlardı ama tercihen başka bir şekilde. Bu onun tarihi mirası için iyiydi, çünkü onun birayla olan ilişkisi birçok Amerikalının onu tanıması için tek yoldu belki.
 
@@ -441,9 +409,7 @@ Ancak, Adams'ın saygınlığı sorun çıkaran birisi olduğu için anlaşılab
 
 Adams kötü şöhreti yüzünden 1775'de Lexington'a gitmek için Boston'dan ayrılmak zorunda kaldı - Onu baş belası olarak gören İngilizlerden kaçmak için. Boston Kuşatması başladığında Massachusetts valisi silah bırakan asilerin affedileceğini söyledi - Adams HARİÇ, ve John Hancock. Genel olarak, Adams İngiliz tarafı için tam bir belaydı - buna rağmen neden bazı Amerikalıların asabi bir devrimci olmayı kötü bir şey olarak görmeleri beni hayrete düşürüyor. Bugün neredeysen şimdi de ordasın, değil mi?
 Aslında, bekle, evet - belki buna rağmen neden bahsettiklerini belki anlayabilirim.
-<h2></h2>
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/D618V3.jpg" alt="" width="155" height="302" />SAMUEL PRESCOTT</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/D618V3.jpg" alt="" width="155" height="302" />SAMUEL PRESCOTT
 Paul Revere ve William Dawes Lexington'dan ayrılıp Concord'a giderken, yanlarına Concord'lu genç bir doktor, Samuel Prescott katıldı. Prescott bir anti-İngiliz gece yürüyüşü olan
 Özgürlüğün Çocukları grubu üyesiydi.
 
@@ -453,8 +419,7 @@ Prescott o gece nişanlısını görmek için Lexington'daydı - sanırım görd
 
 İşte söyleyeceğimi hiç düşünmediğim üç kelime.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/1Db2mB.jpg" alt="" width="168" height="300" />SHAO JUN</h2>
+## <img class="alignright" src="https://i.hizliresim.com/1Db2mB.jpg" alt="" width="168" height="300" />SHAO JUN
 Shao Jun Çinli bir Suikastçıydı ve ölümünden önce Ezio Auditore ile görüşen son Suikastçılar'dan biriydi.
 
 Jun Ming Hanedanlığı döneminde kraliyet zindanlarında doğmuştu. Gençlik yıllarını Çin imparatoru Zhengde'nin favori cariyelerinden biri olarak geçirdi. Bu ideal bir yaşam olmasa da - ki ben olsam umrumda olmazdı, hendekler kazmaktan iyidir - Zhengde'nin seyahate düşkünlüğü sebebiyle Jun henüz 15 yaşındayken o zamanlarda dünyadaki birçok insandan daha fazla yer görmüştü - ki bunu bir artı olarak farz edeceğini kabul ediyorum, eğer o zamanlar bazı kedilerin bile dünyadaki birçok insandan daha fazla yer görmüş olduğunu göz ardı edebilirsen.
@@ -463,8 +428,7 @@ Jun Ming Hanedanlığı döneminde kraliyet zindanlarında doğmuştu. Gençlik 
 
 Jiajing'in Kraliyet Sarayı'na yapılan bu ikinci saldırıya karşılığı ani ve ölümcül oldu, Suikastçılar hazırlıksız yakalanmışlardı. Doğu Çin'deki Kardeşlik katliama uğradı. Shao Jun ve Usta'sı hayatta kalabilmişti, ancak Asya'yı tamamen terk etmek zorunda kaldılar. Ezio Auditore'nin tavsiyelerini almak için İtalya'ya seyahat ettiler - ancak yolculuğu yalnızca Shao Jun tamamlayabilmiş, Floransa'ya Ezio'nun ölümündne kısa bir süre önce, 1524 yılında varabilmişti.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/r84mBa.jpg" alt="" width="125" height="299" />SHAUN HASTINGS</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/r84mBa.jpg" alt="" width="125" height="299" />SHAUN HASTINGS
 Shaun Hastings doğrudan tarikatın içinde doğmayan az sayıda Suikastçı'dan biri. Genç yaşlarında Abstergo Endüstri hakkında yaptığı araştırmalar onu Tapınakçılar'ın hedefi haline getirince Suikastçılar tarafından çırak olarak alındı.
 
 Hastings'in organizasyon konusunda Tanrı vergisi bir yeteneği var, öyle ki o olmasa Suikastçılar olmazdı. Tarihsel olaylar arasında bağlantılar kurma yeteneği ile, birçokları tarafından tarikatteki en zeki insan olarak kabul edilir - ve 'birçokları tarafından tarikatteki en zeki insan olarak kabul edilir' derken onun GERÇEKTEN de tarikatteki en zeki kişi olduğunu söylüyorum.
@@ -475,16 +439,14 @@ Ah Tanrım. Ciddi ciddi okuyorsun bunları. Vaktimi boşa harcadığımı düş�
 
 Şimdi - bana biraz çay koyar mısın?
 
-&nbsp;
-<h2>SURRY</h2>
+## SURRY
 Surry 1765'ten itibaren Samuel Adams'ın hizmetinde hizmetçi olarak çalışıyordu. Adams'ın ikinci karısı Elizabeth Wells'e evlilik hediyesi olarak verilmişti (çünkü hiçbir şey "İşte! Sana ait bir insan!" demekten daha çok birine önem verdiğini gösteremez). Ancak, Adams ahlaki yönden köleliğe karşıydı ve Surry'nin onlarla yaşamaya devam etmesi için özgür bırakılması konusunda ısrar etmişti. Gerçekten de özgür kalmıştı ve 50 yıl boyunca Adams ailesinin yanında çalıştı; ki bu Adams Ailesi "için" çalışmasından çok daha iyiydi.
 
 (Bu arada, Adams kendisine ait bir kölesi olmasını istemese de, kölelik politika kariyeri boyunca özel olarak savaştığı bir konu olmadı. Massachusetts'teki kölelik karşıtı hareketleri destekledi, ancak hiçbir zaman devletler arası sürtüşmelere sebep olacak kadar üstüne düşmedi - diğer politikacılarla geçinmek çok daha önemliydi.)
 
 (Elbette burada Samuel Adams'tan bahsediyorum - Gomez'den değil)
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/2NdYmE.jpg" alt="" width="166" height="305" />TADEUSZ KOŚCIUSZKO</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/2NdYmE.jpg" alt="" width="166" height="305" />TADEUSZ KOŚCIUSZKO
 Daha çok Thaddeus Kosciuszko adıyla bilinen - hatta daha da çok telaffuz edilemeyen - bu bey, Devrimci Savaşı'nda mühendis olarak ülkesine hizmet eden Polonyalı bir askerdi. Kosciuszko, soylu bir adamın oğluydu ve özel eğitimi doğrultusunda askeri taktikleri öğrendi. 1776 Kıtasal Ordu'ya katıldı.
 
 Tam adı Tadeusz Andrzej Bonawentura Kosciuszko'ydu ve her ne kadar soyadı hapşuruk gibi olsa da Kıtasal Ordu'nun en deneyimli ve en çok aranan birkaç mühendisinden biriydi. Adını büyük ihtimalle 1777'deki Amerikan zaferinde Saratoga'daki tahkim çalışmalarını yönetmesiyle duyurdu. Batı Noktası'ndaki tahkime da yardım etti ( Bendict Arnold'ın İngilizlere satmaya çalıştığı tahkime).
@@ -493,8 +455,7 @@ Savaş sona erdiğinde, Kongre Kosciuszko'yu Tuğ Generalliğe terfi ettirdi - h
 
 Şunu dinle - Kosciuszko öldüğünde zenci kölelerin eğitimi ve serbet bırakılması için talimatlar vererek Thomas Jefferson'a parasının bir kısmını bıraktı. Malesef Jefferson parayı kullanma zahmetine hiç giremedi. Para 1852'de Kosciuszko'nun mirasçılarına geri döndü.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/nmd5VN.jpg" alt="" width="169" height="303" />THOMAS HICKEY</h2>
+## <img class="alignright" src="https://i.hizliresim.com/nmd5VN.jpg" alt="" width="169" height="303" />THOMAS HICKEY
 Thomas Hickey İngiliz Ordusunun, İrlanda doğumlu bir üyesiydi. Boston'a 1752'de vardı ve William Johnson'ın kişisel koruması olması uzun sürmedi, görünüşe göre Johnson'ın isteğiyle (muhtemelen ailelerinin İrlandayla bağlantısı olmasından, yada "Hickey" ismini komik bulmasından, kayıtlar açık değil.)
 
 Hickey Fransız ve Kızılderili savaşında Johnson'ın komutasında hizmet etti, ama taşkın hareketleri birkaç defa rapor edildikten sonra ordudan ayrıldı. 1760'tan sonra, Hickey, tarih kayıtlarından bir kaç yıl kaybolur. Yine de ben bir kaç "T.H"ye yapılmış William Johnson'ın ev ödemelerinden bahsedildiğini buldum. Hickey'nin, onun casusu olarak çalıştığı muhtemel. Eğer öyleyse, kırılması daha zor kodlar geliştirmeliydi.
@@ -509,8 +470,7 @@ Ne olursa olsun, Hickey hemen Washington'a suikast planlayarak vazifesine ihanet
 
 Örnek olarak, tarih bize Thomas Hickey'in ayaklandırma suçu nedeniyle 20.000 askerin önünde asıldığını söylüyor. Bu olayların ilginç bir yorumlaması, ama New York'ta bu kadar kişiye yetecek stadyum olmadığından, çoğu askerin idamı iyi gördüklerinden süpheleniyorum. Onlara verilen önemli mesaj şuydu; "Hain olmayın, yoksa asılırsınız", darağcında olan biri için ince bir davranış değil.
 
-&nbsp;
-<h2>THOMAS PAINE</h2>
+## THOMAS PAINE
 Paine aslen İngiltereli bir politik hiciv yazarıydı. Kitabı "Sağduyu" Amerikan bağımsızlığı için bir tartışma konusuydu - ve Amerikan tarihinin en popüler kitaplarından biri oldu. Büyük ölçüde Amerikalıların bunun sağduyu hakkında bir kitap olduğunu düşünmeleri ve dürüst olmak gerekirse buna ihtiyaç duyduklarını bilmeleri nedeniyle.
 
 O dönemlerde, bağımsızlık hakkındaki edebiyatın çoğu sadece kolej mezunları tarafından anlaşılabilen süslü bencil sözlerle avukatlar ve politikacılar tarafından yazılırdı ya da benim. Yine de "Sağduyu", başlığının standartlarına ulaştı - anlaşılır bir dilde yazılmıştı, yani temel olarak herkes savlarını anlayabilirdi (hatta okulma bilmeyen insanlar bile - kitap o kadar popülerdi ki, metni bir çok bakımdan ilkel bir sesli kitap yapan sayısız halka açık okuma yapıldı.)
@@ -519,14 +479,12 @@ Kitap Kongre'yi bağımsızlığın değerine ikna eden şey olmamasına rağmen
 
 Connor'un Paine ile görüştüğüne dair bir kaydım yok, ama devrimde çok önemli bir rol oynadığından onun hakkında bir şeyler bilmek istersin diye düşündüm. Evet, Bunu en sona yazdım çünkü, bunu fark etmeden bütün yazıyı okumak zorunda kaldın. Böylelikle bir puşt olabilirim.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/m7brj4.jpg" alt="" width="152" height="301" />WILLIAM DAVES JR.</h2>
+## <img class="alignright" src="https://i.hizliresim.com/m7brj4.jpg" alt="" width="152" height="301" />WILLIAM DAVES JR.
 William Dawes Jr. Boston'lı bir devrim yanlısı ve 18 Nisan 1775 gecesi, İngiliz Nizamileri'nin gelişini haber vermek için Lexington ve Concord'a gönderilen süvarilerden biriydi. Diğer süvari ise, elbette, Paul Revere idi. Revere suyu geçerek Charlestown'a giden yolu seçerken Dawes Boston boğazını baştan başa geçen uzun yoldan gitmişti. Lexington'a Revere'den kısa bir süre sonra vardı.
 
 Dawes çekirdekten yetişme bir deri tabakçısıydı. Bugünlerde New Jersey'de bir servet sahibi olması işten bile değil, o derece bok götürüyor oraları. Ve politik olarak da Revere kadar ateşli olmasa da, düğününde evde dikilmiş bir takım giymişti. Tabi, şimdi bakınca bu pek de matah bir farklılık gibi görünmeyebilir ancak o sıralarda bu büyük bir dışavurumdu. O zamanlar asiler İngiliz ürünlerinin - pamuk gibi -boykot edilmesine uğraşıyor ve insanları Amerikan malı almaya teşvik ediyorlardı. Takımının yerli malı olduğunu vurgulayarak, Dawes kendini şık bir şekilde Vatanseverler'in tarafında konumlandırıyordu. Oysa rahatlıkla bir melon şapka ve Kral'ın yüzü şeklinde bir maskeyle de gelebilirdi. Bir düğün için bu da oldukça garip olurdu gerçi.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/lrX02Q.jpg" alt="" width="168" height="300" />WILLIAM JOHNSON</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/lrX02Q.jpg" alt="" width="168" height="300" />WILLIAM JOHNSON
 William Johnson bir arazi borsacısı ve İngiltere ile kolonilerin kuzey kısmında yasayan yerli halk arasında başlıca anlaşma arabulucusuydu- özellikle Irokua.
 
 Johnson İrlanda’da doğdu ancak 1738'de amcasının Mohawk Nehri'ndeki malına göz kulak olmak için kolonilere taşındı. Gelgelelim, çok geçmeden Johnson nehrin karşı tarafından bir yer edinerek orada bir kereste fabrikası kurdu ve "Johnson Destek" adını verdiği ahşap dikmelerin ticaretini yapmaya başladı. Ki bu hep bana bir mağara adamından çiftleşme önerileri almak gibi gelmistir.1743'te "Johnson Hisarı" adında daha da geniş bir araziye taşındı. (İyi bir işadamı olabilir ancak hayal gücünden yoksundu.)
@@ -545,8 +503,7 @@ Gelgelelim Johnson, Stanwix Hisarı Anlaşması’nda köprüleri yaktı. İngil
 
 Eğer merak ediyorsan, Johnson'ın resmi ölüm nedenin inme olduğu söylendi. Sanırım en hafif sekliyle, anlaşma arabulucularını öldürmeye kalkıştığı açıklansaydı bu bazı siyasal gerilimlere sebep olabilirdi. Öyle sanıyorum ki basa bir darbe, mesela, çok şiddetli bir inme olarak nitelendirilebilirdi.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/B6nRmL.jpg" alt="" width="144" height="301" />WILLIAM KIDD</h2>
+## <img class="alignright" src="https://i.hizliresim.com/B6nRmL.jpg" alt="" width="144" height="301" />WILLIAM KIDD
 Kaptan William Kidd pek çok korsan efsanesinin konusu olmuş bir İskoçyalı'ydı ve hükümetin izniyle korsanlık yapıyorken illegal korsanlığa geçmişti.
 
 Kidd, 17. yüzyılın sonlarında doğmasına rağmen o zamana kadar pek tanınmıyordu. Hakkında bilinen tek şey İskoçyalı olmasıydı, başka bir bilgi yoktu (Korsan olmanın ilk kuralı gizemli bir geçmişinin olması gerektiğiydi.). Kidd, tarih sahnesine ilk olarak 1689'da kaptan olarak listeye geçtiğinde çıktı. Birkaç yıl yaşadığı New York'a yelken açmadan önce İngiltere'nin hizmetinde hükümet izinli bir korsandı.
@@ -559,8 +516,7 @@ Kidd sonunda evine, New York'a döndüğünde yakalandı. Tutukluluğundan kurtu
 
 Kidd'in hazinesi hakkında bilinen ise, bir kısmını New York, Long Island'daki Gardiner Adası'na gömdüğüydü - Bu kısım Kidd'in ölümünden sonra ortaya çıktı. Kimse başka ne yaptığını bilmiyordu ama hazinenin nereye, ne kadarının gömüldüğü sorusu hala herkesin dilinde.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/E6Lzng.jpg" alt="" width="169" height="302" />WILLIAM MOLINEUX</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/E6Lzng.jpg" alt="" width="169" height="302" />WILLIAM MOLINEUX
 Molineux ünlü devrimciler listesinde pek sık yer almaz, muhtemelen devrimin patlak verdiğini görecek kadar uzun yaşamadığından olacak (1774 yılında öldü). Ancak kendisi savaştan önceki yıllarda Liberal Parti'nin önde gelen eylemcileridnen biriydi - Samuel Adams ve John Hancock'ın hemen yanıbaşında.
 
 Molineux İngiliz asıllı bir tüccar ve Vatanseverler yanlısı bir adamdı. Devrimciler hareketlenmelerini arttırdıkça, Molineux de gitgide radikkaleşiyordu - İngiliz asıllı Koloniciler genelde Kraliyet Yanlısı olmaya meyilliydiler. Ayrıca Anglikan mezhebine mensuptu - ki bu cemaat de İngiliz sempatizanıydı.

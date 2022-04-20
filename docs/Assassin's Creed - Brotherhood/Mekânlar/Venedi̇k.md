@@ -1,14 +1,12 @@
 
-&nbsp;
-<h2>LA ROSA DELLA VIRTÙ</h2>
+## LA ROSA DELLA VIRTÙ
 <img src="http://i.imgur.com/a3lPyJB.jpg" alt="" />
 
 Seks ve dinin çakıştığı bir noktaya inşa edilmiş La Rosa della Virtù (Fazilet'in Gülü) tamamen eski rahibeler tarafından yönetilirdi. Papa birkaç defa Venedik Konseyi'ni genelevi kapatması için zorlamış ancak genelev 1516'daki bir yangında tamamen yok olana kadar açık kalmıştı.
 
 Kilise bunun bir ilahi müdahale olduğunu iddia etse de hukukçular yangını kızlardan biriyle bedava birlikte olmak isteği reddedilmiş hoşnutsuz bir piskoposun çıkardığını bulmuşlardı. Tanrı'nın işi, elbette.
 
-&nbsp;
-<h2>SQUERO DI SAN TROVASO</h2>
+## SQUERO DI SAN TROVASO
 <img src="http://i.imgur.com/zPnGmdA.jpg" alt="" />
 
 Bu küçük alan gondol yapımı ve tamiri için kullanılan bir tersane işlevi görürdü.
@@ -17,8 +15,7 @@ Venedik içi ulaşımın en önemli unsuru olan gondollar, sekiz farklı tür a�
 
 Sandalın sol tarafı sağ tarafından daha uzun olur, böylece gondolcu sol tarafta oturarak yer değiştirmesine gerek kalmadan gondolu kontrol edebilir ve alkollü gondolcuların yer değiştirirken yolcularının suratlarına kürekle vurmaları engellenmiş olurdu.
 
-&nbsp;
-<h2>VENEZIA</h2>
+## VENEZIA
 <img src="http://i.imgur.com/6gTt25q.jpg" alt="" />
 
 Yaklaşık 7. yüzyılın sonları civarında kurulan Venedik'in gölcüklerle sarmalanmış yapısı Lombardiyalı işgalcilerden saklanma çabasındaki Bizanslı yerleşimcilerin ürünüydü. Orta Çağlarda, şehir büyük bir deniz gücüne sahip oldu. Şehrin Adriyatik'in tepesindeki stratejik konumu karanın iç kısımlarına mal taşıyan gemilerin Venedik'ten geçmesini zorunlu kılıyordu, bu da şehri para ve ticaretle dolduruyordu.

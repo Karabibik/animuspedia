@@ -1,6 +1,5 @@
 
-&nbsp;
-<h2>BOTTEGA DI LEONARDO A FIRENZE</h2>
+## BOTTEGA DI LEONARDO A FIRENZE
 <img src="http://i.imgur.com/WJE0xmj.jpg" alt="" />
 
 Leonardo atölyesini zamanın en başarılı sanatçılarından biri olan Verrocchio'dan aldığı çıraklık eğitimini tamamladığında açtı.
@@ -9,14 +8,12 @@ Leonardo atölyesini zamanın en başarılı sanatçılarından biri olan Verroc
 
 Gerçek bir Da Vinci tarzıyla, tabloya başladı ama asla bitirmedi.
 
-&nbsp;
-<h2>CASA DI VESPUCCI</h2>
+## CASA DI VESPUCCI
 <img src="http://i.imgur.com/w8BIAOB.jpg" alt="" />
 
 Ünlü Amerigo Vespucci'nin uzaktan büyük büyük amcası tarafından 1350 yılında yaptırılan nispeten mağrur Vespucci malikanesi Floransa'daki ilk boyalı cepheye, daha sonra Oltrarno bölgesinde herkes tarafından tekrar edilen bir tarza sahip olması bakımından dikkate değerdir.
 
-&nbsp;
-<h2>FLORANSA</h2>
+## FLORANSA
 <img src="http://i.imgur.com/k0r9o2T.jpg" alt="" />
 
 M.Ö. 59 yılında Julius Sezar tarafından kurulan, Romalılar'ın verdiği adıyla Florentia, çabucak bir ticaret merkezi haline geldi.
@@ -29,8 +26,7 @@ Ayaklanmanın ardından Albizzi ailesi kendiliğinden yönetici konumuna yüksel
 
 Etkileyici kamu binaları yapan ve Michelangelo, Leonardo ve Botticelli gibi ilham kaynağı kişileri destekleyen Medici yönetimi altında Rönesans beşiği olan Floransa'da güvenli bir dönem başladı.
 
-&nbsp;
-<h2>GIOTTO'S CAMPANILE</h2>
+## GIOTTO'S CAMPANILE
 <img src="http://i.imgur.com/7B3MZXd.jpg" alt="" />
 
 1334 yılında, Giotto di Bondone (ünlü mimar ve ressam) tarafından yapımına başlanan bu ünlü gotik çan kulesi, Giotto öldüğünde henüz tamamlanmamıştı. Daha sonra yapımı Andrea Pisano devraldı ancak 1348'de, Kara Ölüm'e yenik düştü.
@@ -39,8 +35,7 @@ Etkileyici kamu binaları yapan ve Michelangelo, Leonardo ve Botticelli gibi ilh
 
 Kule Carrara'dan gelen beyaz, Siena'dan gelen kırmızı ve Prato'dan gelen yeşil mermerle kaplıdır. Tepeye kadar toplam 414 merdiven vardır, belki de bu Charles Messier'in tam 414 yıl sonra Girdap Gökadası'nı keşfini temsil ediyordu. Belki de etmiyordu.
 
-&nbsp;
-<h2>LA ROSA COLTA</h2>
+## LA ROSA COLTA
 <img src="http://i.imgur.com/q1kWONa.jpg" alt="" />
 
 1465 yılında açılan La Rosa Colta (Koparılmış Gül), çabucak Floransa günlük hayatında önemli bir yer haline geldi. Buradaki kadınlar üst sınıf olarak bilinirdi. Şiir ve sanat eğitimi alırlar, aynı zamanda cinsel ilişki konusunda da eğitilirlerdi.
@@ -48,16 +43,14 @@ Kule Carrara'dan gelen beyaz, Siena'dan gelen kırmızı ve Prato'dan gelen yeş
 Signoria üyelerinden birini, ya da duruma göre, Medici ailesinden birilerini La Rosa Colta'da görmek şaşırtıcı sayılmazdı.
 Daha önce ziyaret edilmiş bir bölgeye hızlıca seyahat et.
 
-&nbsp;
-<h2>LOGGIA DEI LANZI</h2>
+## LOGGIA DEI LANZI
 <img src="http://i.imgur.com/mFIIUUf.jpg" alt="" />
 
 Benci de Cione ve Simone di Francesco Talenti tarafından 1376 ve 1382 yılları arasında yapılan Loggia dei Lanzi, Floransa'nın yöneticileri olan Signoria'nın yemin ederek göreve başlayan üyeleri için bir sığınak olarak inşa edilmişti.
 
 16. yüzyılda, Mediciler tepeye bir balkon yaptırdı, böylece Floransa şehri iplerin kimde olduğunu açıkça görebilecekti.
 
-&nbsp;
-<h2>MERCATO VECCHIO</h2>
+## MERCATO VECCHIO
 <img src="http://i.imgur.com/aT1XRvK.jpg" alt="" />
 
 <em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
@@ -68,16 +61,14 @@ Mercato ilk olarak Forum alanına Roma döneminde inşa edildi, ve ilk olarak 10
 
 Bunun yanında, eğer satıcılar çok sıkılırlarsa, 15. yüzyıl şairi Il Panormita'dan alıntılarsak: "Ve sokağın ortalarına doğru kendine has kokusundan bile tanıdığınız, şirin bir genelev vardı."
 
-&nbsp;
-<h2>OLTRARNO SEMTİ</h2>
+## OLTRARNO SEMTİ
 <img src="http://i.imgur.com/DcHU0CE.jpg" alt="" />
 
 Floransalıların deyimiyle, nehrin karşısındaki bölge (Oltrarno asıl anlamıyla "Arno'nun öbür kıyısında" demektir) Oltrarno, şehrin en eski yerleşim yerlerinden biridir ve nüfusunu çoğunlukla zanaatkarlar oluşturur. Ek olarak dindar cemaat, Santo Spirito manastırı ve kilisesiyle oldukça iyi temsil edilir.
 
 Floransa tarihinin sonraki dönemlerinde Medici, Pitti Sarayı'nı almış ve burayı bir dizi gizli geçitle Palazzo della Signoria ve Uffizi'ye bağlamıştır. Bu gizli geçitlerden biri Ponte Vecchio'nun üst katlarından birini çaprazlamasına keser. Bu ağ yapısı, Rönesans boyunca onları öldürmeye teşebbüs eden tüm insanları düşününce akıllıca bir yatırımdı.
 
-&nbsp;
-<h2>OSPEDALE DEGLI INNOCENTI</h2>
+## OSPEDALE DEGLI INNOCENTI
 <img src="http://i.imgur.com/pEGSLOr.jpg" alt="" />
 
 <em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
@@ -90,16 +81,14 @@ Bazı ebeveynler yalnızca çocuklarını bırakmakla kalmıyor, onların üzeri
 
 Erkek çocuklar Ospedale'nin çalışanları tarafından farklı dallarda eğitiliyordu, kız çocuklar ise genellikle rahibe ya da erkeklere eş olarak yetiştiriliyordu.
 
-&nbsp;
-<h2>PALAZZO AUDITORE</h2>
+## PALAZZO AUDITORE
 <img src="http://i.imgur.com/a8Jcljl.jpg" alt="" />
 
 1473 yılında yapımı tamamlanan Palazzo Auditore, sade taş işçiliği ve Roma üslubu sütunları ile dikkate değerdir. Giovanni Auditore, Leone Battista Alberti'ye ait olan eskiz çizimlerine bakarak binayı kendisi tasarlamıştır.
 
 Yapımı tamamlandıktan sonra, bina Santa Maria Novella bölgesinin temel yapılarından biri haline geldi. Lorenzo de' Medici, Giovanni'ye gönderdiği 1474 tarihli bir mektupta, cephenin "gereksiz gösterişten" uzak oluşuna hayranlığını belirtir.
 
-&nbsp;
-<h2>PALAZZO DELLA SIGNORIA</h2>
+## PALAZZO DELLA SIGNORIA
 <img src="http://i.imgur.com/r4okWPD.jpg" alt="" />
 
 Arnolfo di Cambio Palazzo della Signoria'yı (Palazzo Vecchio olarak da bilinir) 1299 yılında, Floransa'nın yöneticileri, Signoria için tasarladı.
@@ -108,8 +97,7 @@ Signoria şehirdeki loncalar tarafından seçilen dokuz üyeden (diğer adıyla,
 
 İlginç bir gerçek: Ön taraftaki kule tam ortalanmamıştır çünkü daha eski bir yapıdan kalmadır ve Palazzo ile sonradan birleştirilmiştir. İçinde iki küçük hücre vardır, ve birinde bir zamanlar Cosimo de' Medici hapsedilmiştir.
 
-&nbsp;
-<h2>PALAZZO MEDICI</h2>
+## PALAZZO MEDICI
 <img src="http://i.imgur.com/Stq0pLQ.jpg" alt="" />
 
 Cosimi de' Medici'nin yerleşik mimarı Michelozzo di Bartolomeo Michelozzi tarafından yapımı 1455 yılında tamamlanan Palazzo Medici, Medici ailesinin özel konağı olarak inşa edilmiştir. Bina Rönesans döneminin hakim düşüncesi olan hümanizm ögeleri ile tasarlanmıştı, bu da daha insani ölçülerde binalar demekti.
@@ -118,16 +106,14 @@ En azından, palazzo yapılırken teoride düşünce buydu ancak etkileri daha �
 
 Aslında, Cosimo avluyu onaylamış fakat Brunelleschi tarafından daha önceden tasarlanan daha açık bir cephenin planlarını kabul etmemişti. O Floransa içinde bir Medici kalesi istiyordu.
 
-&nbsp;
-<h2>PALAZZO PITTI</h2>
+## PALAZZO PITTI
 <img src="http://i.imgur.com/pcUVCQ0.jpg" alt="" />
 
 <em>REBECCAC84: Çatıdaki manzaraya bir göz atmalısın!</em>
 
 Luca Pitti'nin müthiş zenginliğini göstermesi için yapımına başlanan Pitti Sarayı, Luca'nın parasının bitmesi ve 1472'de ölmesi üzerine yarım kaldı. Güçlü Roma tarzı mimarisi, Roma'nın dışında bulunan antik imparatorluk zamanı su köprülerinin keskin hatlı taş kemerlerini anımsatmaktadır.
 
-&nbsp;
-<h2>PONTE VECCHIO</h2>
+## PONTE VECCHIO
 <img src="http://i.imgur.com/mpHWoHd.jpg" alt="" />
 
 Bu ünlü köprü Arno'nun iki yakasını en dar yerinde birleştirir. Orijinal köprü muhtemelen Romalılar tarafından yapılmıştı, ama ilk yazılı kayıtlar 996 yılına aittir.
@@ -140,14 +126,12 @@ Köprü üç parça kemerden oluşmaktadır. Önceden sıra dışı olan, ancak 
 
 Sonsuza kadar, tabii.
 
-&nbsp;
-<h2>SAN GIOVANNI SEMTİ</h2>
+## SAN GIOVANNI SEMTİ
 <img src="http://i.imgur.com/x76oiCc.jpg" alt="" />
 
 San Giovanni, adını Floransa'nın koruyucu azizi Vaftizci Yahya'dan alır. Şehrin en eski semti ve yönetimin merkezidir, Palazzo della Signoria burada bulunur. Eğer büyük kiliselere bakıyorsan, kuzey uçtaki Santa Maria del Fiore'ye git. Şu devasa kubbesi olan kilise.
 
-&nbsp;
-<h2>SAN LORENZO</h2>
+## SAN LORENZO
 <img src="http://i.imgur.com/KMW4YW2.jpg" alt="" />
 
 <em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
@@ -158,14 +142,12 @@ Michelangelo iç cepheyi, Santa Maria del Fiore'nin kubbesinin yaratıcısı Fil
 
 Yaklaşık 50 lahite ev sahipliği yapan Medici mahzeni, merkezinde içinde İsa'nın bedeninin bulunduğu Kutsal Türbe'ye ev sahipliği yapmak üzere inşa edilmişti. Ancak, onu önce satın alma, sonra da başarısızca Kudüs'ten çalma girişimleri, bankerlerin birçok şeyi satın alabileceğini ama ahlakı satın alamayacağını kanıtladı.
 
-&nbsp;
-<h2>SAN MARCO SEMTİ</h2>
+## SAN MARCO SEMTİ
 <img src="http://i.imgur.com/FBDyx1k.jpg" alt="" />
 
 Venedik'in kalbi olan San Marco, yönetim semtidir. Her şey Piazza San Marco ve Palazzo Ducale etrafında gelişmiştir. Burada birçok görülmesi gereken yapı vardır, ünlü San Marco Kilisesi bunlardan biridir.
 
-&nbsp;
-<h2>SANTA CROCE</h2>
+## SANTA CROCE
 <img src="http://i.imgur.com/PZ66kE4.jpg" alt="" />
 
 <em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
@@ -176,8 +158,7 @@ Aziz Francesco'ya ve İncil'in Fransisken tefsirine göre, İsa havarilerine bir
 
 Şöyle ki, 1322 yılında, Papa Fransiskenler'in yoksulluk yemininin yanlış olduğunu, aslında İsa'nın kendine ait malları olduğunu ve havarilerinin de mallarının olmasını istediğini deklare etti. Bu da, elbette, Fransiskenler'in para ve arsa toplamaya zorlanmaları demekti, ki bu arsa da sonunda Papa'ya ait olacaktı, böylece İncil tefsirinin sürpriz bir şekilde kazançlı olabileceği (özellikle Papa iseniz) kanıtlanmış oldu.
 
-&nbsp;
-<h2>SANTA MARIA DEL FIORE</h2>
+## SANTA MARIA DEL FIORE
 <img src="http://i.imgur.com/7Qsmu1b.jpg" alt="" />
 
 İtalya'nın en büyük kiliselerinden biri ve Floransa'daki en büyük yapı olan Santa Maria del Fiore, birçoklarınca Rönesans mimarisinin ilk başyapıtı olarak kabul edilir.
@@ -190,8 +171,7 @@ Brunelleschi yukarıda çalışan işçilerin kubbeyi tamamlamaları için ihtiy
 
 Fener, Brunelleschi 1446'da öldükten sonra eklendi ve sözde kutsal emanetleri de barındırıyordu. Söylentilere göre, bunun yerine aslında içeride yeri tam olarak bilinmeyen koca bir lahit vardı.
 
-&nbsp;
-<h2>SANTA MARIA NOVELLA</h2>
+## SANTA MARIA NOVELLA
 <img src="http://i.imgur.com/ypcjUAG.jpg" alt="" />
 
 <em>REBECCAC84: Zor bir görev gördüğümde anlarım, git şu mezarı bul!</em>
@@ -202,14 +182,12 @@ Ancak, Santa Maria Novella'nın kökleri, kiliseyle aynı yere inşa edilmiş ve
 
 Bununla ilgili bir not olarak, en sevdiğim alıntı bazilikanın içinde, bir lahitin üstündeki resimde yazılıdır: "Bir zamanlar senin şu an olduğun şeydim, şimdi bir gün senin olacağın şeyim".
 
-&nbsp;
-<h2>SANTA MARIA NOVELLA SEMTİ</h2>
+## SANTA MARIA NOVELLA SEMTİ
 <img src="http://i.imgur.com/c4a59iS.jpg" alt="" />
 
 Bu semt adını Floransa'daki ilk büyük bazilika olan Santa Maria Novella Kilisesi'nden alır. Bu bölgede, bölgenin kuzey sınırına doğru şehrin büyük pazarı Mercato Vecchio bulunur.
 
-&nbsp;
-<h2>SANTA TRINITA</h2>
+## SANTA TRINITA
 <img src="http://i.imgur.com/0sSZChM.jpg" alt="" />
 
 Daha önceden var olan bir kilisenin üstüne 1258'de inşa edilen Santa Trinita (Kutsal Teslis) en çok, içindeki Michelangelo'nun öğretmenlerinden biri olarak tanınan ünlü ressam Domenico Ghirlandaio tarafından yapılan Aziz Francesco'nun hayatını anlatan fresklerle süslü Sassetti Şapeli ile ünlüdür.
@@ -218,4 +196,3 @@ Santa Trinita, müritleri ömürleri boyunca sıkı sıkıya sessizlik ve açlı
 
 Santa Trinita fresklerinin güzelliğine rağmen, manastırlarının dışına çıkmaları halinde dayak cezasıyla karşı karşıya olan Vallumbrosa keşişlerinin pek azı bu freskleri görmüştür.
 
-&nbsp;

@@ -1,28 +1,23 @@
 
-&nbsp;
-<h2>I. TANRI VE DİN HAKKINDA</h2>
+## I. TANRI VE DİN HAKKINDA
 *mason*Bir Mason görev süresinde -TÜM ŞARTLAR ALTINDA- AHLAK KURALLARINA UYMAK VE DENGELİ OLMAK zorundadır; ve Sanatı doğru anlarsa, asla aptal bie ateist veya dinsiz bir sefih olmayacaktır. Ama eski zamanlarda, o ülkenin veya ulusun, her neresiyse, dini olmak için her ülkede, TÜM DÜNYADA, Masonlar baştaydı, fakat şimdi tek çarenin sadece bütün insanların kabul ettiği dine, özel düşüncelerini kendilerine saklayarak, onları mecbur bırakmak olarak düşünülüyor; bu, iyi ve doğru veya onurlu ve dürüst insan olmak, hangi mezhep olursa olsun, BATININ HIRİSTİYANLIĞI veya DOĞUNUN BUDİZMİ olmaktır, bu farkedebilir; bunun sayesinde masonluk Birliğin Merkezi ve ebediyen uzakta kalması gereken insanların arasındaki dostluğu kazanmanın anlamı olur.
 
-&nbsp;
-<h2>II. MEDENİ HAKİM HAKKINDA, ÜST VE AST</h2>
+## II. MEDENİ HAKİM HAKKINDA, ÜST VE AST
 *mason*BİR MASON SİVİL GÜÇLER ALTINDA BİR BARIŞÇIL BİR BİREYDİR, nerede yaşarsa veya çalışırsa çalışsın, ve hem Ulusun huzur ve refahına karşı hiçbir entrika ve komplo hakkında endişelenmemelidir, hem de yüksek sulh yargıcına karşı sorumsuz davranmamalıdır; çünkü Masonluk her zaman savaş, katliam ve karmaşa tarafından yara almıştır, BU YÜZDEN YÜKSEK KESİMDEKİ KRALLAR VE PRENSLER Zanaatkarları cesaretlendirmeye eğilimlidir çünkü barışseverlikleri ve bağlılıkları ve bu yüzden düşmanlarının kusur bulmalarına cevap olurlar ve Kardeşlik Onuruna yükseltilirler, BARIŞ ZAMANINDA GÜNEŞ BATTIĞINDA KİMİN YILDIZI PARLARSA. Böylece eğer bir Kardeş ülkesine karşı asice davranırsa, asiliği desteklenmez, YİNE DE ONA HERHANGİ MUTSUZ VEYA HAKLI BİRİ GİBİ ACINIR; ve, eğer Sağdık Kardeşlik'e başka bir suçtan hüküm giymediye asiliğini reddetmek ve bir süre boyunca devlete karşı hiçbir politik kıskançlığa içerlememek ve dayanmamak zorundadır, onu Loca'dan atamazlar ve Loca'ya bağlılıkları feshedilemez.
 
-&nbsp;
-<h2>III. LOCALAR HAKKINDA</h2>
+## III. LOCALAR HAKKINDA
 *mason*BİR LOCA, MASONLARIN TOPLANDIĞI VE ÇALIŞTIĞI EN YÜKSEK YERDİR; Bu yüzden bu toplanma veya usulen organize olmuş Mason Topluluğu, Loca olarak isimlendirilir ve her Kardeş birinin üyesi olmak ve BİREY VE ONUN KANUNLARI VE GENEL AYARLARININ DENGESİ ALTINDA OLMAK zorundadır. Bu hem bireysel hem de geneldir, ve en iyi uyularak anlaşılabilir, ve Genel veya Büyük Loca'nın bu konuya ekledikleri kurallara. Eski zamanlarda, hiçbir Usta veya Takipçi, özellikle katılması istendiği zaman sert kınamaya maruz kalmadan bulunmamazlık edemezdi, Usta'nın yada Muhafız'ların onu engellemesi gerekene kadar.
 
 Bir LOCA'ya üye olarak kabul edilen bireyler İYİ, DOĞRU VE DÜRÜST, özgür doğumlu, yetişkin ve akıllı bir yaşta olmalıdır, hiçbir köle üyeliğe alınmaz, HİÇ BİR KADIN GİREMEZ, iyi rapor edilmişlerin dışında ahlaksız yada rezil kimseler alınmaz.
 
-&nbsp;
-<h2>IV. ÜSTATLAR, BAŞKANLAR, ÜYELER VE ÇIRAKLAR</h2>
+## IV. ÜSTATLAR, BAŞKANLAR, ÜYELER VE ÇIRAKLAR
 *mason*Masonlar arasındaki tüm atamalar sadece gerçek değer ve kişisel erdemle temellendirilmiştir; böylece Lordlara iyi hizmet edilebilir, ne tarikat üyelerini utanç duyabilir ne de asil zanaat hor görülür: Bu nedenle hiçbir Usta veya Muhafız kıdemi yüzünden seçilmez, SADECE HERŞEYİ GÖREN GÖZ TARAFINDAN GÖRÜLEN ERDEMİYLE SEÇİLİR. Bunları yazarak anlatmak zordur ve her Kardeş, Yerine katılmalı ve bunları DOĞUNUN İKİ BAŞLI KARTALININ HUKUKİLEŞTİRDİĞİ BİRLİĞİ ÖZGÜN BİR BİÇİMDE öğrenmelidir: Sadece Adaylar, hiçbir Ustanın, eğer işe almak için yeterli değilse Çırak almaması gerektiğini bilebilir, ve Ustasının Lorduna hizmet etme sanatını öğrenmeye engel olacak vücudundaki bir sakatlık veya engel olmayan mükemmel bir genç değilse, ve bir Kardeşi KRALLARIN AHLAKİ STANDART VE HAKLARINA sağdık yapmaya, ve sonra Dost serbest mason süresini doldurunca, uzun süre Ülke'nin yönetiminde yer almışsa; ve düzgün aileden gelmiş olsa bile; böylece, bunun tersi olunca bir Muhafız olma onuruna erişebilir, ve sonra Loca'nın Ustası, Büyük Muhafız, ve Erdemine göre sonunda tüm Loca'ların büyük Ustası bile olabilir.
 
 Hiçbir Kardeş serbest masonluk kısmını bitirmeden Muhafız olamaz; bir Muhafız olmadan Usta olamaz, bir Loca'nın Ustası olmadan Büyük Usta olamaz, seçimlerden önce özgür masonluk yapmadan Büyük Usta olamaz, ayrıca asil doğumlu olmalı yada bir beyefendi yada saygı duyulan bir alim yada meraklı bir mimar veya başka bir sanatçı, dürüst bir aileden gelmiş ve Loca'ların fikirlerindeki erdeme benzer biri olmalıdır. Ve daha iyi, daha kolay ve Ofisinin boşaltımı sırasında daha onurlu olması için Büyük Usta, kendi temsilci Büyük Usta'sını seçme gücüne sahiptir, bu kişi sonra veya daha önce belli bir Loca'nın Usta'lığını yapmıiş olmalıdır, ve Büyük Usta'nın, yani asilin yaptığı her şeyi yapma ayrıcalığına sahiptir; bu asilin mevcut olması veya bir mektupla otoritesine itiraz etmesi dışında.
 
 Bu Yöneticilere veya Valilere, eski Loca'nın üs ve astlara, tüm tarikat üyeleri tarafından alçak gönüllülükle, saygıyla, sevgi ve canlılıkla TÜM MASONLARIN KARDEŞLİK ALTINDA OLMASI HAYALİYLE eski vazife ve ayarlamalara göre itaat edilmelidir.
 
-&nbsp;
-<h2>V. ZANAAT YÖNETİMİ HAKKINDA</h2>
+## V. ZANAAT YÖNETİMİ HAKKINDA
 *mason*TÜM MASONLAR GÜNEŞİN ALTINDA DÜRÜSTÇE ÇALIŞMALIDIR, bu Kutsal Günlerde şereflice yaşamak olabilir; ve Ülke'nin kuaralları veya Göreneklerin onalyladığı günlerde.
 
 Altında çalışacak kişilerce Usta olarak hitap edilecek dost zanaatkarların en usta olanları, usta veya Tanrı'nın işinin gözetlemecisi tarafından seçilecek veya atanacak. Zanaatkarlar tüm kopya dillerden uzak durmalı ve birbirlerine Kardeş ve Dost dışında başka bir gücendirici söz söylememelidir; ve kendilerine Loca içinde veya dışında kibar davranmalıdır.
@@ -38,8 +33,7 @@ Genç bir Kardeşe, Yargılama aletlerini bozmaması için ve kardeş sevgisini 
 
 Çalışırken kullanılan bütün aletler Büyük Loca tarafından sağlanmalıdır. Hiç bir emekçi Masonluğun İşine alınamaz ve önemli bir durum olmadığında, serbest masonlar bu serbest olmayanlarla iş yapamaz; VE HİÇKİMSE EMEKÇİLERE VE KABUL EDİLMEMİŞ MASONLARA KARDEŞLİĞİ VEYA DOST MASONLUĞU ÖĞRETEMEZ.
 
-&nbsp;
-<h2>VI. DAVRANIŞIN, VIZ:</h2>
+## VI. DAVRANIŞIN, VIZ:
 *mason*1. Başlarken, Loca'da
 
 Usta'dan ayrılmadan özel komiteler kuramaz ya da özel sohbetler yapamaz, yada cıvık veya münasebetsiz hiçbir şey hakkında konuşamaz, yada Muhafızların Ustasının veya Usta'yla konuşan bir Kardeşin sözünü bölemez: LOCA CİDDİ VE DİNSEL BİR KONUYLA İLGİLİYKEN KENDİNİZE KOMİK BİR ŞEKİLDE VEYA KÜÇÜK BİR DALKAVUK GİBİ DAVRANAMAZ; her ne bahaneyle olursa olsun uygunsuz dil kullanamazsınız, ancak Usta'nıza, Muhafızlara ve Dostlara ibadet sunmalısınız.

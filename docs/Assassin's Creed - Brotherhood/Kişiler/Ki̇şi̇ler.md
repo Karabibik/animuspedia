@@ -1,6 +1,5 @@
 
-&nbsp;
-<h2>BARTOLOMEO D'ALVIANO</h2>
+## BARTOLOMEO D'ALVIANO
 <img src="http://i.imgur.com/OlTMaM3.jpg" alt="" />
 
 Doğum Tarihi: 1455.
@@ -27,8 +26,7 @@ O yıl daha sonra, eskiden sahip olduğu Venedik Ordusu Generali şanını geri 
 
 Venedik, cesedini büyük bir seremoniyle karşıladı ve onu Santo Stefano kilisesine defnetti.
 
-&nbsp;
-<h2>CATERINA SFORZA</h2>
+## CATERINA SFORZA
 <img src="http://i.imgur.com/HPBPLOV.jpg" alt="" />
 
 Doğum Tarihi: 1463.
@@ -49,8 +47,7 @@ Hiç zaman kaybetmeden komşu yönetimlerin dostluğunu kazandı, vergi sistemin
 
 Sonuçta, 1499 yılında Cesare Borgia Forlì ve Caterina'yı mağlup etti. Caterina esir alındı ve Roma'ya, onu bir yıl esir tutan ve oğluyla birlikte tecavüz ettiği söylenen Rodrigo Borgia'ya gönderildi. Vatikan'dan salıverildiğinde, saçları beyazlamış haldeydi. Floransa'ya sürgün edilen Caterina 1509 yılında zatürreden öldü.
 
-&nbsp;
-<h2>CLAUDIA AUDITORE</h2>
+## CLAUDIA AUDITORE
 <img src="http://i.imgur.com/dBJI7oL.jpg" alt="" />
 
 Doğum Tarihi: 1461.
@@ -63,8 +60,7 @@ Ezio katillerden intikam almaya gitmişken Claudia Villa'da kaldı ve yarı-koma
 
 Onun ilgisi altında şehir tekrar gelişti ve Monteriggioni yeni bir bolluk çağına girdi. Ancak, Claudia, çok sevdiği dünyadan tecrit haldeydi. "Ezio'nun maceralarını dinlemek bana yalnızca kendi eksikliğimi hatırlatıyor. Çocukken hayalini kurduğum hayat bu değil. Ezio anlamıyor. Bana karşı çok hassas davranıyor, bu hapisten kaçacağım günü hayal bile edemiyorum", yazıyordu 1495 Temmuz tarihli üzücü bir mektubunda.
 
-&nbsp;
-<h2>CRISTINA VESPUCCI</h2>
+## CRISTINA VESPUCCI
 <img src="http://i.imgur.com/zvWugsJ.jpg" alt="" />
 
 Doğum Tarihi: 1459.
@@ -79,8 +75,7 @@ Eh, görünüşe bakılırsa, Lorenzo'yu etkilemek için onun önemini biraz aba
 
 Yüzyılın en hafif kalmış sözü.
 
-&nbsp;
-<h2>EGIDIO TROCHE</h2>
+## EGIDIO TROCHE
 <img src="http://i.imgur.com/bpAeSpv.jpg" alt="" />
 
 Doğum Tarihi: 1436.
@@ -93,8 +88,7 @@ Yüzyılın sonlarına doğru, Papa Roma'nın şehir planlama, kamu işleri ve f
 
 Bu arada, Egidio'nun kardeşi Francesco Papa'nın teşrifatçısı ve sekreteri olmuş, Cesare ile iyi arkadaşlar olmuşlardı, öyle iyi arkadaşlar ki kardeşi hakkında "Borgia'ların en güvenilir suikastçilerinden biri" deniyordu. Egidio tarafından 1503 yılında Venedik elçisine gönderilen ve Cesare'nin bölge hakkındaki savaş planlarını açığa çıkaran bir mektupta, onun Cesare'ye ve kardeşinin etki altındayken sırları ağzından kaçırmasına olan nefreti açıkça görülüyordu.
 
-&nbsp;
-<h2>EZIO AUDITORE</h2>
+## EZIO AUDITORE
 <img src="http://i.imgur.com/zHfdRHz.jpg" alt="" />
 
 Doğum Tarihi: 1459.
@@ -109,8 +103,7 @@ Amcasının ve diğer Suikastçılar'ın da yardımıyla, Rodrigo'nun direkt ola
 
 Tüm bunları böyle yazınca kulağa oldukça gerçek dışı geliyor, değil mi? Şans eseri, bunları kanıtlamak için Animus kayıtları var, yani bunları rüyamızda görmüş falan değiliz. Tabii hepimiz şu anda bir rüyanın içinde değilsek...
 
-&nbsp;
-<h2>FABIO ORSINI</h2>
+## FABIO ORSINI
 <img src="http://i.imgur.com/lxbFdcI.jpg" alt="" />
 
 Doğum Tarihi: 1476 veya 1477.
@@ -123,8 +116,7 @@ Babası Cesare tarafından öldürüldükten sonra "ihtiyatlı davranarak kaçt�
 
 Kısa hayatının geri kalanı boyunca savaşını sürdürdü, 1504 yılında Garigliano savaşında başından aldığı bir yarayla öldü.
 
-&nbsp;
-<h2>FRANCESCO TROCHE</h2>
+## FRANCESCO TROCHE
 <img src="http://i.imgur.com/INGNI0j.jpg" alt="" />
 
 Doğum Tarihi: 1459.
@@ -139,8 +131,7 @@ Pastanın üstüne vişneyi konduran olay ise, Micheletto Francesco'yu boğdukta
 
 Francesco'nun bedeni Tiber nehrinde yüzmeye başladığı günlerde Cesare onu "Roma'dan kaçmakla" suçlamış ve yakalanması emrini çıkartmıştı, bu kurnaz bir politikacının basın için olmayan bir öykü uydurmasının ilk örneklerinden biriydi.
 
-&nbsp;
-<h2>LA VOLPE</h2>
+## LA VOLPE
 <img src="http://i.imgur.com/BW6S9Ik.jpg" alt="" />
 
 Doğum Tarihi: ?
@@ -151,8 +142,7 @@ Tarih kitaplarında La Volpe (Tilki) hakkında neredeyse hiçbir iz yoktur. Aç�
 
 Savonarola'ya karşı savaşında Floransa'da Ezio'ya yardım ettikten sonra, 1498 yılında La Volpe bir kez daha kayıplara karışır ancak küçük bir kanıt kırıntısında onun tanımına uyacak bir şekilde, menekşe gözlü birinin, Vatikan seks partilerinin birinde görüldüğü, karanlıklarda gezindiği söylenmektedir. Mahkeme kayıtlarına göre ertesi gün, bazı kardinaller çantalarından İnciller hariç her şeylerinin çalınmış olduğunu fark ederler.
 
-&nbsp;
-<h2>LEONARDO DA VINCI</h2>
+## LEONARDO DA VINCI
 <img src="http://i.imgur.com/PdfkS9i.jpg" alt="" />
 
 Doğum Tarihi: 1452.
@@ -169,8 +159,7 @@ Oldukça kabarık bir liste oluşturan epik başarılarına rağmen, Leonardo kr
 
 Leonardo ayrıca oldukça çalkantılı bir aşk hayatına da sahipti. 1746'da oğlancılıkla suçlanan Leonardo büyük ihtimalle homoseksüeldi. Asistanı Salai, hırsızlık ve elbiselere çok fazla para harcamakla suçlanmıştı, ama muhtemelen aynı zamanda Leonardo'nun sevgilisiydi de. Leonardo, ünlü tablosu "Vaftizci Yahya" da dahil olmak üzere Salai'nin bir çok resmini yaptı ve 1519'da öldüğünde "Mona Lisa"yı ona bıraktı.
 
-&nbsp;
-<h2>LUCREZIA BORGIA</h2>
+## LUCREZIA BORGIA
 <img src="http://i.imgur.com/KPK398M.jpg" alt="" />
 
 Doğum Tarihi: 1480.
@@ -189,8 +178,7 @@ Lucrezia 1519 yılında sekizinci çocuğunu doğururken öldü.
 
 "Diğer yedi çocuğa ne oldu?" diye sorabilirsin. Cevabı gelecek haftaya, Aşk Gecelerinin Öteki Yüzü'nde.
 
-&nbsp;
-<h2>MARIA AUDITORE</h2>
+## MARIA AUDITORE
 <img src="http://i.imgur.com/GuHx6HX.jpg" alt="" />
 
 Doğum Tarihi: 1432.
@@ -205,8 +193,7 @@ Güçlü banker aile Mozzi ailesine mensup olan Maria, birçok önemli bilgin ta
 
 Artık, Animus sayesinde, günlüklerinin neden yarıda kesildiğini biliyoruz. Kocası Giovanni'nin tutsak edilmesinden sonra, Floransa muhafızları tarafından kötü muamele gören Maria yarı-katatonik bir hale geçmişti. Villa Auditore'de Ezio'nun kardeşi Claudia tarafından bakılan Maria, Ezio ona en küçük oğlu Petruccio'nun bir zamanlar yaptığı gibi seyahatleri sırasında topladığı tüyleri getirene kadar yıllar boyunca sessiz kaldı. Ezio'nun hediyesiyle hayata dönen Maria'nın morali o günden beri sürekli arttı.
 
-&nbsp;
-<h2>MARIO AUDITORE</h2>
+## MARIO AUDITORE
 <img src="http://i.imgur.com/pxKEH8E.jpg" alt="" />
 
 Doğum Tarihi: 1434.
@@ -221,8 +208,7 @@ Mario'nun küçük kardeşi Giovanni bankacılık alanında bir kariyer için 14
 
 Giovanni'nin ölümünden sonra, Mario Ezio, Claudia ve Maria'yı aile Villa'sına getirdi ve Ezio'ya Suikastçılar ve Tapınakçılar arasındaki meseleden bahsetti. O günden sonra Ezio ve amcası ayrılmaz hale geldiler.
 
-&nbsp;
-<h2>NICCOLÒ MACHIAVELLI</h2>
+## NICCOLÒ MACHIAVELLI
 <img src="http://i.imgur.com/VxVz88m.jpg" alt="" />
 
 Doğum Tarihi: 1469.
@@ -245,8 +231,7 @@ Yanlış bir hareketini bulamayan Medici, Machiavelli'yi sürgüne gönderdi. Em
 
 Machiavelli 1527 yılında öldü. Gömülü olduğu yer bilinmemektedir.
 
-&nbsp;
-<h2>PANTASILEA BAGLIONI</h2>
+## PANTASILEA BAGLIONI
 <img src="http://i.imgur.com/bZz6jtj.jpg" alt="" />
 
 Doğum Tarihi: 1476.
@@ -259,8 +244,7 @@ Pantasilea böyle zorlu bir hayata başladığından akıllı, korkusuz ve sertt
 
 Pantasilea keskin stratejik zekasıyla tanınırdı: "Bu kız ne zaman bir engelle karşılaşsa, Tevere nehrinin suları gibi, usulca yönünü değiştirir ve sonunda almak istediğini alır. Artık onun olduğuna göre, bu ikiniz için de işe yarasın." 1498 yılında Bartolomeo ve Pantasilea'nın evlendiğini öğrendiğinde Doge Agostino Barbarigo böyle yazmıştı.
 
-&nbsp;
-<h2>PIETRO ROSSI</h2>
+## PIETRO ROSSI
 <img src="http://i.imgur.com/6KYfyyT.jpg" alt="" />
 
 Doğum Tarihi: 1470.
@@ -273,8 +257,7 @@ Roma'ya ulaştığında Pietro, Klasisizm onu yatıştırmasa da, Antik Roma oyu
 
 Oyuncular işte.
 
-&nbsp;
-<h2>SALAI</h2>
+## SALAI
 <img src="http://i.imgur.com/3ScI45u.jpg" alt="" />
 
 Doğum Tarihi: 1480.
@@ -288,7 +271,3 @@ Leonardo'nun notlarında da görüldüğü üzere, ikili çok çabuk kaynaştı:
 Leonardo çırağını "hırsız, yalancı, dik başlı, obur" olarak tanımlasa ve ona Salai (romantik epik eser "Morgante"deki küçük şeytan) adını taksa da, ikili Efendi'nin ölümüne kadar hayatlarını birbirlerine adadılar. Leonardo Salai'ye tablo kompozisyonlarında yardım etti, sıkça onu kefaretini ödeyerek hapisten çıkardı ve öldüğünde şarap mahzeninin yarısını Salai'ye bağışladı. Çırak Mona Lisa'ya bile sahip olmuştu.
 
 Bu ya gerçek aşktı, ya da Salai gerçekten şanslı veledin biriydi.
-
-&nbsp;
-
-&nbsp;

@@ -1,6 +1,5 @@
 
-&nbsp;
-<h2>AUGUSTINE OBERLIN</h2>
+## AUGUSTINE OBERLIN
 <img src="http://i.imgur.com/xW84MRh.jpg" alt="" />
 
 Doğum Tarihi: 1468.
@@ -11,8 +10,7 @@ Bunun hakkında ufak bir geçmiş buldum. Kendi işini kurmak için emekli olmad
 
 Şu balyozdan sakınmak en iyisi olacak.
 
-&nbsp;
-<h2>CESARE BORGIA</h2>
+## CESARE BORGIA
 <img src="http://i.imgur.com/fKNEhQv.jpg" alt="" />
 
 Doğum Tarihi: 1475 veya 1476.
@@ -29,8 +27,7 @@ Cesare ayrıca zeki bir general olduğunu da kanıtlamıştı. Papa'nın yardım
 
 Etrafındaki herkes için kapalı bir kutu olan Cesare'nin - bir defasında Isabella d'Este Cesare'ye bir zaferini kutlamak üzere yüz maske yollamıştı - güdüleri düşmanları tarafından okunamazdı ve davranışları acımasızlığıyla ünlüydü.
 
-&nbsp;
-<h2>DONATO MANCINI</h2>
+## DONATO MANCINI
 <img src="http://i.imgur.com/urxGEAK.jpg" alt="" />
 
 Doğum Tarihi: 1473.
@@ -43,8 +40,7 @@ Onun hakkında pek derin bilgilere ulaşamadım ancak Abstergo sunucularında on
 
 Cesare adamlarını nasıl seçeceğini iyi biliyormuş.
 
-&nbsp;
-<h2>DUCCIO DE LUCA</h2>
+## DUCCIO DE LUCA
 <img src="http://i.imgur.com/9Zl4rN0.jpg" alt="" />
 
 Doğum Tarihi: 1462.
@@ -59,8 +55,7 @@ Roma tersane kayıtları Duccio'nun, muhtemelen kantaşı ticaretine başlamak a
 
 Nihayetinde, şansı ters döndü ve 1520'de beş parasız olarak öldü; sağlık kayıtları çok net olmasa da ölümü Roma'da yiyecek ararken bir köpeğin ısırması sonucu kaptığı kuduzdan kaynaklanmış gibi görünüyordu.
 
-&nbsp;
-<h2>ERCOLE MASSIMO</h2>
+## ERCOLE MASSIMO
 <img src="http://i.imgur.com/HkkB8Nj.jpg" alt="" />
 
 Doğum Tarihi: 1474.
@@ -77,8 +72,7 @@ Massimo palazzo kütüphanesindeki kayıtlarda Leonardo Da Vinci'nin burayı sı
 
 Sana daha fazlasını anlatabilmek isterdim ancak gizli topluluklar genelde tarihçiler için ortalıkta kayıt bırakmıyorlar.
 
-&nbsp;
-<h2>GASPAR DE LA CROIX</h2>
+## GASPAR DE LA CROIX
 <img src="http://i.imgur.com/mrJhH8U.jpg" alt="" />
 
 Doğum Tarihi: 1466.
@@ -89,8 +83,7 @@ Buna Abstergo veritabanında rastladım: "Gaspar de la Croix mükemmel bir nişa
 
 Keskin nişancı tabiri 16. yüzyılda henüz oluşmamış olsa da Gaspar bu alanın öncüsüydü. Tüfekteki yeteneği ona her türlü yakın savaşta üstünlük sağlıyordu ve Cesare de onun bu yeteneğini savaşın başlangıcında kolay hedefleri yok etmek için kullanırdı.
 
-&nbsp;
-<h2>IL CARNEFICE</h2>
+## IL CARNEFICE
 <img src="http://i.imgur.com/Rk5eUJC.jpg" alt="" />
 
 Doğum Tarihi: 1473.
@@ -101,8 +94,7 @@ Tarih kitaplarında Il Carnefice hakkında hiçbir şey yok, bu yüzden ben de A
 
 Onun hakkında ulaşabildiğim bir diğer ufak bilgi parçası ise kendisini bir tür çarpık sanatçı olarak gördüğüydü. Sanırım bu kalabalık kısmını açıklıyor. Birilerini infaz ederken bazı numaralar yapıyor muydu merak ediyorum, yoksa asıl numara kolu nasıl indirdiğinde mi yatıyordu?
 
-&nbsp;
-<h2>JUAN BORGIA THE ELDER</h2>
+## JUAN BORGIA THE ELDER
 <img src="http://i.imgur.com/yLlQzWQ.jpg" alt="" />
 
 Doğum Tarihi: 1446.
@@ -117,8 +109,7 @@ Bu tür olaylar Cesare'yi oldukça etkilemiş olacak ki, Rodrigo Borgia'nın ban
 
 Juan kademeli olarak Roma'nın mali işlerinin başına getirilmişti. Şehrin vergi gelirlerinin büyük bir kısmıyla arkadaşlarına partiler verirdi, bir defasında yalnızca bir kez kullanılmış olan yüz adet altın tabağı Tiber nehrine fırlatmıştı, böylece aynı eylemi saf gümüş tabaklarla yapan Chigi'yi de geçmişti. Bu partilerin halka açık kısımlarına Romalı vatandaşlar da çağrılırdı ancak birçoğu gizliden gizliye paralarının çok daha yararlı işlere harcanabileceğinden yakınırdı.
 
-&nbsp;
-<h2>LANZ</h2>
+## LANZ
 <img src="http://i.imgur.com/XCatpQS.jpg" alt="" />
 
 Doğum Tarihi: 1480.
@@ -127,8 +118,7 @@ Meslek: Hırsız.
 
 Lanz adında, Roma'da bir çok yerel olaya karışmış gibi görünen bir hırsız hakkında kısa bir bilgi buldum. Abstergo dökümanlarına göre, Lanz Cento Occhi çetesiyle birlikte takılmış, çetenin adı "Yüzlerce Göz" anlamına geliyor. Bunun bir metafor olduğunu sanıyorum ama yine de DİKKAT et.
 
-&nbsp;
-<h2>LIA DE RUSSO</h2>
+## LIA DE RUSSO
 <img src="http://i.imgur.com/H1RZ8QV.jpg" alt="" />
 
 Doğum Tarihi: 1476.
@@ -138,8 +128,8 @@ Meslek: Kaçakçı.
 Bu hanım radarın epey altından uçmuş olmalı. Abstergo'nun onun hakkında tuttuğu tek kayıt şu gibi görünüyor: "Tapınakçılar'a gizli ve kaçak mallarıyla destek veren Lia de Russo yüzyılın en iyi anlaşmalarına giden yolda yalan söylemekten ve adam öldürmekten kaçınmamıştı."
 
 Bu oldukça garip, bu veri kısa bir süre önce oluşturulmuş. Abstergo neyin peşinde merak ediyorum.
-<h2></h2>
-<h2>MALFATTO</h2>
+
+## MALFATTO
 <img src="http://i.imgur.com/0KLFRTi.jpg" alt="" />
 
 Doğum Tarihi: Bilinmiyor
@@ -150,8 +140,7 @@ Abstergo veritabanında şöyle yazıyor: "Roma'nın yoksul kesimlerinde dehşet
 
 Bunun dışında bulabildiğim tek veri 1502 yılında Rosa in Fiore'nin yöresinde gezinen maskeli bir doktor haberiydi. Bu adam gerçekten de kötü bir habere benziyor ve son zamanlarda çok fazla kötü haber okudum.
 
-&nbsp;
-<h2>MICHELETTO CORELLA</h2>
+## MICHELETTO CORELLA
 <img src="http://i.imgur.com/XcGr2cS.jpg" alt="" />
 
 Doğum Tarihi: 1470.
@@ -176,8 +165,7 @@ Francesco Troche, Papalık Sekreteri.
 
 Ve burada kaydı geçmeyen onlarcası daha. Micheletto kurbanlarını sessizce boğması ve cesetlerini ortadan kaldırmasıyla ünlüydü.
 
-&nbsp;
-<h2>OCTAVIAN DE VALOIS</h2>
+## OCTAVIAN DE VALOIS
 <img src="http://i.imgur.com/VzJDrF8.jpg" alt="" />
 
 Doğum Tarihi: 1448.
@@ -194,8 +182,7 @@ Valois Cesare ve Juan Borgia ile Fransa'ya, Cesare'nin ikinci karısı Charlotte
 
 Valois Baron'u adamlarıyla birlikte 1500 yılında Roma'ya yürüdü. Amacının ne olduğu ise hâlâ belli değildir. Her halükarda, tam bu sırada, Bartolomeo ve adamları tarafından saldırıya uğramışlardı.
 
-&nbsp;
-<h2>PEDER RISTORO</h2>
+## PEDER RISTORO
 <img src="http://i.imgur.com/dvUuPkZ.jpg" alt="" />
 
 Doğum Tarihi: 1465.
@@ -208,8 +195,7 @@ Abstergo sunucuları onun hakkında: "Birader Ristoro takva ve açlık yemini et
 
 Biliyor musun, böyle bir rahibi ziyaret etmek günah çıkarmayı oldukça ilginç hale getirebilir.
 
-&nbsp;
-<h2>RODRIGO BORGIA</h2>
+## RODRIGO BORGIA
 <img src="http://i.imgur.com/zrbBjxY.jpg" alt="" />
 
 Doğum Tarihi: 1431.
@@ -226,8 +212,7 @@ Bu kazaların her birinin ardından Rodrigo Cesare'ye daha fazla bağımlı hale
 
 Git gide daha da garipleşiyor.
 
-&nbsp;
-<h2>SILVESTRO SABBATINI</h2>
+## SILVESTRO SABBATINI
 <img src="http://i.imgur.com/3bqJKTe.jpg" alt="" />
 
 Doğum Tarihi: 1472.
@@ -236,8 +221,7 @@ Meslek: Soylu.
 
 Sabbatini ailesine mensup ve Raphael'in öğrencisi Andrea Sabbatini'nin kuzeni olan Silvestro, kendisine bahşedilen yüksek statü karşılığında Borgia için çalışıyordu. Cesare'yi "hayal kırıklığına" uğrattıktan sonra (kayıtlar onu ne yaparak hayal kırıklığına uğrattığını yazmaz, yalnızca işi batırdığını söyler), Micheletto Silvestro'nun sol kolunun dirsekten aşağısını kesmişti.
 
-&nbsp;
-<h2>VIERI DE'PAZZI</h2>
+## VIERI DE'PAZZI
 <img src="http://i.imgur.com/EFcdm2L.jpg" alt="" />
 
 Doğum Tarihi: 1454.

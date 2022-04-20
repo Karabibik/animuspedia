@@ -1,6 +1,5 @@
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/yoWAZ7.jpg" alt="" width="153" height="299" />BRADDOCK SEFERİ</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/yoWAZ7.jpg" alt="" width="153" height="299" />BRADDOCK SEFERİ
 Bu savaş Fransız-Yerli Savaşı'nın bir parçasıydı. Savaşta, Edward Braddock'un 1500 kişilik İngiliz Piyadesin oluşan birliği ve beraberindeki milisleri, kendilerinin yarısı kadar bir Fransız birliği karşısında bozguna uğradı.
 
 İngiltere'de pek çok kişi bundan bahsetmez.
@@ -12,9 +11,7 @@ Fransız askerleri ve yerliler tarafından pusuya düşürüldüğünde Braddock
 Savaş "Braddock'un Bozgunu" olarak da bilinir, ama çok tuhaftır ki kimse nedenini bilmez.
 
 Şaka yapıyorum. Ama eğer bana bunu açıklaman gerekse bile, bunun için pek de hazır olduğunu sanmıyorum.
-<h2></h2>
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/kLQ1yr.jpg" alt="" width="163" height="293" />FORT STANWIX ANTLAŞMASI</h2>
+## <img class="alignright" src="https://i.hizliresim.com/kLQ1yr.jpg" alt="" width="163" height="293" />FORT STANWIX ANTLAŞMASI
 Bu antlaşma Indigenos insanları ile her zaman diğerlerinin malına el uzatan koloni sakinleri arasında süren arazi anlaşmazlığını çözmek için yapıldı.
 
 III. Kral George 1763'te gerçeklikle ilgisi olmayan bir sınır çizdi. Kolonilerde oturanlar sınır çizilmeden önce sınırın batısında oturuyorlardı - Kral'ın araziyi bu kadar rahat kullanamayacağından bahsetme gereği görmüyorum bile (Bu fikrin Kral'ın aklına birden bire geldiğine eminim - zavallıcıklarım, unutmayalım ki iş başkalarının haklarını korumaya geldiğinde Krallar dillere destan şekilde unutkan olabilirler...).
@@ -27,8 +24,7 @@ Antlaşma imzalandığında, en azından... Johnson için cömertçeydi -  araz
 
 Johnson arazi sayesinde servetine servet kattı - herhalde bu antlaşma onun kafasına konan bir devlet kuşu.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/zlZ2o9.jpg" alt="" width="160" height="299" />FRANSIZ - KIZILDERİLİ SAVAŞI</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/zlZ2o9.jpg" alt="" width="160" height="299" />FRANSIZ - KIZILDERİLİ SAVAŞI
 Bu uzun zamandır süregelen İngiliz-Fransız rekabetinin sahne olduğu pek çok savaştan biriydi. Siz buna REKABET diyebilirsiniz. Bense buna asker olmadan oynanan bir zihinsel SAVAŞ demeyi yeğlerim.
 
 Bu savaş kimin en büyük Sömürgeci Güç olduğu gösterme çabasından ileri gelmekteydi. Elbette, sadece İngilizlerin ve Fransızların birbirleriyle savaşmaları yetmezdi - bazı Yerel Kuzey Amerika kabilelerini de çatışmaya katılmaya ikna ettiler, bu yüzden savaşın adı 'Fransız ve Yerliler Savaşı'.
@@ -40,9 +36,7 @@ George Washington asıl savaşı başlatma şerefine nail oldu - emirlere uyarak
 İngilizler 1758'e kadar savaşı kaybediyordu ta ki savaşa kaynak sağlamayı öncelik olarak belirleyen yeni başbakanları göreve gelene kadar. Büyük ihtimalle Fransızlar'a duyduğu nefret sebebiyle yaptı bunu. Belki de bir defasında kötü bir Fransız ekmeği yemiştir. Gelen destekle, İngilizler - yerel müttefikler ve koloni milisleriyle beraber - yavaş yavaş da olsa durumu düzeltmeyi başardı. Nihayetinde, Fransızlar Kuzey Karayip'deki tüm topraklarından çekilme zorunda kaldı, Bu gün İngiltere'de “Her Yıl, Tüm gün” adıyla kutlarız.
 
 Kısacası İngilizler kazandı - ama sırtımıza büyük savaş borçları yüklendi. Bu borçları Fransızlara karşı kendilerine yardım eden kolonilere, onları soğan ekmekle yaşamaya mahkum edercesine daha fazla vergiyle ödetmeye çalıştılar. Koloniler buna Amerikan Devrimi'ne zemin oluşturacak rahatsızlıklara yol açacak dizi protestoyla karşı çıktı. Hala minnettarlıktan bahsediyorsun. Aptalca!
-<h2></h2>
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/O9b34P.jpg" alt="" width="161" height="299" />LEXINGTON VE CONCORD SAVAŞLARI</h2>
+## <img class="alignright" src="https://i.hizliresim.com/O9b34P.jpg" alt="" width="161" height="299" />LEXINGTON VE CONCORD SAVAŞLARI
 18 Nisan 1775 gecesi, İngiliz Piyadeleri Concord'daki isyancı cephanesini yağmalamak için Boston'dan ayrıldı. Ana sebep ani bir baskın ile yağma yapmak, isyancıların İngilizlere saldırma planlarını alt üst etmek ve isyancı elebaşları John Hancock ve Samuel Adams yakalamaktı. Bu plan İngilizler için talihsiz bir sonuç doğurdu: Amerikan Devrimi.
 
 Diğer bir deyişle: bu savaş İngilizler için tamamen bir kabusa dönüştü. Açıkçası kullanırken yüzde yüz rahat olduğum bir cümle değil bu.
@@ -59,8 +53,7 @@ Genel olarak, yakınlardaki milisler şehirden yükselen dumanları görene kada
 
 Savaştan sonra dağılmak yerine, milisler Boston girişinin dışında tekrar toparlanıp Boston Kuşatması'na başladılar, ve Kıtasal Ordu'nun temelleri atıldı.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/W9z63N.jpg" alt="" width="196" height="301" />MONMOUTH SAVAŞI</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/W9z63N.jpg" alt="" width="196" height="301" />MONMOUTH SAVAŞI
 Monmouth Savaşı stratejik olarak önemli bir savaş değildi ama Washington ve Kıtasal Ordu'nun kendini kanıtlaması açısından önemliydi. Ayrıca neredeyse bir felaketti. Çok erken açık ettim sanırım, neyse.
 
 İngilizler, Fransızların Devrim Savaşları'na katıldığını öğrendiğinde, askerlere Philadelphia'dan çekilip New York'a intikal etmeleri emredildi. Oldukça geniş çaplı bir yolculuktu. Motorlu araçların icadını bekleyemezlerdi haliyle.
@@ -77,8 +70,7 @@ Herneyse, Lee'nin planı geri tepti - Washington geldiğinde askerleri geri çek
 
 Savaş Washington'un yıldızının parlamasını sağladı - ve Lee için ise işler kötüleşecekti. Lee tutuklandı, askeri mahkemede yargılandı ve ordudan ihraç edildi.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/R9Abza.jpg" alt="" width="153" height="298" />PAUL REVERE'NİN GEZİNTİSİ</h2>
+## <img class="alignright" src="https://i.hizliresim.com/R9Abza.jpg" alt="" width="153" height="298" />PAUL REVERE'NİN GEZİNTİSİ
 Lexington ile Concord Savaşları'nın başlamasından bir önceki gece Paul Revere ve William Dawes kırsal kesimdeki insanları İngiliz Nizamilerin ilerledikleri hakkında insanları uyarmak için Boston'dan ayrıldılar. Bilhassa, John Hancock ile Samuel Adams'ı uyarmak istiyorlardı çünkü askerler onları tutuklayacaklardı.
 
 Rrevere Boston'ı Charles Nehri boyunca yola alacak olan bir gemiyle terk etti, daha sonra yoluna Charlestown yarımadasında devam etti. Dawes, Boston kıstağından geçen daha uzun yolu tercih etti. Lexington'a ilk varan Revere oldu, Dawes'in de az bir yolu kalmıştı.
@@ -89,8 +81,7 @@ Lexington'daki Hancock ile Adams'ı uyardıktan sonra Dawes ve Revere Concord'a 
 
 Yıllar sonra, Henry Wadsworth Longfellow, tüm destekçileri tek bir çatı altında toplayan Paul Revere hakkında bir şiir yazacak. İşte bu yüzden herkes Rrevere'nin adını biliyor ve herkes ona büyük bir saygı duyuyor.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/3j51Gr.jpg" alt="" width="168" height="301" />SULLIVAN SEFERİ</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/3j51Gr.jpg" alt="" width="168" height="301" />SULLIVAN SEFERİ
 Sullivan Seferi Washington'un İngilizler ve İrokualar tarafından kuzey sınırında yapılan yağmalara karşı yapılan bir misillemeydi. Joseph Brant ve John Butler komutasındaki birlikler Wyoming ve Cherry vadilerindeki kalelere ve yerleşim yerlerine saldırıp milislerin yanısıra kadınları ve çocukları da öldürüp kafa derilerini yüzdüler.
 
 Washington'un emirleri açık ve netti. Problemi iyice dallandırıp budaklandırmak için, Sullivan bulabildiği tüm İrokua yerleşmelerine saldıracak, oraları ateşe verecek ve alabildiği kadar esir alacaktı. Sullivan 40 İrokua köyünü yakıp, 160,000 ölçek mısırı ateşe vererek bu emri yerine getirdi. Askerleri kurbanların derilerini yüzerek ve kabinlerde insanları yakarak kendiliklerinden eski zulümlerin intikamını aldı. Sullivan ayrıca saldırılarını sadece düşmanlarla sınırlandırmadı da. Savaş süresince tarafsız kalan Onondaga'ya da saldırdı. (Bu saldırı haliyle Onondaga'yı Vatanseverlerin düşmanlarının cephesine yaklaştırdı.)
@@ -99,8 +90,7 @@ Sonuç olarak, Sullivan seferi iki taraf da sürekli aldığı saldırıların i
 
 Sullivan Seferi yüzünden, George Washington İrokualar arasında "Köy Yıkan" adıyla anılmaya başladı. Ancak bu lakabın kökeni biraz tartışmalı zira bu lakabı Fransızlar ve Yerliler arasındaki savaşta yıktığı köylerden de almış olması muhtemel. İşte büyük bir devlet adamının özelliği - yakıp yıkma politikası sebebiyle ne zaman ün kazandığını söylemek zor çünkü bunu o kadar çok uygulamaya koydu ki.
 
-&nbsp;
-<h2><img class="alignright" src="https://i.hizliresim.com/p8Ampq.jpg" alt="" width="177" height="303" />VALLEY FORGE</h2>
+## <img class="alignright" src="https://i.hizliresim.com/p8Ampq.jpg" alt="" width="177" height="303" />VALLEY FORGE
 Burası Kıtasal Ordu'nun 1777-78 içindeki kışlık karargah bölgesi.
 
 Forge Vadisi konum olarak Washington'ın ilk tercihi değildi. Benim ilk tercihimse Bahamalar olurdu, ama görünüşe göre bu oldukça uygunsuz bir konum seçimi demekti. Vadi oldukça tenhaydı, ordunun barınak ve yiyecek ihtiyaçlarını karşılamanın büyük bir kentten daha kolay olacağını düşündü. Öbür yandan Kongre ordunun yakınlarında olmasını istedi - kendileriyle (New York'ta) İngiliz Ordusu'nun (Philadelphia'da) aralarında durmasını istiyordu. Forge Vadisi, İngiliz askeri birliklerini rahatsız etmeye yetecek kadar Philadelphia'ya yakın, İngilizlerin yapacağı herhagi bir süpriz saldırıdan kaçınacak kadar uzaktı. Süprizlerden arındırılmış bir hayat. Tam da istenebilecek bir dilek.
@@ -113,8 +103,7 @@ Forge Vadisi facia olmaktan öte, günümüzde Amerikan ordusunun "talim yeri" o
 
 Ordu başarılı bir savaş gücü meydana getirdi - Monmouth Savaşı'nın zaferini ivedilikle kazandı.
 
-&nbsp;
-<h2><img class="alignleft" src="https://i.hizliresim.com/aMvybB.jpg" alt="" width="141" height="301" />ZARURET KALESİ SAVAŞI</h2>
+## <img class="alignleft" src="https://i.hizliresim.com/aMvybB.jpg" alt="" width="141" height="301" />ZARURET KALESİ SAVAŞI
 Bu savaş, Fransız-Kızılderili savaşı'nı başlatan savaşlardan biriydi ve başlangıç savaşlarının heyecan verici olması önemlidir ki aksi halde insanlar ilgilerini kaybederler.
 
 1754'te, George Washington bir grup Virginia milisi ile Ohio Nehri'ne gönderildi. Buradaki arazi İngiliz koloni sakinleri ile Fransızlar arasında tartışma yaratıyordu. Washington'ın görevi Duquesne Kalesi'ni geri alıp Fransız güçlerini bölgeden dışarı sürmekti.

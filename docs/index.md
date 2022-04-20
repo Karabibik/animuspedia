@@ -1,17 +1,21 @@
-# Animus Projesi - Veritabanı
-
-Animus Projesi'nin arşiv niteliğinde sitesi.
+# Animuspedia
+Animus Projesi'nin arşiv niteliğindeki sitesi.
 
 ## Veritabanı
-
-
+[[Assassin's Creed II/Belgeler|Assassin's Creed II]]
+[[Assassin's Creed - Brotherhood/Belgeler|Assassin's Creed - Brotherhood]]
+[[Assassin's Creed - Revelations/Bomba Kodeksi/Kabuklar|Assassin's Creed - Revelations]]
+[[Assassin's Creed III/Kişiler/Bireyler|Assassin's Creed III]]
 
 ## Yama Listesi
+AC1
+AC2
+AC3
+AC4
+AC5
 
-## Çeviri Rehberleri
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## Ekip Rehberleri
+Çeviri Rehberi:
+Trados Rehberi:
+Program Rehberi:
+Tester Rehberi:

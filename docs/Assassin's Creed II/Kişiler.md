@@ -1,6 +1,5 @@
-<h2 id="topluluklar" class="baslik"><strong>TOPLULUKLAR</strong></h2>
-&nbsp;
-<h4 id="bankalar" class="baslik">BANKALAR</h2>
+<h2><strong>TOPLULUKLAR</h2>
+## BANKALAR
 <img class="" src="http://i.imgur.com/u96mPzQ.jpg" alt="" width="130" height="259" />
 
 <em>REBECCA84: Görünüşe göre Tapınakçılar paralarını transfer etmek için bankacılık ağını kullanıyor. Bahse varım bu nakit paranın birazını cebe indirebilirsin.</em>
@@ -9,14 +8,12 @@ Bankacıların müşterilerinin para yatırmaları ve para çekmelerini takip et
 
 Bankalar teknik olarak paralarından para kazanamıyordu, çünkü Katolik Kilisesi faizi yasaklamıştı ama pratikte bu yasağa bankacılar uymuyordu, hatta bankacılık sistemine dahil olan ve bankaların bünyelerinde barındırdıkları para nispetince Papa'ya "hediyeler" göndermelerini zorunlu kılan Vatikan bile bu yasağı çiğniyordu. Adı "faiz" olmadıkça, Tanrı farkına varmazdı, değil mi?
 
-&nbsp;
-<h2>DEMİRCİLER</h2>
+## DEMİRCİLER
 <img class="" src="http://i.imgur.com/LuxRUK7.jpg" alt="" width="130" height="260" />
 
 Her Rönesans topluluğu bir demirciye ihtiyaç duyardı. Kılıçlar, kilitler, tavalar, bıçaklar, çiviler ve zırhlar hep metalden yapılırdı ve hepsinin şekil verilmeye ihtiyacı vardı. Ek olarak, demirciler pratik el becerilerini sanata dönüştürmeye başlayınca Rönesans boyunca sanatsal demir işleri de ortaya çıkmıştır.
 
-&nbsp;
-<h2>DOKTORLAR</h2>
+## DOKTORLAR
 <img class="" src="http://i.imgur.com/RqMejWw.jpg" alt="" width="129" height="258" />
 
 Orta Çağ'da Arapların sayesinde gelişen anatomi ve baskı bilimleri, Rönesans döneminde tıbbın öncüsü olmuştur.
@@ -25,8 +22,7 @@ Orta Çağ'da Arapların sayesinde gelişen anatomi ve baskı bilimleri, Rönes
 
 1350'de veba Avrupa'yı kırıp geçirdikten sonra, birçok hekim özel veba kıyafetleri giyerek hastaları muayene etmiştir. Hastalık bulaşmasından korunmak için balmumu kaplı bir manto giyiyor ve gaga şeklinde ilkel bir tür gaz maskesi takıyorlardı.
 
-&nbsp;
-<h2>HIRSIZLAR</h2>
+## HIRSIZLAR
 <img class="" src="http://i.imgur.com/OUButqL.jpg" alt="" width="130" height="259" />
 
 Rönesans dönemi hırsızları genellikle ilk tehlike sinyalinde ortadan kaybolup muhafızların kendilerini takip etmesini imkansız hale getirebilen gezginlerdi.
@@ -35,8 +31,7 @@ Rönesans İtalyasında kara borsa faaliyetleri patlama yaşıyordu. Cinayetler 
 
 Cezalandırılmaktan korunmak için, hırsızlar kendi aralarında birbirlerine güven bağları oluşturmuşlardı. Her hırsız diğerlerine en kirli sırlarını bile anlatmak zorundaydı ki bu da her hırsız arkadaşlarının hayatını neredeyse elleri arasında tutuyor demekti.
 
-&nbsp;
-<h2>HIZLI SEYAHAT İSTASYONU</h2>
+## HIZLI SEYAHAT İSTASYONU
 <img class="" src="http://i.imgur.com/LgGEizC.jpg" alt="" width="130" height="259" />
 
 <em>REBECCA84: Vapura binmek için para ödemelisin.</em>
@@ -47,30 +42,26 @@ Traghetto iskeleleri, karlı bir ayrıcalık olan iskelelerde çalışmaya yaln�
 
 Her iskele kendi kurallarına sahipti, ki bu kurallar yalnızca 40 yaşından büyüklerin buralarda çalışmasına izin verenlerden, sal başına sadece 10 yolcu taşınmasına izin verenlere kadar değişiklik gösteriyordu.
 
-&nbsp;
-<h2>KARAVAN SEYAHATİ</h2>
+## KARAVAN SEYAHATİ
 <img class="" src="http://i.imgur.com/xNQ5dxT.jpg" alt="" width="130" height="260" />
 
 Rönesans döneminde seyahat etmek bugünkü gibi iğrenç bir çile değildi. Bunun yerine, oldukça korkutucuydu. Kırsal bölgeler eşkıyalarla doluydu, bu yüzden de bir çok yolcu karavan adı verilen silahlı gruplar halinde yola çıkmayı tercih ediyordu. Evhamlı yolcular genellikle değerli eşyalarını ve altınlarını ayakkabılarının tabanına ya da ceket astarlarının içine dikiyorlardı.
 
 Vetturini adı verilen rehberler bazen karavanların rotalarını belirlemek ve yol üstünde kalacakları otellerde yer ayırtılması için tutulurdu ama bunlar çoğunlukla eşkıyalarla ortak çalışıyor olurlardı, tıpkı şimdiki seyahat acenteleri gibi.
 
-&nbsp;
-<h2>KARNAVAL OYUNCULARI</h2>
+## KARNAVAL OYUNCULARI
 <img class="" src="http://i.imgur.com/ghU1PlU.jpg" alt="" width="130" height="260" />
 
 Dünyaca ünlü Venedik Karnavalı 1296 yılında, Paskalya perhizinden bir önceki gün genel bir tatil olarak başladı. Kısa süre sonra karnaval zamanı maskeli baloların, partilerin, tiyatral gösterilerin, geçitlerin, sokak danslarının, yumurta fırlatma yarışmalarının, flörtlerin ve genel komikliklerin, yani bilirsin, kalabalığı eğlendirmek için ortalık yerde hayvan öldürmeler ve tepeden nehre doğru varillerin içinde domuz yuvarlamalar gibi eğlencelerin zamanı olmuştu.
 
 Neticede, Karnaval reality şovlarının atalarından biriydi.
 
-&nbsp;
-<h2>KURTİZANLAR</h2>
+## KURTİZANLAR
 <img class="" src="http://i.imgur.com/0iHcjeO.jpg" alt="" width="130" height="262" />
 
 Fahişelik, tek seçenekleri aileleriyle evde oturmak ya da bir manastırda kalmak olan Rönesans kadınları arasındaki en popüler mesleklerden biriydi. İtalyan toplumu fahişeliği destekliyordu, ve bir çok genelevin işleyişi hükumet tarafından düzenleniyordu. 15. yüzyılın sonunda, bazı şehirler fahişeliğe karşı kanunlar çıkarmaya ve fahişeleri, saygın halktan ayırt edilebilmeleri için belli giysiler giymeye zorladılar.
 
-&nbsp;
-<h2>PARALI ASKERLER</h2>
+## PARALI ASKERLER
 <img class="" src="http://i.imgur.com/Dk55fPu.jpg" alt="" width="130" height="258" />
 
 Paralı askerler Rönesans İtalyası'nda çoğunlukla hareketliydi, bir sözleşmeden diğerine geçerlerdi. Condottieri adı verilen ve genellikle şehirler tarafından kiralanan profesyonel yüzbaşılar, belli bir zaman dilimi için asker toplardı. İtalya'da hizmet veren kiralık askerlerin birçoğu İtalyan bile değildi, Almanya, İsviçre ve Macaristan gibi ülkelerden gelirlerdi.
@@ -81,30 +72,25 @@ Kendilerini finanse eden devletin parası bittiğinde, askerler dağılır, ço�
 
 Bazı kiralık askerler onurluydu, inandıkları bir amaç uğruna savaşırlardı ancak bunların sayısı çok azdı ve olanlar da birbirlerinden uzaktı. Yine de, bulunmuş oldukları yerlerde, peşlerinden koşulan kişilerdi.
 
-&nbsp;
-<h2>SANAT TÜCCARLARI</h2>
+## SANAT TÜCCARLARI
 <img class="" src="http://i.imgur.com/WTZwAWB.jpg" alt="" width="130" height="259" />
 
 Rönesans ressamlarının dükkanları genellikle küçük olurdu ve ressamlar çoğunlukla evler veya kiliseler için dini dekorasyonlarla uğraşırdı. Ressamlar bugünkü gibi hayalperest insanlar olarak görülmez, aksine marangozlar ve demirciler gibi zanaatkar olarak görülürlerdi. Resmin üretimi genellikle ortaklaşa olurdu.
 
 Komisyonları alan ve tablonun geneline toplu bir bakış atan dükkanın sahibi genelde efendi olurdu. Efendi genelde bir iş adamı olarak görülür ve genellikle o zaman hangi dini tablo revaçtaysa bunun kopyalarını üreterek kar etmesi beklenirdi.
 
-&nbsp;
-<h2>TELLALLAR</h2>
+## TELLALLAR
 <img class="" src="http://i.imgur.com/FwTUF8G.jpg" alt="" width="130" height="259" />
 
 Rönesans İtalyası halkının birçoğu okuma bilmediğinden ilanlar, yerel kanunlar, haberler, pazar kurulacak günler ve reklamlar tellallar tarafından duyuruluyordu. Vergi artışları gibi tatsız haberlerin arkasından mutsuzluğun aşırı bir şekilde dışa vurumu gibi durumlara karşı tellalları halktan korumak için özel kanunlar çıkartılmıştı.
 
-&nbsp;
-<h2>TERZİLER</h2>
+## TERZİLER
 <img class="" src="http://i.imgur.com/TbPk2YN.jpg" alt="" width="131" height="261" />
 
 Rönesans tüccarları arasında terziler orta sınıfa dahillerdi ve zenginleri son modaya göre giydirmeleri karşılığında iyi para alıyorlardı. Bazıları zengin müşterileri ile yaptıkları iş yönünden yakınlıklarına ve uzun süreli bağ oluşturmalarına bağlı olarak müşterileri kadar zenginleşebiliyordu.
 
-&nbsp;
 <h2 id="kisiler"><strong>KİŞİLER</strong></h2>
-&nbsp;
-<h2>ALVISE DA VILANDINO</h2>
+## ALVISE DA VILANDINO
 <img class="" src="http://img3.wikia.nocookie.net/__cb20091130205101/assassinscreed/images/thumb/c/cf/Zw-alvisedavilandino.png/125px-Zw-alvisedavilandino.png" alt="" width="130" height="261" />
 
 Doğum Tarihi: 1441.
@@ -117,8 +103,7 @@ Venedik'in yerlilerinden olan Alvise, Venedik'in üstünlüğüne ikna olarak de
 
 Venedik'in savaşı kaybettiği kesinleştiğinde, geminin kaptanı tarafından görevi ihmal etmekle suçlandı ve donanma kayıtlarından silindi.
 
-&nbsp;
-<h2>ANNETTA</h2>
+## ANNETTA
 <img class="" src="http://img3.wikia.nocookie.net/__cb20091130205101/assassinscreed/images/thumb/d/d9/Zw-annetta.png/125px-Zw-annetta.png" alt="Zw-annetta" width="130" height="260" />
 
 Doğum Tarihi: 1457.
@@ -129,8 +114,7 @@ Auditore ailesinin yatılı hizmetçisi Annetta alt sınıftan gelen Rönesans k
 
 Sonuçta, Annetta'nın hayatı hakkında çok az bilgi var. Tarihte bir iz bırakmadan göçüp gitmiştir.
 
-&nbsp;
-<h2>ANTONIO</h2>
+## ANTONIO
 <img class="" src="http://img2.wikia.nocookie.net/__cb20110905235658/assassinscreed/images/thumb/d/d7/Zw-antonio.png/125px-Zw-antonio.png" alt="Zw-antonio" width="129" height="258" />
 
 Doğum Tarihi: 1443.
@@ -143,8 +127,7 @@ Babasının yanındaki çıraklığından arta kalan vakitlerde kendi kendine ok
 
 Şehir muhafızları tarafından kaydedilen bir ifadede, gizemli bir şekilde hapisten kaçmadan önce Antonio şöyle demişti: "Venedik toplumunda bir meziyet sahibi olmak için çok çalışmak yeterli değildir. Bir kişi daha fazlasını istiyorsa, gidip kendisi almalıdır!"
 
-&nbsp;
-<h2>AGOSTINO BARBARIGO</h2>
+## AGOSTINO BARBARIGO
 <img src="http://img4.wikia.nocookie.net/__cb20091130205101/assassinscreed/images/thumb/7/76/Zw-agostinobarbarigo.png/125px-Zw-agostinobarbarigo.png" alt="Zw-agostinobarbarigo" />
 
 Doğum Tarihi: 1420.
@@ -159,8 +142,7 @@ Agostino, Venedik'i hayal kırıklığına uğratmaktan öldü. Üstelik, ölüm
 
 İşte gerçek lider diye buna denir: Eğer topraklarını elinde tutamıyorsan en azından tutsaklarını mutlu et!
 
-&nbsp;
-<h2>BARTOLOMEO D'ALVIANO</h2>
+## BARTOLOMEO D'ALVIANO
 <img src="http://img1.wikia.nocookie.net/__cb20091130205102/assassinscreed/images/thumb/6/60/Zw-bartolomeodalviano.png/125px-Zw-bartolomeodalviano.png" alt="Zw-bartolomeodalviano" />
 
 Doğum Tarihi: 1455.
@@ -185,8 +167,7 @@ Bartolomeo 1513 yılına kadar Fransız zindanlarında tutsaktı. Ama Fransızla
 
 Venedik, cesedini büyük bir seremoniyle karşıladı ve onu Santo Stefano kilisesine gömdü.
 
-&nbsp;
-<h2>BIANCA RIARIO</h2>
+## BIANCA RIARIO
 <img src="http://img1.wikia.nocookie.net/__cb20100129194241/assassinscreed/images/thumb/4/43/Zw-biancariario.png/125px-Zw-biancariario.png" alt="Zw-biancariario" />
 
 Doğum Tarihi: 1478.
@@ -201,8 +182,7 @@ Bianca, Orsiler'in elinden kaçtı ve annesine geri döndü (bu kaçışın nas�
 
 Cesare daha sonra, 1502 yılında, Bianca'nın kocası III. Astorre Manfredi'yi öldürdü. Bianca tekrar evlendi, ve bu sefer, I. Troilo de' Rossi 1502 yılında ölünce, bilgece bir seçimle hayattan pes etmeye karar verdi ve 1522 yılı civarında mezara girdi.
 
-&nbsp;
-<h2>CATERINA SFORZA</h2>
+## CATERINA SFORZA
 <img src="http://img4.wikia.nocookie.net/__cb20091130205102/assassinscreed/images/thumb/7/7a/Zw-caterinasforza.png/125px-Zw-caterinasforza.png" alt="Zw-caterinasforza" />
 
 Doğum Tarihi: 1463.
@@ -221,8 +201,7 @@ Hiç zaman kaybetmeden komşu yönetimlerin dostluğunu kazandı, vergi sistemin
 
 Sonuçta, 1499 yılında Cesare Borgia Forlì ve Caterina'yı mağlup etti. Caterina esir alındı ve Roma'ya, onu bir yıl esir tutan ve oğluyla birlikte tecavüz ettiği söylenen Rodrigo Borgia'ya gönderildi. Vatikan'dan salıverildiğinde, saçları beyazlamış haldeydi. Floransa'ya sürgün edilen Caterina 1509 yılında zatürreden öldü.
 
-&nbsp;
-<h2>CLAUDIA AUDITORE</h2>
+## CLAUDIA AUDITORE
 <img src="http://img3.wikia.nocookie.net/__cb20091130205103/assassinscreed/images/thumb/a/ae/Zw-claudiaauditore.png/125px-Zw-claudiaauditore.png" alt="Zw-claudiaauditore" />
 
 Doğum Tarihi: 1461.
@@ -235,8 +214,7 @@ Okuluna ait bir raporda, bir keresinde erkek arkadaşına baktığı için bir k
 
 Pozitif tarafından bakarsak, o Ezio'nun kız kardeşiydi yani güvende.
 
-&nbsp;
-<h2>CRISTINA VESPUCCI</h2>
+## CRISTINA VESPUCCI
 <img src="http://img3.wikia.nocookie.net/__cb20091130205103/assassinscreed/images/thumb/d/db/Zw-cristinavespucci.png/125px-Zw-cristinavespucci.png" alt="Zw-cristinavespucci" />
 
 Doğum Tarihi: 1459.
@@ -251,8 +229,7 @@ Eh, görünüşe bakılırsa, Lorenzo'yu etkilemek için onun önemini biraz aba
 
 Yüzyılın en hafif kalmış sözü.
 
-&nbsp;
-<h2>EZIO AUDITORE</h2>
+## EZIO AUDITORE
 <img src="http://img2.wikia.nocookie.net/__cb20091130205103/assassinscreed/images/thumb/8/8a/Zw-ezioauditore.png/125px-Zw-ezioauditore.png" alt="Zw-ezioauditore" />
 
 Doğum Tarihi: 1459.
@@ -265,8 +242,7 @@ Büyük banker Giovanni Tornabuoni tarafından eğitilen Ezio'nun okul kayıtlar
 
 Kayıtlardan bunun ne olduğunu çıkarmak imkansızdır, çok sınırlı bir kayıt vardır ancak bunun ardından Ezio tarihten tamamen silinir sanki hiç var olmamış gibidir.
 
-&nbsp;
-<h2>FEDERICO AUDITORE</h2>
+## FEDERICO AUDITORE
 <img src="http://img2.wikia.nocookie.net/__cb20091130205103/assassinscreed/images/thumb/2/20/Zw-federicoauditore.png/125px-Zw-federicoauditore.png" alt="Zw-federicoauditore" />
 
 Doğum Tarihi: 1456.
@@ -279,8 +255,7 @@ Bir madde detaya girer. 17 Eylül 1475'te, bir çanta altın florin kaybolur: "B
 
 Şaşırtıcı olmayan bir şekilde, Federico 20. doğum gününden kısa bir süre sonra bankanın maaş bordrolarından çıkarılmıştı.
 
-&nbsp;
-<h2>GIOVANNI AUDITORE</h2>
+## GIOVANNI AUDITORE
 <img src="http://img3.wikia.nocookie.net/__cb20091130205508/assassinscreed/images/thumb/d/da/Zw-giovanniauditore.png/125px-Zw-giovanniauditore.png" alt="Zw-giovanniauditore" />
 
 Doğum Tarihi: 1436.
@@ -293,8 +268,7 @@ Böylesine büyük bir yetenek Il Magnifico tarafından cömertçe ödüllendiri
 
 Rahatlayan ve minnet duyan Lorenzo, ödül olarak Giovanni'nin konağının parasını ödemişti.
 
-&nbsp;
-<h2>GIULIANO DE'MEDICI</h2>
+## GIULIANO DE'MEDICI
 <img src="http://img3.wikia.nocookie.net/__cb20091130205508/assassinscreed/images/thumb/5/54/Zw-giulianodemedici.png/125px-Zw-giulianodemedici.png" alt="Zw-giulianodemedici" />
 Doğum Tarihi: 1453.
 
@@ -310,8 +284,7 @@ Meşru bir Medici mensubu olduktan sonra, bir tüccar kızının oğlu olan bu �
 
 Bir tüccar kızının oğlu sefil geçmişinden kaçıp Papa oluyor ve sonunda bir kez daha tüccar oluyor. Ah, ne ironi ama.
 
-&nbsp;
-<h2>LA VOLPE</h2>
+## LA VOLPE
 <img src="http://img4.wikia.nocookie.net/__cb20091130205508/assassinscreed/images/thumb/4/49/Zw-lavolpe.png/125px-Zw-lavolpe.png" alt="Zw-lavolpe" />
 
 Doğum Tarihi: ?
@@ -322,8 +295,7 @@ La Volpe (Tilki) hakkında tarih kitaplarında neredeyse hiçbir iz yoktur. İsm
 
 La Volpe'nin Papa'nın aracını soyduğu ve ne muhafızlarından herhangi birinin, ne de aracın içinde oturmakta olan Papa'nın bunu fark ettiği söylenir. 1467'de bir gece, Palazzo della Signoria, Palazzo Medici ve Santa Croce'nin çatılarında, aynı anda görülmüştür. Bazıları onun ölümsüz olduğunu, asla yaşlanmadığını iddia eder, bazıları da menekşe rengi gözlerinin binaların içini görebildiğini, içindekileri inceleyebildiğini söyler.
 
-&nbsp;
-<h2>LEONARDO DA VINCI</h2>
+## LEONARDO DA VINCI
 <img src="http://img3.wikia.nocookie.net/__cb20091130205509/assassinscreed/images/thumb/5/50/Zw-leonardodavinci.png/125px-Zw-leonardodavinci.png" alt="Zw-leonardodavinci" />
 Doğum Tarihi: 1452.
 
@@ -339,8 +311,7 @@ Oldukça kabarık bir liste oluşturan epik başarılarına rağmen, Leonardo kr
 
 Leonardo ayrıca oldukça çalkantılı bir aşk hayatına da sahipti. 1746'da oğlancılıkla suçlanan Leonardo büyük ihtimalle homoseksüeldi. Asistanı Salai, hırsızlık ve elbiselere çok fazla para harcamakla suçlanmıştı ama muhtemelen aynı zamanda Leonardo'nun sevgilisiydi de. Leonardo, ünlü tablosu "Aziz Vaftizci Yahya" da dahil olmak üzere Salai'nin birçok resmini yaptı ve 1519'da öldüğünde "Mona Lisa"yı ona bıraktı.
 
-&nbsp;
-<h2>LORENZO DE'MEDICI</h2>
+## LORENZO DE'MEDICI
 <img src="http://img2.wikia.nocookie.net/__cb20091130205509/assassinscreed/images/thumb/e/ec/Zw-lorenzodemedici.png/125px-Zw-lorenzodemedici.png" alt="Zw-lorenzodemedici" />
 Doğum Tarihi: 1449.
 
@@ -358,8 +329,7 @@ Bunların yanında, Lorenzo aile bankasını yönetmektense şiir yazmaktan ve �
 
 Lorenzo 1492'de öldü. Neredeyse beş parasız olarak, zengin hayat tarzına karşı popüler olan tepkiye ve çılgın keşiş Savonarola'nın gücünün yükselişine karşı koyamadı.
 
-&nbsp;
-<h2>MARIA AUDITORE</h2>
+## MARIA AUDITORE
 <img src="http://img4.wikia.nocookie.net/__cb20091130205509/assassinscreed/images/thumb/c/c5/Zw-mariaauditore.png/125px-Zw-mariaauditore.png" alt="Zw-mariaauditore" />
 Doğum Tarihi: 1432.
 
@@ -375,8 +345,7 @@ Ailesinden gelen parayla, Maria aile konağının avlusunda, daha sonra sanatsal
 
 Maria ve Giovanni 1450 yılında evlendiler. Maria'nın günlük kayıtları sonraki birkaç on yıl boyunca devam eder, bunlarda bazı yeni yetişen sanatçılar üzerindeki himayesi ve bir anne olarak davranışlarını açıklar. ta ki iyice çoğalan tarihçilerden duyduğu umutsuzluk nedeniyle yazmayı ansızın bırakana kadar.
 
-&nbsp;
-<h2>MARIO AUDITORE</h2>
+## MARIO AUDITORE
 <img src="http://img2.wikia.nocookie.net/__cb20091130205510/assassinscreed/images/thumb/3/35/Zw-marioauditore.png/125px-Zw-marioauditore.png" alt="Zw-marioauditore" />
 Doğum Tarihi: 1434.
 
@@ -388,8 +357,7 @@ Mario, Anghiari'de Floransa tarafında olmasına rağmen, kariyerinin büyük ç
 
 Mario'nun küçük kardeşi Giovanni bankacılık alanında bir kariyer için 1454 yılında Floransa'ya gittiğinde, Mario, daha sonra Giovanni'ye gönderdiği bir mektupta "hesap kağıtlarını doldurmaktansa bir erkek gibi savaşmayı tercih ettiğini" söyleyerek ailesinin Monteriggioni'deki konağına kalmıştır.
 
-&nbsp;
-<h2>NICCOLÒ MACHIAVELLI</h2>
+## NICCOLÒ MACHIAVELLI
 <img src="http://img2.wikia.nocookie.net/__cb20091130205510/assassinscreed/images/thumb/f/fd/Zw-niccolomachiavelli.png/125px-Zw-niccolomachiavelli.png" alt="Zw-niccolomachiavelli" />
 
 Doğum Tarihi: 1469.
@@ -410,8 +378,7 @@ Yanlış bir hareketini bulamayan Medici, Machiavelli'yi sürgüne gönderdi. Em
 
 Machiavelli 1527 yılında öldü. Nerede gömülü olduğu bilinmemektedir.
 
-&nbsp;
-<h2>OTTAVIANO RIARIO</h2>
+## OTTAVIANO RIARIO
 <img src="http://img2.wikia.nocookie.net/__cb20100129194242/assassinscreed/images/thumb/d/d7/Zw-ottavianoriario.png/125px-Zw-ottavianoriario.png" alt="Zw-ottavianoriario" />
 
 Doğum Tarihi: 1479.
@@ -424,8 +391,7 @@ Ottavio'yu obez, beyinsiz ve ana kuzusu olarak tarif eden kayıtlara rağmen, Pa
 
 Caterina, Cesare tarafından yenilgiye uğratılıp Floransa'daki sürgününe gittiğinde onun rehberliği ile oğlu Ottaviano, yeni Papa II. Julius'u Imola ve Forlì'nin yönetimini kendisine geri vermesi için ikna etmeye çalıştı. Ancak bunun yerine Ottaviano sonunda Julius'a  Riario iddiasını satmak durumunda kaldı.
 
-&nbsp;
-<h2>PAOLA</h2>
+## PAOLA
 <img src="http://img2.wikia.nocookie.net/__cb20091130205511/assassinscreed/images/thumb/2/2e/Zw-paola.png/125px-Zw-paola.png" alt="Zw-paola" />
 
 Doğum Tarihi: 1438.
@@ -438,8 +404,7 @@ Tarih kitaplarında Paola hakkında pek bir bilgi yoktur ama Floransa arşivleri
 
 Hapisten kurtulan Paola kendi genelevini açmak ve sokaklardaki birçok talihsiz kadını kurtarmak için çalışmaya başlar.
 
-&nbsp;
-<h2>PEDER O'CALLAHAN</h2>
+## PEDER O'CALLAHAN
 <img src="http://img2.wikia.nocookie.net/__cb20101031105650/assassinscreed/images/thumb/8/8c/Brother_O%E2%80%99Callahan.jpg/125px-Brother_O%E2%80%99Callahan.jpg" alt="Brother O’Callahan" />
 
 Doğum Tarihi: 1452.
@@ -460,8 +425,7 @@ O'Callahan 1494 yılında Romagna'nın kırsal kesimine taşınarak Aziz Patrik 
 
 1500 yılında, kendisinin "kötü kan" olarak tanımladığı hastalıktan, büyük ihtimalle frengiden dolayı öldü. Cesedi kilisenin arkasındaki küçük mezarlığa gömüldü.
 
-&nbsp;
-<h2>PETRUCCIO AUDITORE</h2>
+## PETRUCCIO AUDITORE
 <img src="http://img3.wikia.nocookie.net/__cb20091130205622/assassinscreed/images/thumb/2/2b/Zw-petruccioauditore.png/125px-Zw-petruccioauditore.png" alt="Zw-petruccioauditore" />
 Doğum Tarihi: 1463.
 
@@ -471,8 +435,7 @@ Auditore çocuklarının en küçüğü olan Petruccio, doğumundan sonra Giovan
 
 Anlaşılan, bu durumu zamanla değişmemişti. Petruccio hastalığı sebebiyle 12 yaşında okuldan alınmış, ve aile hekiminin kayıtlarına göre yatağa bağlanmışı. Bundan sonra bir kayda rastlanmaz, bu yüzden hastalığına yenik düşmüş olması muhtemeldir.
 
-&nbsp;
-<h2>POLIZIANO</h2>
+## POLIZIANO
 <img src="http://img2.wikia.nocookie.net/__cb20091130205622/assassinscreed/images/thumb/a/a8/Zw-poliziano.png/125px-Zw-poliziano.png" alt="Zw-poliziano" />
 Doğum Tarihi: 1454.
 
@@ -482,8 +445,7 @@ Olağanüstü bir şekilde, Poliziano 10 yaşında Latince ve Yunanca öğrenmi�
 
 Maalesef, Poliziano herkesin favori hocası olamamış olsa gerekti. 1494 yılında, muhtemelen eski öğrencisi, Piero de' Medici tarafından arsenikle zehirlenerek öldürülmüştür.
 
-&nbsp;
-<h2>ROSA</h2>
+## ROSA
 <img src="http://img2.wikia.nocookie.net/__cb20091130205623/assassinscreed/images/thumb/6/6b/Zw-rosa.png/125px-Zw-rosa.png" alt="Zw-rosa" />
 Doğum Tarihi: 1460.
 
@@ -495,8 +457,7 @@ Onun eğitimi hakkında bazı notlar tuttu, bu notlarda onun yerden erişilemez 
 
 Sosyal yetenekleri konusunda ise, kelime haznesinin "en hafif tabirle renkli" olduğu söylenebilirdi. Görünüşe göre bir kavgada kendini savunabilecek durumdaydı da. Antonio şöyle yazıyordu: "Onu son öpmeye çalışan hırsızlarımdan biri ağzının bir kısmı sağlam halde kaçtı".
 
-&nbsp;
-<h2>TEODORA</h2>
+## TEODORA
 <img src="http://img3.wikia.nocookie.net/__cb20091130205623/assassinscreed/images/thumb/2/28/Zw-teodora.png/125px-Zw-teodora.png" alt="Zw-teodora" />
 
 Doğum Tarihi: 1450.
@@ -513,125 +474,107 @@ Teodora 1467 yılında yaptıklarının kefaretini ödemek üzere Santa Maria de
 
 Teodora aynı yıl La Rosa della Virtù'yu açtı. Oldukça sık uğrayan bir müşteri olan şair Pietro Bembo'ya göre, genelev "Katolikliğin yeni bir kolunun kilisesi" idi.
 
-&nbsp;
 <h2 id="hedefler">HEDEFLER</h2>
-&nbsp;
-<h2>CHECCO VE LUDOVICO ORSI</h2>
+## CHECCO VE LUDOVICO ORSI
 <img class="" src="http://i.imgur.com/9jig38c.jpg" alt="" width="130" height="259" />
 <h5>CHECCO ORSI</h5>
 Doğum Tarihi: 1458.
 
 Meslek: Soylu, Profesyonel Hırsız.
 
-&nbsp;
 <h5>LUDOVICO ORSI</h5>
 Doğum Tarihi: 1455.
 
 Meslek: Soylu, Profesyonel Hırsız.
 
-&nbsp;
-<h2>SILVIO BARBARIGO IL ROSSO</h2>
+## SILVIO BARBARIGO IL ROSSO
 <img class="" src="http://i.imgur.com/N53zwYQ.jpg" alt="" width="130" height="260" />
 
 Doğum Tarihi: 1435.
 
 Meslek: Venedik Yüksek Mahkemesi Üyesi, Devlet Engizisyon Üyesi, Soylu.
 
-&nbsp;
-<h2>GIROLAMO SAVONAROLA</h2>
+## GIROLAMO SAVONAROLA
 <img class="" src="http://i.imgur.com/zK7jqoR.jpg" alt="" width="129" height="260" />
 
 Doğum Tarihi: 1452.
 
 Meslek: Dominikan Rahibi, Floransa'nın Lideri.
 
-&nbsp;
-<h2>MARCO BARBARIGO VE DANTE</h2>
-<h2><img class="" src="http://i.imgur.com/BLnwpPm.jpg" alt="" width="130" height="261" /></h2>
+## MARCO BARBARIGO VE DANTE
+<img class="" src="http://i.imgur.com/BLnwpPm.jpg" alt="" width="130" height="261" />
 <h5>MARCO BARBARIGO</h5>
 Doğum Tarihi: 1413.
 
 Meslek: Soylu, Venedik Docu.
 
-&nbsp;
 <h5>DANTE MORO</h5>
 Doğum Tarihi: 1460.
 
 Meslek: Marco Barbarigo'nun Kişisel Muhafızı.
 
-&nbsp;
-<h2>CARLO GRIMALDI</h2>
+## CARLO GRIMALDI
 <img class="" src="http://i.imgur.com/HYiX1gd.jpg" alt="" width="130" height="262" />
 
 Doğum Tarihi: 1445.
 
 Meslek: Soylu, Onlar Konseyi Üyesi.
-<h2></h2>
-<h2>EMILIO BARBARIGO</h2>
+
+## EMILIO BARBARIGO
 <img class="" src="http://i.imgur.com/J75VETS.jpg" alt="" width="130" height="260" />
 
 Doğum Tarihi: 1421.
 
 Meslek: Tüccar Loncası Lideri, Soylu
 
-&nbsp;
-<h2>FRANCESCO DE'PAZZI</h2>
+## FRANCESCO DE'PAZZI
 <img class="" src="http://i.imgur.com/KR1u6X0.jpg" alt="" width="130" height="260" />
 
 Doğum Tarihi: 1444.
 
 Meslek: Soylu, Banker.
 
-&nbsp;
-<h2>PAZZI KOMPLOCULARI</h2>
+## PAZZI KOMPLOCULARI
 <img class="" src="http://i.imgur.com/6xUkjK9.jpg" alt="" width="131" height="262" />
 <h5>FRANCESCO SALVIATI</h5>
 Doğum Tarihi: 1443.
 
 Meslek: Pisa Başpiskoposu.
 
-&nbsp;
 <h5>JACOPO DE'PAZZI</h5>
 Doğum Tarihi: 1421.
 
 Meslek: Banker, Soylu.
 
-&nbsp;
 <h5>STEFANO DA BAGNONE</h5>
 Doğum Tarihi: 1418.
 
 Meslek: Rahip, Jacopo de' Pazzi'nin Danışmanı
 
-&nbsp;
 <h5>ANTONIO MAFFEI</h5>
 Doğum Tarihi: 1450.
 
 Meslek: Rahip.
 
-&nbsp;
 <h5>BERNARDO DI BANDINO BARONCELLI</h5>
 Doğum Tarihi: 1453.
 
 Meslek: Banker.
-<h2></h2>
-&nbsp;
-<h2>RODRIGO BORGIA</h2>
+## RODRIGO BORGIA
 <img class="" src="http://i.imgur.com/zOsEsyI.jpg" alt="" width="130" height="260" />
 
 Doğum Tarihi: 1431.
 
 Meslek: İtalyan Tapınakçılarının lideri, Soylu.
 
-&nbsp;
-<h2>UBERTO ALBERTI</h2>
+## UBERTO ALBERTI
 <img class="" src="http://i.imgur.com/PahBGGT.jpg" alt="" width="130" height="260" />
 
 Doğum Tarihi: 1416.
 
 Meslek: Gonfaloniere di Giustizia, Adalet Yasaları İnfazcısı, Hain.
 
-&nbsp;
-<h2>VIERI DE'PAZZI</h2>
+## VIERI DE'PAZZI
 <img class="" src="http://i.imgur.com/DWNGd2F.jpg" alt="" width="130" height="260" />
 
 Doğum Tarihi: 1454.

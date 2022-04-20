@@ -1,4 +1,4 @@
-<h2>GÖNDEREN: RAMONDO</h2>
+## GÖNDEREN: RAMONDO
 Sevgili Vincente,
 
 En karanlık şüphemizin, kızının bir sahtekârla evlendiğinin kanıtları geçti elime. Leone, Guelphli olduğunu iddia etse de kendisi aslında Floransalı. Buradan, bu yalancı ve hilebazların hükümetimizi devirmek ve sahip olduğumuz azıcık özgürlüğü de almak istediği ne kadar açık görünüyor. Eğer bu mektubu okuduktan sonra senin de kanın benimki kadar kaynamaya başladıysa gel beraber onu Torre Grossa’ya atalım. Bu Floransa’ya iyi bir mesaj verir.
@@ -9,8 +9,7 @@ Ramondo
 
 Not: Bu sıkıntıdan bir kurtul, benim oğlan da kemale erdi. Belki kızın onunla daha mutlu olur.
 
-&nbsp;
-<h2>GÖNDEREN: UBERTO ALBERTI</h2>
+## GÖNDEREN: UBERTO ALBERTI
 Aşkım,
 
 Bu yazıları, belki bir gün cesaretimi toplayıp sana aktarabilirim diye yazıyorum. Şüphesiz zamanı gelince Giovanni’ye ihanet ettiğimi, onu hain olarak gösterip ölüme mahkûm ettiğimi öğreneceksin.
@@ -19,8 +18,7 @@ Tarih bu olayı muhtemelen siyaset ve açgözlülük olarak görecek. Lakin zoru
 
 İş birliğim karşılığında para, arazi ve unvan vadettiler. İşte bu yüzden en yakın dostuma ihanet ettim. Yaptığımız ağza alınamayacak kadar kötü olsa da o zaman gerekli görünüyordu. Şimdi bile geriye dönüp baktığımda başka bir yol göremiyorum.
 
-&nbsp;
-<h2>GÖNDEREN: FRA GIOCONDO</h2>
+## GÖNDEREN: FRA GIOCONDO
 Messer Francesco,
 
 İstediğinizi yapıp oğlunuzla konuştum. Değerlendirmenize kısmen de olsa katılıyorum. Evet, Vieri atılgan ve düşünmeden harekete geçiyor. Paralı askerlere oyuncaklarmış gibi davranma alışkanlığı da var. Sırf bu yüzden en az üç adamın darmadağın olduğuna dair duyumlar aldım. Lakin ben, sizin bahsettiğiniz gibi, durumu ümitsiz bulmuyorum. Hatta çözümün çok basit olduğuna inanıyorum.
@@ -33,8 +31,7 @@ Size sadık,
 
 Fra Giocondo
 
-&nbsp;
-<h2>GÖNDEREN: ANTONIO MAFFEI</h2>
+## GÖNDEREN: ANTONIO MAFFEI
 Maestro,
 
 Kalbim, bu mektubu yazdığım sırada korkuyla dolu. Elçi geldi, onu hissediyorum. Kuşlar normal davranmıyor, mekânın üstünde daire çiziyorlar. Onları kulemden görebiliyorum. İstediğiniz buluşmaya katılamayacağım. Kendimi bu şekilde öne süremem yoksa şeytan beni bulabilir. Beni affedin, yalnızca sağduyulu davranıyorum.
@@ -45,8 +42,7 @@ Rehberim olsun,
 
 Rahip A.
 
-&nbsp;
-<h2>GÖNDEREN: JACOPO DE’ PAZZI</h2>
+## GÖNDEREN: JACOPO DE’ PAZZI
 Kardeşim,
 
 Kuşkusuz şimdiye kadar duymuşsundur, intikam arayışında ve bizi avlıyor. Bu işi hiç kabul etmemeli, komploya dâhil olmamalıydık ama olan oldu. Bu yüzden Maestro ile üç gece sonra ya Venedik’te ya da Roma’da sığınma istemek için bir buluşma ayarladım.
@@ -59,8 +55,7 @@ Anlayışın Babası rehberin olsun.
 
 Kardeşin, Jacopo.
 
-&nbsp;
-<h2>GÖNDEREN: CARLOTTA MORO</h2>
+## GÖNDEREN: CARLOTTA MORO
 Aşkım,
 
 Bu kelimenin senin için bir kez daha anlam ifade edeceği günler gelecek mi bilmiyorum. Yaptığım şey için, hem senin hem de benim düştüğüm durum yüzünden özür dilerim. Beraber olamasak da senin yakınlarda olduğunu bilmek bana yetiyordu. Şimdi Marco da ölünce tekrar bir araya gelmemizin bir yolunu bulduğumu sanıyorum.
@@ -73,8 +68,7 @@ Daimi aşığın,
 
 Carlotta
 
-&nbsp;
-<h2>GÖNDEREN: GIOVANNI AUDITORE 1</h2>
+## GÖNDEREN: GIOVANNI AUDITORE 1
 Al Magnifico Lorenzo de’ Medici mio protettore e amico;
 
 İstediğin üzere Milan kazası hakkındaki araştırmamı tamamladım. Sizi temin ederim olayların ardında Duca Galeazzo Sforza’nın yönetimine karşı olmaktan fazlası var. Çok daha büyük şeyler peşinde olan diğer grupların kendilerini açığa çıkarmadan amaçlarına ulaşmak için bunları tetiklediğini düşünüyorum.
@@ -87,16 +81,13 @@ Size sadık,
 
 Giovanni Auditore
 
-&nbsp;
-<h2>GÖNDEREN: GIOVANNI AUDITORE 2</h2>
+## GÖNDEREN: GIOVANNI AUDITORE 2
 Giovanni bu mektubu mühürlemiş. Açmak yanlış olur.
 
-&nbsp;
-<h2>GÖNDEREN: GIOVANNI AUDITORE 3</h2>
+## GÖNDEREN: GIOVANNI AUDITORE 3
 Giovanni bu mektubu mühürlemiş. Açmak yanlış olur.
 
-&nbsp;
-<h2>GÖNDEREN: GIOVANNI AUDITORE 4</h2>
+## GÖNDEREN: GIOVANNI AUDITORE 4
 Bu belge, olur da basılır ve bildiklerimi sizinle paylaşamazsam diye geçen haftalardan öğrendiklerimin bir kaydı niteliğindedir. Öncelikle, Milan Dükü’nün öldürülmesinin basit bir siyasi oyundan ibaret olmadığını anlamalısınız. Hatta Floransa’yı aşan; Roma, Venedik ve Forli gibi birçok şehirden farklı insanların içinde bulunduğu bir komplo bu.
 
 Bu notun ilavesinde suçlu olduğunu bildiğim kişilerin bir listesi – en azından başlangıcı – bulunuyor. Henüz tamamını yazamadım ama en kısa zamanda eksikleri gidereceğim. Lakin içlerinde Pazzi ailesinin de bulunduğu su götürmez bir gerçek.
@@ -105,8 +96,7 @@ O hapishaneden çıkacak zamanı bulmadan önce Francesco’yu sorgulamamız laz
 
 (Mektup burada ansızın bitiyor. Giovanni; notu, kendisini tutuklamaya gelen muhafızlardan saklamak için yarıda kesmiş olmalı.)
 
-&nbsp;
-<h2>GÖNDEREN: MICHELANGELO</h2>
+## GÖNDEREN: MICHELANGELO
 Sevgili Babacığım,
 
 Eğitimi bırakalı neredeyse bir hafta oldu. Sebeplerimi anlamanı beklemiyorum. Zira kendim de pekiyi açıklayamıyorum ama dünyanın ellerimin arasından kaydığını ve gelgitlerinin bir parçası olmak için onu yakalamam gerektiğini hissediyorum. Hitap ya da sayılar konusunda iyi sayılmam ama ellerimle etrafımdaki her şeyi, her an şekillendirebiliyorum.
@@ -119,8 +109,7 @@ Oğlun,
 
 Michelangelo
 
-&nbsp;
-<h2>GÖNDEREN: DIANA</h2>
+## GÖNDEREN: DIANA
 Siyaset, siyaset, daima siyaset… Konsey’de, oğlunu görmeye gelemeyecek kadar meşgul olduğunu söylüyorsun ama bu bir yalan. Onunla görülmek istemediğini biliyorum. O karın olacak Bella sana kaç varis bıraktı? Son saydığımda sıfırdı. Senden aşağıda olduğumu düşüyorsun, haklısındır belki ama en azından oğlumu birçok gece düşündüğüm gibi sokaklara atmaktansa ona analık ediyorum. Onu iyi bir şekilde yetiştiriyorum. Ben dükkânda çalışırken o da ev işlerini hallediyor.
 
 Şimdi koca adam oldu ve veraset hakkı onda. Peki senin neyin var? Bir katır kadar kısır fakat peruk takıp etrafta tavuskuşu gibi dolanan ve paranı sömüren soylu bir kadın… Paranı ve erkekliğini kıskanıyor olabilirim Vincente ama onu şu kadarcık kıskanmıyorum.
@@ -131,8 +120,7 @@ Ciao,
 
 Diana
 
-&nbsp;
-<h2>GÖNDEREN: RIGARDA</h2>
+## GÖNDEREN: RIGARDA
 Sevgili Luca,
 
 Kızına yaraşır birini bulmaya çalışıyordum ama San Gimignano’daki erkeklerin çoğu zayıf ve aptal. Aptal olmayanlarsa kızının dik başlılığına pek de iyi bakmıyor. Münasip olanlardan biri onun başörtüsü olmaksızın evden çıkma isteğini duyunca şok oldu. Bir diğeri gündelik planlarını kendisinin yaptığını öğrenince hiç memnun olmadı. Ona bir koca bulacaksam bu iş böyle gitmez.
@@ -143,8 +131,7 @@ Sevgilerimle,
 
 Rigarda
 
-&nbsp;
-<h2>GÖNDEREN: ANDREA ALLEGRO</h2>
+## GÖNDEREN: ANDREA ALLEGRO
 Messer,
 
 Bu mektup, gelecek ay Palazzo Comunale’de bulunmanız istendiğinizi belirtmek içindir. Komşularınızdan, kılıcınızla birçoğuna saldırıda bulunduğunuzu bildiren şikâyetler aldım. Hatta tarlanıza giren bir kız çocuğunu döverek sakat bırakmışsınız.
@@ -157,8 +144,7 @@ Saygılarımla,
 
 Andrea Allegro
 
-&nbsp;
-<h2>GÖNDEREN: LUCIA</h2>
+## GÖNDEREN: LUCIA
 Gorgio,
 
 Her şey planladığımız gibi gidiyor. Kocam hiçbir şeyden şüphelenmiyor. Beni kilit altına aldı ama sabrettim; seni, kurtarıcımı buldum! Eğer kulağıma söylediğin tutkulu sözlere sadıksan sözünü tutup beni kocamdan kurtarırsın.
