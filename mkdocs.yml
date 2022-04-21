@@ -18,25 +18,10 @@ theme:
       scheme: default
       primary: amber
       accent: orange
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Karart
-        
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: amber
-      accent: green
-      toggle:
-        icon: material/toggle-switch
-        name: Aydınlat
 
 # Extensions
 markdown_extensions:
-  - footnotes
   - attr_list
-  - pymdownx.arithmatex:
-      generic: true
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.superfences
@@ -49,7 +34,6 @@ markdown_extensions:
   - toc:
       permalink: true
   - meta
-  - footnotes
   - tables
   - md_in_html
   
@@ -57,14 +41,6 @@ plugins:
   - search
   - roamlinks 
   - tags
-  
-# Extra JS
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-  - javascripts/tablesort.js
   
 extra_css:
   - stylesheets/extra.css
