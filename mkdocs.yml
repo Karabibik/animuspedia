@@ -4,6 +4,8 @@ site_name: Animuspedia
 theme:
     name: 'material'
     language: tr
+    favicon: Görseller/Site3.webp
+    logo: Görseller/Site3.webp
     
     features:
       - navigation.tabs

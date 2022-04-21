@@ -1,12 +1,13 @@
-|        |      |         |       |        |
-|:------:|:----:|:-------:|:-----:|:------:|
-| ![[Görseller/AC2.webp]] |  ![[Görseller/ACB.webp]] |   ![[Görseller/ACR.webp]]   |  ![[Görseller/AC3.webp]]  |   ![[Görseller/AC4.webp]]  |
-|   ![[Görseller/ACU.webp]]  | ![[Görseller/ACRogue.webp]] | ![[Görseller/ACCC.webp]] |  ![[Görseller/ACS.webp]]  |   ![[Görseller/ACO.webp]]  |
-|  ![[Görseller/AC_OD.webp]]  |  ![[Görseller/ACV.webp]] |   ![[Görseller/COL.webp]]   | ![[Görseller/CotDG.webp]] |   ![[Görseller/DOSEE.webp]]  |
-|  ![[Görseller/dos2.webp]]  |  ![[Görseller/DA2.webp]] |   ![[Görseller/DAI.webp]]   |  ![[Görseller/mea.webp]]  |  ![[Görseller/MYZ.webp]] |
-|   ![[Görseller/TLS.webp]]  |  ![[Görseller/LoopHero.webp]]  |   ![[Görseller/ObraDinn.webp]]   | ![[Görseller/Kotor.webp]] | ![[Görseller/kotor2.webp]] |
-| ![[Görseller/trine4.webp]] |  ![[Görseller/UWD.webp]] |   ![[Görseller/vtmb.webp]]  | Catherine | Psycho |
-| EU4 | | | | |
+|                 |                   |                   |                |                 |
+| :-------------: | :---------------: | :---------------: | :------------: | :-------------: |
+|  ![[AC2.webp]]   |   ![[ACB.webp]]    |   ![[ACR.webp]]    |  ![[AC3.webp]]  |  ![[AC4.webp]]   |
+|  ![[ACU.webp]]   | ![[ACRogue.webp]]  |   ![[ACCC.webp]]   |  ![[ACS.webp]]  |  ![[ACO.webp]]   |
+| ![[AC_OD.webp]]  |   ![[ACV.webp]]    |   ![[COL.webp]]    | ![[CotDG.webp]] | ![[DOSEE.webp]]  |
+|  ![[dos2.webp]]  |   ![[DA2.webp]]    |   ![[DAI.webp]]    |  ![[mea.webp]]  |  ![[MYZ.webp]]   |
+|  ![[TLS.webp]]   | ![[LoopHero.webp]] | ![[ObraDinn.webp]] | ![[Kotor.webp]] | ![[kotor2.webp]] |
+| ![[trine4.webp]] |   ![[UWD.webp]]    |   ![[vtmb.webp]]   |   Catherine    |     Psycho      |
+|       EU4       |                   |                   |                |                 |
+
 
 
 
