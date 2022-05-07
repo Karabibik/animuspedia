@@ -1,5 +1,5 @@
-## GÖNDEREN: RAMONDO
-!!! note " "
+## Mektup 1
+!!! note "GÖNDEREN: RAMONDO"
 
 	Sevgili Vincente,
 
@@ -11,8 +11,8 @@
 
 	Not: Bu sıkıntıdan bir kurtul, benim oğlan da kemale erdi. Belki kızın onunla daha mutlu olur.
 
-## GÖNDEREN: UBERTO ALBERTI
-!!! note " "
+## Mektup 2
+!!! note "GÖNDEREN: UBERTO ALBERTI"
 
 	Aşkım,
 
@@ -50,7 +50,7 @@
 
 	Rahip A.
 
-
+## Mektup 5
 !!! note "GÖNDEREN: JACOPO DE’ PAZZI"
 
 	Kardeşim,
@@ -65,7 +65,7 @@
 
 	Kardeşin, Jacopo.
 
-
+## Mektup 6
 !!! note "GÖNDEREN: CARLOTTA MORO"
 	
 	Aşkım,
@@ -80,8 +80,8 @@
 
 	Carlotta
 
-
-!!! note "GÖNDEREN: GIOVANNI AUDITORE 1"
+## Mektup 7
+!!! note "GÖNDEREN: GIOVANNI AUDITORE"
 	
 	Al Magnifico Lorenzo de’ Medici mio protettore e amico;
 
@@ -95,18 +95,18 @@
 
 	Giovanni Auditore
 
-
-!!! note "GÖNDEREN: GIOVANNI AUDITORE 2"
+## Mektup 8
+!!! note "GÖNDEREN: GIOVANNI AUDITORE"
 	
 	Giovanni bu mektubu mühürlemiş. Açmak yanlış olur.
 
-
-!!! note "GÖNDEREN: GIOVANNI AUDITORE 3"
+## Mektup 9
+!!! note "GÖNDEREN: GIOVANNI AUDITORE"
 	
 	Giovanni bu mektubu mühürlemiş. Açmak yanlış olur.
 
-
-!!! note "GÖNDEREN: GIOVANNI AUDITORE 4"
+## Mektup 10
+!!! note "GÖNDEREN: GIOVANNI AUDITORE"
 	
 	Bu belge, olur da basılır ve bildiklerimi sizinle paylaşamazsam diye geçen haftalardan öğrendiklerimin bir kaydı niteliğindedir. Öncelikle, Milan Dükü’nün öldürülmesinin basit bir siyasi oyundan ibaret olmadığını anlamalısınız. Hatta Floransa’yı aşan; Roma, Venedik ve Forli gibi birçok şehirden farklı insanların içinde bulunduğu bir komplo bu.
 
@@ -116,7 +116,7 @@
 
 	(Mektup burada ansızın bitiyor. Giovanni; notu, kendisini tutuklamaya gelen muhafızlardan saklamak için yarıda kesmiş olmalı.)
 
-
+## Mektup 11
 !!! note "GÖNDEREN: MICHELANGELO"
 	
 	Sevgili Babacığım,
@@ -131,7 +131,7 @@
 
 	Michelangelo
 
-
+## Mektup 12
 !!! note "GÖNDEREN: DIANA"
 	
 	Siyaset, siyaset, daima siyaset… Konsey’de, oğlunu görmeye gelemeyecek kadar meşgul olduğunu söylüyorsun ama bu bir yalan. Onunla görülmek istemediğini biliyorum. O karın olacak Bella sana kaç varis bıraktı? Son saydığımda sıfırdı. Senden aşağıda olduğumu düşüyorsun, haklısındır belki ama en azından oğlumu birçok gece düşündüğüm gibi sokaklara atmaktansa ona analık ediyorum. Onu iyi bir şekilde yetiştiriyorum. Ben dükkânda çalışırken o da ev işlerini hallediyor.
@@ -144,7 +144,7 @@
 
 	Diana
 
-
+## Mektup 13
 !!! note "GÖNDEREN: RIGARDA"
 	
 	Sevgili Luca,
@@ -157,7 +157,7 @@
 
 	Rigarda
 
-
+## Mektup 14
 !!! note "GÖNDEREN: ANDREA ALLEGRO"
 	
 	Messer,
@@ -172,7 +172,7 @@
 
 	Andrea Allegro
 
-
+## Mektup 15
 !!! note "GÖNDEREN: LUCIA"
 
 	Gorgio,
