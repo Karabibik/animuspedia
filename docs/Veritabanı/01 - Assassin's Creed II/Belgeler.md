@@ -1,5 +1,5 @@
 ## Mektup 1
-!!! note "GÖNDEREN: RAMONDO"
+!!! note "## GÖNDEREN: RAMONDO"
 
 	Sevgili Vincente,
 
@@ -12,7 +12,7 @@
 	Not: Bu sıkıntıdan bir kurtul, benim oğlan da kemale erdi. Belki kızın onunla daha mutlu olur.
 
 ## Mektup 2
-!!! note "GÖNDEREN: UBERTO ALBERTI"
+!!! note "## GÖNDEREN: UBERTO ALBERTI"
 
 	Aşkım,
 

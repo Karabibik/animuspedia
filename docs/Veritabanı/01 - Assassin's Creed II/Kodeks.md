@@ -1,6 +1,8 @@
 ## 1. SAYFA
 
-> Eserin başında günler harcadım. Yoksa haftalar mı? Aylar mı? Artık emin değilim… Diğerleri arada bir uğrayıp yemek getiriyor ya da yarenlik etmeye çalışıyor ve kendimi çalışmalarımdan biraz almam gerektiğini söylüyorlar. Hatta Malik bir seferinde tamamen bırakmamı bile önerdi ama ona daha var. Cennet Elması’nın çözülmesi gerek. Çözmem lazım… Bir silah mı? Bir rehber mi? Yoksa bir şekilde ikisi birden mi?  “Bilgili kişi kederli kişidir.” Bu vecizenin altında yatan düşünceyi anlayabiliyorum ama gerçekliği… Gerçekten doğru mu? Kılıç kalkan yerine fikir ve bilgiyle savaşan bir topluluk… İşlevi basit. Hatta çok temel. Hüküm, kontrol… Fakat süreç… Yaptıkları… İşte bunlar harika. Işığına maruz kalanlara istediğini vereceğini vaat ediyor. Karşılığındaysa istediği tek şey var: mutlak itaat. Bunu kim reddedebilir ki? Resmen cazibenin vüdut bulmuş hali. Al Mualim’le karşılaştığımda, onun sözleriyle yaşadığım güvensizlik anını hatırlıyorum da… Bana bir baba olan kişinin en büyük düşmanım olduğu ortaya çıkmıştı. Aklıma sızması için tek gereken ufacık bir şüphe kırıntısıydı fakat silüetleri yok edip özgüvenimi toparladım ve onu bu dünyadan gönderdim. Kendimi özgür kıldım. Şimdi düşünüyorum da gerçekten özgür müyüm? Burada oturmuş yok etmeye yemin ettiğim şeyi umutsuzca anlamaya çalışıyorum. Sebebi de belli: Elma’nın anlatacakları var. Büyük ve tehlikeli bir şey kıpraşıyor, hissedebiliyorum. Hepimiz tehlikedeyiz ve bu tehlikeye karşı bir şeyler yapmak benim görevim. Hakikati bulana kadar bu yoldan dönmemeliyim, dönemem.
+!!! quote "&nbsp;"
+	
+	Eserin başında günler harcadım. Yoksa haftalar mı? Aylar mı? Artık emin değilim… Diğerleri arada bir uğrayıp yemek getiriyor ya da yarenlik etmeye çalışıyor ve kendimi çalışmalarımdan biraz almam gerektiğini söylüyorlar. Hatta Malik bir seferinde tamamen bırakmamı bile önerdi ama ona daha var. Cennet Elması’nın çözülmesi gerek. Çözmem lazım… Bir silah mı? Bir rehber mi? Yoksa bir şekilde ikisi birden mi?  “Bilgili kişi kederli kişidir.” Bu vecizenin altında yatan düşünceyi anlayabiliyorum ama gerçekliği… Gerçekten doğru mu? Kılıç kalkan yerine fikir ve bilgiyle savaşan bir topluluk… İşlevi basit. Hatta çok temel. Hüküm, kontrol… Fakat süreç… Yaptıkları… İşte bunlar harika. Işığına maruz kalanlara istediğini vereceğini vaat ediyor. Karşılığındaysa istediği tek şey var: mutlak itaat. Bunu kim reddedebilir ki? Resmen cazibenin vüdut bulmuş hali. Al Mualim’le karşılaştığımda, onun sözleriyle yaşadığım güvensizlik anını hatırlıyorum da… Bana bir baba olan kişinin en büyük düşmanım olduğu ortaya çıkmıştı. Aklıma sızması için tek gereken ufacık bir şüphe kırıntısıydı fakat silüetleri yok edip özgüvenimi toparladım ve onu bu dünyadan gönderdim. Kendimi özgür kıldım. Şimdi düşünüyorum da gerçekten özgür müyüm? Burada oturmuş yok etmeye yemin ettiğim şeyi umutsuzca anlamaya çalışıyorum. Sebebi de belli: Elma’nın anlatacakları var. Büyük ve tehlikeli bir şey kıpraşıyor, hissedebiliyorum. Hepimiz tehlikedeyiz ve bu tehlikeye karşı bir şeyler yapmak benim görevim. Hakikati bulana kadar bu yoldan dönmemeliyim, dönemem.
 
 ## 2. SAYFA
 
@@ -10,29 +12,40 @@
 <img src="http://img2.wikia.nocookie.net/__cb20100529014214/assassinscreed/images/f/fa/Zw-codex-3.png" alt="Zw-codex-3" />
 
 ## 4. SAYFA
-> Yazmakta olduklarım, Suikastçı Tarikatı’nın üç büyük çelişkisidir: (1) Barış getirmeye çalışıyoruz ama katlederek. (2) İnsanların zihnini açmaya çalışıyoruz ama bir üstada ve birtakım kurallara şartsız itaat ederek. (3) Kör inancın tehlikelerini göstermeye çalışıyoruz ama işte körler bizleriz.
-> 
-> Bu sözlere karşı tatmin edici bir cevabım yok, yalnızca bazı ihtimaller… Kuralları, daha yüce bir amaç uğruna mı büküyoruz? Peki eğer büküyorsak neyiz biz? Yalancı mı? Sahtekâr mı? Sebatsız mı? Her anımı bu çelişkilerle uğraşarak geçiriyorum ama sahip olduğum onca yıla rağmen hala münasip bir cevap bulamadım. Böyle bir cevabın olmayacağından korkuyorum.
-> 
-> Hiçbir şey doğru değil. Her şey mübah. O halde cevabı itikadımız mı veriyor? Bir şey aynı anda birbirine taban tabana zıt iki şey olabilir mi? Neden olmasın ki? Ben bunun kanıtı değil miyim? Yüce gayeleri olan, barbarca davranan bizler… Hayatın kutsallığına itimat edip, ardından düşman gördüklerimizden o kutsallığı çalan bizler…
+
+!!! quote "## 4. SAYFA"
+	
+	Yazmakta olduklarım, Suikastçı Tarikatı’nın üç büyük çelişkisidir: (1) Barış getirmeye çalışıyoruz ama katlederek. (2) İnsanların zihnini açmaya çalışıyoruz ama bir üstada ve birtakım kurallara şartsız itaat ederek. (3) Kör inancın tehlikelerini göstermeye çalışıyoruz ama işte körler bizleriz.
+	
+	Bu sözlere karşı tatmin edici bir cevabım yok, yalnızca bazı ihtimaller… Kuralları, daha yüce bir amaç uğruna mı büküyoruz? Peki eğer büküyorsak neyiz biz? Yalancı mı? Sahtekâr mı? Sebatsız mı? Her anımı bu çelişkilerle uğraşarak geçiriyorum ama sahip olduğum onca yıla rağmen hala münasip bir cevap bulamadım. Böyle bir cevabın olmayacağından korkuyorum.
+
+	Hiçbir şey doğru değil. Her şey mübah. O halde cevabı itikadımız mı veriyor? Bir şey aynı anda birbirine taban tabana zıt iki şey olabilir mi? Neden olmasın ki? Ben bunun kanıtı değil miyim? Yüce gayeleri olan, barbarca davranan bizler… Hayatın kutsallığına itimat edip, ardından düşman gördüklerimizden o kutsallığı çalan bizler…
 
 ## 5. SAYFA
-> Kim bu Önceden Gelenler? Onları buraya ne getirdi? Kaç yıl önce? Yüzyıllar mı, binyıllar mı? Yoksa daha da mı önce? O kadar az şey biliyoruz ki… Neden geldiler? Peki ya eserler ne? Şişedeki mesajlar mı? Bizlere yardım ve rehberlik etmek için bırakılan araçlar mı? Yoksa bu değersiz oyuncaklara kutsal amaçlar ve anlamlar yükleyerek onları kontrol etmeye mi çalışıyoruz?
+
+!!! quote "&nbsp;"
+
+	Kim bu Önceden Gelenler? Onları buraya ne getirdi? Kaç yıl önce? Yüzyıllar mı, binyıllar mı? Yoksa daha da mı önce? O kadar az şey biliyoruz ki… Neden geldiler? Peki ya eserler ne? Şişedeki mesajlar mı? Bizlere yardım ve rehberlik etmek için bırakılan araçlar mı? Yoksa bu değersiz oyuncaklara kutsal amaçlar ve anlamlar yükleyerek onları kontrol etmeye mi çalışıyoruz?
 
 ## 6. SAYFA
-> Robert de Sable ölmüş olabilir ama kardeşleri hala hayatta. Görünüşte pek zararsız olsalar da korkarım hala tehdit oluşturuyorlar. Önceden vakurlar yürüdükleri –ve kolay hedef oldukları- sokaklardan gölgelere çekiliyorlar. Takip etmek gittikçe güçleşiyor. Karanlıkta yine ne şeytanlıklar planlayacaklar kim bilir? Bu yüzden işimiz her zamankinden daha zor olacak.
-> 
-> Daha şimdiden Kıbrıs’ta bir şeyler döndüğüne dair dedikodular var. Bunları araştırmam gerekecek. Ayrıca bizim yöntemlerimizin de değişmesi gerektiğini gördüm. Hisara bağlılığın bitmesi gerekiyor. Halka ibraz ettiğimiz suikastların bitmesi gerekiyor. Ağlarımızı sessizce ve geçmiştekilerden farklı şekilde örmeliyiz.
-> 
-> Kardeşlerimden alışkanlıklarını terk etmelerini istesem de itikadlarını terk etmelerini isteyemem. Bizi Suikastçı yapan şey bu. Bir parmağın kesilmesi değil, sahte bir cennet vaadi değil, zehir kullanma yasağı değil… Bizim görevimiz insanlara, geleneklere değil. Gizlenmemiz gerekiyorsa gizleniriz. Zehir kullanmamız gerekirse kullanırız. Bıçaklarımızı kullanmak için parmak kaybetmemiz gerekmiyorsa zorlamayız. Çıraklarımızı yalanlar ve hilelerle idare etmeyiz. Sade ve dürüstçe konuşacağız. Yeniden doğacağız...
+	
+!!! quote "&nbsp;"
+
+	Robert de Sable ölmüş olabilir ama kardeşleri hala hayatta. Görünüşte pek zararsız olsalar da korkarım hala tehdit oluşturuyorlar. Önceden vakurlar yürüdükleri –ve kolay hedef oldukları- sokaklardan gölgelere çekiliyorlar. Takip etmek gittikçe güçleşiyor. Karanlıkta yine ne şeytanlıklar planlayacaklar kim bilir? Bu yüzden işimiz her zamankinden daha zor olacak.
+	
+	Daha şimdiden Kıbrıs’ta bir şeyler döndüğüne dair dedikodular var. Bunları araştırmam gerekecek. Ayrıca bizim yöntemlerimizin de değişmesi gerektiğini gördüm. Hisara bağlılığın bitmesi gerekiyor. Halka ibraz ettiğimiz suikastların bitmesi gerekiyor. Ağlarımızı sessizce ve geçmiştekilerden farklı şekilde örmeliyiz.
+	
+	Kardeşlerimden alışkanlıklarını terk etmelerini istesem de itikadlarını terk etmelerini isteyemem. Bizi Suikastçı yapan şey bu. Bir parmağın kesilmesi değil, sahte bir cennet vaadi değil, zehir kullanma yasağı değil… Bizim görevimiz insanlara, geleneklere değil. Gizlenmemiz gerekiyorsa gizleniriz. Zehir kullanmamız gerekirse kullanırız. Bıçaklarımızı kullanmak için parmak kaybetmemiz gerekmiyorsa zorlamayız. Çıraklarımızı yalanlar ve hilelerle idare etmeyiz. Sade ve dürüstçe konuşacağız. Yeniden doğacağız...
 
 ## 7. SAYFA
-> Adha ile istirahate çekileceğimi, bıçağımı bırakıp normal bir adam gibi yaşayacağımı düşünmüştüm fakat şimdi böyle hayallerin tek yerinin uykuda olduğunu anlıyorum. O yüzü… Onu kaçıran Tapınakçıları deniz boyu kovaladığım günleri ve geceleri hatırladıkça yüzünü aklımdan çıkarmaya çalışıyorum. Neredeyse başarıyordum da. Neredeyse… Biraz daha hızlı olabilseydim... Oysa kollarımda onun cansız vücudu vardı. Sabit, kıpırtısız gözlerinden yansıyan korkuyu gördüm. Bunu yapanlar dünyadan gidene dek tek tek her birini avladım. Fakat şevksizdim, ne tatmin olmuş ne de serbesttim. Ölümleri onu getirmeyecek, acılarımı dindirmeyecekti. Başka bir kadın için aynı şeyleri hissedemeyeceğimden emindim.
-> 
-> Neyse ki yanılmışım.
+
+	Adha ile istirahate çekileceğimi, bıçağımı bırakıp normal bir adam gibi yaşayacağımı düşünmüştüm fakat şimdi böyle hayallerin tek yerinin uykuda olduğunu anlıyorum. O yüzü… Onu kaçıran Tapınakçıları deniz boyu kovaladığım günleri ve geceleri hatırladıkça yüzünü aklımdan çıkarmaya çalışıyorum. Neredeyse başarıyordum da. Neredeyse… Biraz daha hızlı olabilseydim... Oysa kollarımda onun cansız vücudu vardı. Sabit, kıpırtısız gözlerinden yansıyan korkuyu gördüm. Bunu yapanlar dünyadan gidene dek tek tek her birini avladım. Fakat şevksizdim, ne tatmin olmuş ne de serbesttim. Ölümleri onu getirmeyecek, acılarımı dindirmeyecekti. Başka bir kadın için aynı şeyleri hissedemeyeceğimden emindim.
+	
+	Neyse ki yanılmışım.
 
 ## 8. SAYFA
-> İçgüdülerimiz neden şiddet ağırlıklı? Farklı türlerin birbirleriyle ilişkilerini gözlemledim. Fıtri hayatta kalma arzumuz genelde bir başkasının ölümü anlamına geliyor. Neden beraber yaşayamıyoruz ki? Birçok kişi dünyanın kutsal bir güç tarafından yaratıldığına inanıyor fakat ben burada yalnızca deli bir adamın kurguladığı yıkım ve umutsuzluğu görüyorum.  Kargaşa tabiatımızda var.  Kasıtsız… Amaç ve benlik yalnızca zamanla işlenmiş. Önce doğa sonra da insan eliyle…
+	
+	İçgüdülerimiz neden şiddet ağırlıklı? Farklı türlerin birbirleriyle ilişkilerini gözlemledim. Fıtri hayatta kalma arzumuz genelde bir başkasının ölümü anlamına geliyor. Neden beraber yaşayamıyoruz ki? Birçok kişi dünyanın kutsal bir güç tarafından yaratıldığına inanıyor fakat ben burada yalnızca deli bir adamın kurguladığı yıkım ve umutsuzluğu görüyorum.  Kargaşa tabiatımızda var.  Kasıtsız… Amaç ve benlik yalnızca zamanla işlenmiş. Önce doğa sonra da insan eliyle…
 
 ## 9. SAYFA
 > Yeterince uzun ve yüksek sesle söylenmiş her cümle zamanla dogmalaşır, hakikat haline gelir. Bu sayede diğer görüşler bastırılıp rakipler susturulabilir. Başarıya ulaşıldığında – bütün rakipler elendiğinde – geriye kalan da doğal olarak doğru kabul edilir.
