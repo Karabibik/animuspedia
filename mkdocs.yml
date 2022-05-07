@@ -1,5 +1,7 @@
 site_name: Animuspedia
 
+copyright: Copyright &copy; 2014 - 2022 Animus Projesi
+
 # Theme
 theme:
     name: 'material'
@@ -36,6 +38,8 @@ markdown_extensions:
   - meta
   - tables
   - md_in_html
+  - admonition
+  - pymdownx.details
   
 plugins:
   - search

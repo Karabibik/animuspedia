@@ -13,7 +13,9 @@ Animus Projesi'nin arşiv niteliğindeki sitesi.
 
 ## Ekip Rehberleri
 
-- Çeviri Rehberi:
-- Trados Rehberi:
-- Program Rehberi:
-- Tester Rehberi:
+- Çeviri Rehberi
+- Trados Rehberi
+- Program Rehberi
+- Tester Rehberi
+- Çevirmen Alım Rehberi
+- [[Çevirmen Testi]]

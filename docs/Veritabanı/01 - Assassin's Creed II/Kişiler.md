@@ -1,6 +1,6 @@
-<h2><strong>TOPLULUKLAR</h2>
+<h2>TOPLULUKLAR</h2>
 ## BANKALAR
-<img class="" src="http://i.imgur.com/u96mPzQ.jpg" alt="" width="130" height="259" />
+<img class="" src="http://i.imgur.com/u96mPzQ.jpg" alt="" width="130" height="259" />{ align=left }
 
 <em>REBECCA84: Görünüşe göre Tapınakçılar paralarını transfer etmek için bankacılık ağını kullanıyor. Bahse varım bu nakit paranın birazını cebe indirebilirsin.</em>
 
@@ -9,12 +9,12 @@ Bankacıların müşterilerinin para yatırmaları ve para çekmelerini takip et
 Bankalar teknik olarak paralarından para kazanamıyordu, çünkü Katolik Kilisesi faizi yasaklamıştı ama pratikte bu yasağa bankacılar uymuyordu, hatta bankacılık sistemine dahil olan ve bankaların bünyelerinde barındırdıkları para nispetince Papa'ya "hediyeler" göndermelerini zorunlu kılan Vatikan bile bu yasağı çiğniyordu. Adı "faiz" olmadıkça, Tanrı farkına varmazdı, değil mi?
 
 ## DEMİRCİLER
-<img class="" src="http://i.imgur.com/LuxRUK7.jpg" alt="" width="130" height="260" />
+<img class="" src="http://i.imgur.com/LuxRUK7.jpg" alt="" width="130" height="260" />{ align=left }
 
 Her Rönesans topluluğu bir demirciye ihtiyaç duyardı. Kılıçlar, kilitler, tavalar, bıçaklar, çiviler ve zırhlar hep metalden yapılırdı ve hepsinin şekil verilmeye ihtiyacı vardı. Ek olarak, demirciler pratik el becerilerini sanata dönüştürmeye başlayınca Rönesans boyunca sanatsal demir işleri de ortaya çıkmıştır.
 
 ## DOKTORLAR
-<img class="" src="http://i.imgur.com/RqMejWw.jpg" alt="" width="129" height="258" />
+<img class="" src="http://i.imgur.com/RqMejWw.jpg" alt="" width="129" height="258" />{ align=right }
 
 Orta Çağ'da Arapların sayesinde gelişen anatomi ve baskı bilimleri, Rönesans döneminde tıbbın öncüsü olmuştur.
 
@@ -23,7 +23,7 @@ Orta Çağ'da Arapların sayesinde gelişen anatomi ve baskı bilimleri, Rönes
 1350'de veba Avrupa'yı kırıp geçirdikten sonra, birçok hekim özel veba kıyafetleri giyerek hastaları muayene etmiştir. Hastalık bulaşmasından korunmak için balmumu kaplı bir manto giyiyor ve gaga şeklinde ilkel bir tür gaz maskesi takıyorlardı.
 
 ## HIRSIZLAR
-<img class="" src="http://i.imgur.com/OUButqL.jpg" alt="" width="130" height="259" />
+<img class="" src="http://i.imgur.com/OUButqL.jpg" alt="" width="130" height="259" />{ align=right }
 
 Rönesans dönemi hırsızları genellikle ilk tehlike sinyalinde ortadan kaybolup muhafızların kendilerini takip etmesini imkansız hale getirebilen gezginlerdi.
 
@@ -32,7 +32,7 @@ Rönesans İtalyasında kara borsa faaliyetleri patlama yaşıyordu. Cinayetler 
 Cezalandırılmaktan korunmak için, hırsızlar kendi aralarında birbirlerine güven bağları oluşturmuşlardı. Her hırsız diğerlerine en kirli sırlarını bile anlatmak zorundaydı ki bu da her hırsız arkadaşlarının hayatını neredeyse elleri arasında tutuyor demekti.
 
 ## HIZLI SEYAHAT İSTASYONU
-<img class="" src="http://i.imgur.com/LgGEizC.jpg" alt="" width="130" height="259" />
+<img class="" src="http://i.imgur.com/LgGEizC.jpg" alt="" width="130" height="259" />{ align=left }
 
 <em>REBECCA84: Vapura binmek için para ödemelisin.</em>
 
@@ -43,7 +43,7 @@ Traghetto iskeleleri, karlı bir ayrıcalık olan iskelelerde çalışmaya yaln�
 Her iskele kendi kurallarına sahipti, ki bu kurallar yalnızca 40 yaşından büyüklerin buralarda çalışmasına izin verenlerden, sal başına sadece 10 yolcu taşınmasına izin verenlere kadar değişiklik gösteriyordu.
 
 ## KARAVAN SEYAHATİ
-<img class="" src="http://i.imgur.com/xNQ5dxT.jpg" alt="" width="130" height="260" />
+<img class="" src="http://i.imgur.com/xNQ5dxT.jpg" alt="" width="130" height="260" />{ align=right }
 
 Rönesans döneminde seyahat etmek bugünkü gibi iğrenç bir çile değildi. Bunun yerine, oldukça korkutucuydu. Kırsal bölgeler eşkıyalarla doluydu, bu yüzden de bir çok yolcu karavan adı verilen silahlı gruplar halinde yola çıkmayı tercih ediyordu. Evhamlı yolcular genellikle değerli eşyalarını ve altınlarını ayakkabılarının tabanına ya da ceket astarlarının içine dikiyorlardı.
 
