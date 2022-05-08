@@ -12,9 +12,10 @@ Animus Projesi arşivi.
 - [[PC Yamaları]]
 - [[PS4 Yamaları]]
 - [[Switch Yamaları]]
+- [[Seslendirme]]
 
 ## Veritabanı
-- [[Veritabanı/01 - Assassin's Creed II/Belgeler|Assassin's Creed II]]
-- [[Veritabanı/02 - Assassin's Creed - Brotherhood/Belgeler|Assassin's Creed - Brotherhood]]
-- [[Assassin's Creed - Revelations/Bomba Kodeksi/Bombalar|Assassin's Creed - Revelations]]
-- [[Assassin's Creed III/Kişiler/Bireyler|Assassin's Creed III]]
+- [[Kodeks|Assassin's Creed II]]
+- [[Resimler|Assassin's Creed - Brotherhood]]
+- [[Cemiyet|Assassin's Creed - Revelations]]
+- [[Gazeteler|Assassin's Creed III]]

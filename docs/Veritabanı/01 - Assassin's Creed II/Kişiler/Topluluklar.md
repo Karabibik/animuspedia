@@ -1,7 +1,7 @@
 
 
 ## BANKALAR
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/u96mPzQ.jpg" alt="" width="130" height="259" />
 
@@ -12,14 +12,14 @@
 	Bankalar teknik olarak paralarından para kazanamıyordu, çünkü Katolik Kilisesi faizi yasaklamıştı ama pratikte bu yasağa bankacılar uymuyordu, hatta bankacılık sistemine dahil olan ve bankaların bünyelerinde barındırdıkları para nispetince Papa'ya "hediyeler" göndermelerini zorunlu kılan Vatikan bile bu yasağı çiğniyordu. Adı "faiz" olmadıkça, Tanrı farkına varmazdı, değil mi?
 
 ## DEMİRCİLER
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/LuxRUK7.jpg" alt="" width="130" height="260" />
 
 	Her Rönesans topluluğu bir demirciye ihtiyaç duyardı. Kılıçlar, kilitler, tavalar, bıçaklar, çiviler ve zırhlar hep metalden yapılırdı ve hepsinin şekil verilmeye ihtiyacı vardı. Ek olarak, demirciler pratik el becerilerini sanata dönüştürmeye başlayınca Rönesans boyunca sanatsal demir işleri de ortaya çıkmıştır.
 
 ## DOKTORLAR
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/RqMejWw.jpg" alt="" width="129" height="258" />
 
@@ -30,7 +30,7 @@
 	1350'de veba Avrupa'yı kırıp geçirdikten sonra, birçok hekim özel veba kıyafetleri giyerek hastaları muayene etmiştir. Hastalık bulaşmasından korunmak için balmumu kaplı bir manto giyiyor ve gaga şeklinde ilkel bir tür gaz maskesi takıyorlardı.
 
 ## HIRSIZLAR
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/OUButqL.jpg" alt="" width="130" height="259" />
 
@@ -41,7 +41,7 @@
 	Cezalandırılmaktan korunmak için, hırsızlar kendi aralarında birbirlerine güven bağları oluşturmuşlardı. Her hırsız diğerlerine en kirli sırlarını bile anlatmak zorundaydı ki bu da her hırsız arkadaşlarının hayatını neredeyse elleri arasında tutuyor demekti.
 
 ## HIZLI SEYAHAT İSTASYONU
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/LgGEizC.jpg" alt="" width="130" height="259" />
 
@@ -54,7 +54,7 @@
 	Her iskele kendi kurallarına sahipti, ki bu kurallar yalnızca 40 yaşından büyüklerin buralarda çalışmasına izin verenlerden, sal başına sadece 10 yolcu taşınmasına izin verenlere kadar değişiklik gösteriyordu.
 
 ## KARAVAN SEYAHATİ
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/xNQ5dxT.jpg" alt="" width="130" height="260" />
 
@@ -63,7 +63,7 @@
 	Vetturini adı verilen rehberler bazen karavanların rotalarını belirlemek ve yol üstünde kalacakları otellerde yer ayırtılması için tutulurdu ama bunlar çoğunlukla eşkıyalarla ortak çalışıyor olurlardı, tıpkı şimdiki seyahat acenteleri gibi.
 
 ## KARNAVAL OYUNCULARI
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/ghU1PlU.jpg" alt="" width="130" height="260" />
 
@@ -72,14 +72,14 @@
 	Neticede, Karnaval reality şovlarının atalarından biriydi.
 
 ## KURTİZANLAR
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/0iHcjeO.jpg" alt="" width="130" height="262" />
 
 	Fahişelik, tek seçenekleri aileleriyle evde oturmak ya da bir manastırda kalmak olan Rönesans kadınları arasındaki en popüler mesleklerden biriydi. İtalyan toplumu fahişeliği destekliyordu, ve bir çok genelevin işleyişi hükumet tarafından düzenleniyordu. 15. yüzyılın sonunda, bazı şehirler fahişeliğe karşı kanunlar çıkarmaya ve fahişeleri, saygın halktan ayırt edilebilmeleri için belli giysiler giymeye zorladılar.
 
 ## PARALI ASKERLER
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/Dk55fPu.jpg" alt="" width="130" height="258" />
 
@@ -92,7 +92,7 @@
 	Bazı kiralık askerler onurluydu, inandıkları bir amaç uğruna savaşırlardı ancak bunların sayısı çok azdı ve olanlar da birbirlerinden uzaktı. Yine de, bulunmuş oldukları yerlerde, peşlerinden koşulan kişilerdi.
 
 ## SANAT TÜCCARLARI
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/WTZwAWB.jpg" alt="" width="130" height="259" />
 
@@ -101,7 +101,7 @@
 	Komisyonları alan ve tablonun geneline toplu bir bakış atan dükkanın sahibi genelde efendi olurdu. Efendi genelde bir iş adamı olarak görülür ve genellikle o zaman hangi dini tablo revaçtaysa bunun kopyalarını üreterek kar etmesi beklenirdi.
 
 ## TELLALLAR
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/FwTUF8G.jpg" alt="" width="130" height="259" />
 
@@ -109,7 +109,7 @@
 
 ## TERZİLER
 
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/TbPk2YN.jpg" alt="" width="131" height="261" />
 

@@ -1,7 +1,7 @@
 
 
 ## CHECCO VE LUDOVICO ORSI
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/9jig38c.jpg" alt="" width="130" height="259" />
 	### CHECCO ORSI
@@ -15,7 +15,7 @@
 	Meslek: Soylu, Profesyonel Hırsız.
 
 ## SILVIO BARBARIGO IL ROSSO
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/N53zwYQ.jpg" alt="" width="130" height="260" />
 
@@ -24,7 +24,7 @@
 	Meslek: Venedik Yüksek Mahkemesi Üyesi, Devlet Engizisyon Üyesi, Soylu.
 
 ## GIROLAMO SAVONAROLA
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/zK7jqoR.jpg" alt="" width="129" height="260" />
 
@@ -33,7 +33,7 @@
 	Meslek: Dominikan Rahibi, Floransa'nın Lideri.
 
 ## MARCO BARBARIGO VE DANTE
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/BLnwpPm.jpg" alt="" width="130" height="261" />
 	### MARCO BARBARIGO
@@ -47,7 +47,7 @@
 	Meslek: Marco Barbarigo'nun Kişisel Muhafızı.
 
 ## CARLO GRIMALDI
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/HYiX1gd.jpg" alt="" width="130" height="262" />
 
@@ -56,7 +56,7 @@
 	Meslek: Soylu, Onlar Konseyi Üyesi.
 
 ## EMILIO BARBARIGO
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/J75VETS.jpg" alt="" width="130" height="260" />
 
@@ -65,7 +65,7 @@
 	Meslek: Tüccar Loncası Lideri, Soylu
 
 ## FRANCESCO DE'PAZZI
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/KR1u6X0.jpg" alt="" width="130" height="260" />
 
@@ -74,7 +74,7 @@
 	Meslek: Soylu, Banker.
 
 ## PAZZI KOMPLOCULARI
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/6xUkjK9.jpg" alt="" width="131" height="262" />
 	### FRANCESCO SALVIATI
@@ -103,7 +103,7 @@
 	Meslek: Banker.
 	
 ## RODRIGO BORGIA
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/zOsEsyI.jpg" alt="" width="130" height="260" />
 
@@ -112,7 +112,7 @@
 	Meslek: İtalyan Tapınakçılarının lideri, Soylu.
 
 ## UBERTO ALBERTI
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/PahBGGT.jpg" alt="" width="130" height="260" />
 
@@ -121,7 +121,7 @@
 	Meslek: Gonfaloniere di Giustizia, Adalet Yasaları İnfazcısı, Hain.
 
 ## VIERI DE'PAZZI
-!!! info " "
+!!! info ""
 
 	<img class="" align="left" src="http://i.imgur.com/DWNGd2F.jpg" alt="" width="130" height="260" />
 

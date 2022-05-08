@@ -14,7 +14,7 @@ Ama ben değilim. Hayır, ben yalnızca gelecek vaad eden bir öncüydüm. Sana 
 Görünüşe göre, pek az şey.
 
 ## ABBAS SUFYAN
-<img class="alignleft" src="http://i.imgur.com/cFmcVHb.png" alt="" />
+<img align="left" src="http://i.imgur.com/cFmcVHb.png" alt="" />
 
 1166 yılında doğan Abbas Sofian görece zor bir çocukluk geçirdi. Babası - 1176 yılında Sarazenler tarafından tutsak edilmiş ve işkenceye maruz bırakılmış, Abbas henüz küçük bir çocukken hayatından çıkmıştı. Tek başına kalan Abbas derin bir depresyona yuvarlanmış, yalnızca arkadaşları ve Üstadı El Muallim'e olan bağlılığı bu depresyonu hafifletebilmişti.
 
@@ -36,7 +36,7 @@ Pek az kişi tarafından sevilen, fakat herkesin kendisine hayran olduğu Altaï
 Altaïr'in beş Masyaf Anahtarı'nda depolanan anılar sayesinde, Tapınakçılar'ın (doğrusu oldukça ilkel olan) Animus 1.28 avatar görüntüleme sisteminin verdiği belirsiz bakışlara razı olmak yerine artık bizzat Altaïr'in hayatını oldukça yakından inceleyebiliyoruz.
 
 ## DARİM ve SEF
-<img class="alignleft" src="http://i.imgur.com/pfqa9Xt.png" alt="" />
+<img align="left" src="http://i.imgur.com/pfqa9Xt.png" alt="" />
 
 Altaïr Ibn La'Ahad ve Maria Thorpe'nin oğulları, sırayla 1195 ve 1197 yıllarında doğdular. İkisi de - babaları Altaïr gibi - Masyaf'ta büyüdüler, babaları tarafından Suikastçılık, anneleri tarafından da birer diplomat ve onurlu erkekler olarak yetiştirildiler. Ancak çocukluğunu babasından ayrı, El Muallim'in eğitiminde geçiren Altaïr'in aksine, Darim ve Sef aileleriyle aynı çatı altında, ilgi ve şefkatle büyüdüler. Altaïr, sert mizacına rağmen sabırlı bir babaydı, El Muallim'in ona verdiklerini o da oğullarına vermeye kararlıydı - rehberlik ve saygı.
 
@@ -52,7 +52,7 @@ Yine de bu katı sınırlar onu tatmin ya da mutlu etmiyordu ve kısa sürede ar
 Dilara'nın büyüsüne kapılan Tarık onun salıverilmesi ve Yeniçeriler için çalışmasını sağlamak için çalışmaya başladı, bunun yarısı kibarlıktan, yarısı da Dilara'yı etkilemek içindi. Planı işe yaramadı ve bu Tarık için sonraki yıllarda sürekli içinde taşıyacağı bir keder kaynağı oldu.
 
 ## EL MUALLİM
-<img class="alignleft" src="http://i.imgur.com/IJoC62Q.png" alt="" />
+<img align="left" src="http://i.imgur.com/IJoC62Q.png" alt="" />
 
 Bu adam hakkındaki kayıtlar en çok M.S. 1176 yılına, Suikastçılar'ın Sarazen Generali Selahaddin'le karşı karşıya geldikleri zamana kadar gider. Bana kalırsa El Muallim o sıralar kırklı yaşlarının sonlarında olmalı, ama kesin bir şey söylemek güç. Her halükarda, El Muallim çok yetenekli bir Suikasçtı ve korkulan bir liderdi.
 
@@ -76,7 +76,7 @@ Rodrigo'nun hayatını bağışlamasından kısa süre sonra, Papa'nın genç o�
 Ezio yıllar içinde git gide olgunlaşırken, bazı garip yetenekleri, söz gelimi duyu ötesi bir görüden - bilirsiniz, biz Suikastçılar'ın "Kartal Duyusu" dedikleri şey - daha azı olmayan yetenekleri de gelişmişti. Kartal Görüşü'nün nereden geldiğinden emin değiliz, ancak tahminlerimiz var. Atalarımızın Önceden Gelenler'le olan bağlantılarının kalıntıları, örneğin. Nasıl olduğunu söylemek güç, ancak gerçeğin kurgudan daha garip olduğu ortada. Her halükarda, Kartal Görüşü Ezio'da oldukça güçlüydü. Onunla geçirdiğim kısa süre içerisinde ben de kendimde az da olsa bunu hissettim, ancak benim onunla geçirdiğim süre senin geçirdiğinden çok daha kısa olduğundan, asla tam deneyimi yaşayamadım. Ancak sen Desmond, Animus'un kanama efekti sayesinde, senin Ezio ile - ve Altaïr ile - geçirdiğin süre pek az kimsenin hayal edebileceği biçimde sende uyku halinde bulunan bazı duyuları ortaya çıkardı. Bunun için Bay Auditore'ye teşekkür edebilirsin. Buna gerek yok aslında, ne de olsa onun tüm ödevlerini yapıyorsun.
 
 ## MARIA THORPE
-<img class="alignleft" src="http://i.imgur.com/23nLJAk.png" alt="" />
+<img align="left" src="http://i.imgur.com/23nLJAk.png" alt="" />
 
 Çocukluğundan itibaren Maria hep bir şövalye olmayı hayal etti. Onlu yaşlarında bir erkek gibi olan Maria diğer çocuklar tarafından dışlanır ve ailesi tarafından "bir hanımefendi olmayı" reddettiği için cezalandırılırdı. Sonunda evi olan İngiltere'yi Kudüs'e gitmek üzere terk etti ve bir çok zorluk ve çileden sonra, birkaç seçkin Tapınakçı Haçlısı'nın gözüne girmeyi başardı.
 
@@ -102,7 +102,7 @@ Zorluklar ve trajik kayıplarla - ki bu kayıpların en önemlisi, yağmacı bir
 Ancak tüm çabalarına rağmen Altaïr'in kıymetli Codex'ini kaybetmenin utancını üzerlerinden atamamışlardı ve 1259 yılında - Altaïr'in beş eserini muazzam bir titizlilikle sakladıktan sonra - on yıla yakın bir süredir yurt edindikleri şehirden ayrılarak, Moğol Hanı'nı aramak üzere yola koyuldular ki bu görev ancak onyıllar sonra Niccolò'nun oğlu Marco tarafından tamamlanabilecekti.
 
 ## PİRİ REİS
-<img class="alignleft" src="http://i.imgur.com/LnkcuTx.png" alt="" />
+<img align="left" src="http://i.imgur.com/LnkcuTx.png" alt="" />
 
 1467 yılı civarında - birkaç yıl eksik ya da fazla olabilir - Osmanlı İmparatorluğu'nda bir yerde doğan Hacı Ahmed Muhiddin Piri, müphem kökeninin düşündürebileceği kadar gizemli biri değildi. Osmanlı Donanması'nda yetenekli ve üst rütbeli bir denizciydi. Onlu yaşlarından itibaren denizle sürekli iç içeydi, amcası Kemal ile birlikte Akdeniz'i köşe bucak gezip meşruluğu şüpheli seferlere çıkıyordu. Yirmili yaşlarına geldiğinde o ve amcası, özgürlüklerini saygınlıkla takas edip birlikte Osmanlı Donanması'na katıldılar.
 
@@ -120,7 +120,7 @@ Ve şu tablosu, günlerce hiç durmadan bakabilirim. Tabloyu ünlü Alman sanat�
 Bir çok farklı ilgi alanı olsa da Sofia'nın asıl tutkusu yaklaşık yarım yüzyıl önce icat edilen matbaa ile gerçekleşen bir aşk olan edebiyat üzerindeydi. Tarihte ilk defa kitaplar bu kadar ucuz ve herkes tarafından erişilebilir olmuştu. Sofia kitapların demokratikleştirici etkisine bayılıyordu ve herkesin de bayılmasını hayatının asıl uğraşısı haline getirmişti.
 
 ## ŞEHZADE AHMET
-<img class="alignleft" src="http://i.imgur.com/QRy52W9.png" alt="" />
+<img align="left" src="http://i.imgur.com/QRy52W9.png" alt="" />
 
 Henüz genç yaşlarında, Şehzade Ahmet bizzat babası II. Bayezid tarafından seçilerek Osmanlı İmparatorluğu tahtının varisi olmuştu. Birçoklarına göre bu çok mantıklı bir seçimdi: Ahmet babasının savaşa olan gönülsüzlüğünü ve batıni ilimlere karşı ilgisini paylaşan, minnettar ve sadık bir evlattı.
 
@@ -138,7 +138,7 @@ Sultan'ın beş oğlundan en küçüğü olarak, Şehzade Selim babasının kutl
 Ordusunu toplayan Selim Kostantiniyye'ye kuzeyden saldırmak için bir plan geliştirdi. Hasta pederi II. Bayezid kuzeybatıda, Edirne'de dinlenirken Selim, Yeniçerilerin onu şehre sevinçle kabul edeceğini ve Bayezid'i geri çekilmeye zorlayacaklarını düşündü. Hesaba katmadığı şey ise, babasının savaşmak için ani ve yenilenmiş bir canlılığa kavuşmasıydı. Tahtını korumak - ve Ahmet'in gelecekteki Sultanlığını garantilemek - için ileri atılan Bayezid ordularına Selim'in ilerleyişini durdurmalarını emretti ve bu emir yıldırım hızıyla gerçekleşti. Bocalayan Selim hükümdarlığa olan isteği daha da kamçılanmış olarak, stratejisini yeniden gözden geçirmek ve adamlarını toplamak için Karadeniz'in kuzeyine, Kefe'ye geri çekildi.
 
 ## TARIK BARLETİ
-<img class="alignleft" src="http://i.imgur.com/sw5ER1r.png" alt="" />
+<img align="left" src="http://i.imgur.com/sw5ER1r.png" alt="" />
 
 Tarık Barleti Hrıstiyan bir Arnavut ailesinde, dört erkek kardeş ve üç kız kardeşten en büyük ikinci erkek olarak doğmuştu. Ancak - küçük erkek çocukların Sultan'ın hizmetine "gönüllü" oldukları - Osmanlı devşirme sistemiyle önceki hayatındaki bu küçük detaylar kısa sürede önemsiz hale geldi. Devşirme sistemiyle Osmanlı olurdunuz, bir kez ve daima. Göründüğü kadar talihsiz olan bu sistem yürürlükte olduğu zamanlar bir çok genç erkekte uygulanmıştı. Dünyanın her yerinde alınan ve satılan kölelerin aksine, devşirme sistemiyle yetişen çocuklar oldukça saygın pozisyonlara gelme şansı bulurlardı, örneğin Vezir olmak ya da Tarık'ın durumunda, bir Yeniçeri - Osmanlı Sultanı'nın elit askerlerinden olmak gibi.
 
