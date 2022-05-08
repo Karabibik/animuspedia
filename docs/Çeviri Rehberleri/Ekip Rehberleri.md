@@ -1,5 +1,4 @@
-- Çeviri Rehberi:
-- Trados Rehberi:
-- Program Rehberi:
-- Tester Rehberi:
-
+- Trados Rehberi
+- Program Rehberi
+- Tester Rehberi
+- Çevirmen Alım Rehberi

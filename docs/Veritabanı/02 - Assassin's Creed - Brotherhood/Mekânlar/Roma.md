@@ -197,7 +197,9 @@ Trajan'ın favori mimarı olan Şam'lı Apollodorus tarafından M.S. 107 ve 110 
 ## MURA AURELIANE
 <img src="http://i.imgur.com/P6iGbZ7.jpg" alt="" />
 
-Roma'nın Yedi Tepesi'nin hepsini içine alan bu şehir duvarları sırası 271 ve 275 yılları arasında, İmparator Aurelian ve İmparator Probus dönemlerinde yapılmıştı. Duvar az korunaklı banliyö mahallelerine ve köylere saldırmayı adet edinen barbar klanlarını engellemek üzere inşa edilmişti. 545 yılındaki Got Savaşı'nda, Ostrogot Kralı Totila Bizanslılar'ın şehri savunma gücünü kırabilmek için duvarın büyük bir bölümünü yıktı. &lt;br&gt;&lt;br&gt;Günümüz Got'larında eksik olan budur: çok fazla makyaj, çok az köy yağmalama.
+Roma'nın Yedi Tepesi'nin hepsini içine alan bu şehir duvarları sırası 271 ve 275 yılları arasında, İmparator Aurelian ve İmparator Probus dönemlerinde yapılmıştı. Duvar az korunaklı banliyö mahallelerine ve köylere saldırmayı adet edinen barbar klanlarını engellemek üzere inşa edilmişti. 545 yılındaki Got Savaşı'nda, Ostrogot Kralı Totila Bizanslılar'ın şehri savunma gücünü kırabilmek için duvarın büyük bir bölümünü yıktı. 
+
+Günümüz Got'larında eksik olan budur: çok fazla makyaj, çok az köy yağmalama.
 
 ## NERO'NUN ALTIN SARAYI
 <img src="http://i.imgur.com/PbAtWqe.jpg" alt="" />

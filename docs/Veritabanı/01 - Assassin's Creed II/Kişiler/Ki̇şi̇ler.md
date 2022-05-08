@@ -101,7 +101,9 @@ Meslek: Forlì Kontesi, Soylu.
 
 Evlilik vasıtasıyla kontes olan Caterina'nın Forlì'ye ulaşmasından çok önce bile adı çıkmıştı. Milano Sarayı'nda büyüyen Caterina, Dük olan babası tarafından savaş sanatlarında eğitim görürken, bir yandan da klasik eğitimini sürdürdü. Sarayda, Caterina'nın ayrıca simya ve avcılık alanlarında da tutkusu ortaya çıkmıştı.
 
-1473'te 10 yaşındayken, Caterina Papa'nın yeğeni Girolamo Riario ile nişanlandı. Evliliklerini Caterina 14 yaşına geldiğinde tamamladılar. &lt;br&gt;&lt;br&gt;Roma'ya gittiğinde, saraydaki en cana yakın asilzadelerdn biri olarak duyuldu, buna karşılık kocası en merhametsizlerinden biri olmasıyla ünlenmişti. Papa'nın kardeşinin erken ölümüyle, Girolamo Imola ve Forlì Lordu unvanlarını alarak daha da güçlenmişti.
+1473'te 10 yaşındayken, Caterina Papa'nın yeğeni Girolamo Riario ile nişanlandı. Evliliklerini Caterina 14 yaşına geldiğinde tamamladılar.
+
+Roma'ya gittiğinde, saraydaki en cana yakın asilzadelerdn biri olarak duyuldu, buna karşılık kocası en merhametsizlerinden biri olmasıyla ünlenmişti. Papa'nın kardeşinin erken ölümüyle, Girolamo Imola ve Forlì Lordu unvanlarını alarak daha da güçlenmişti.
 
 Papa öldüğünde, yağmacılar Roma'yı yağmaladılar ve Caterina'nın konağını yıktılar. Korkmayan Caterina, 7 aylık hamile olmasına rağmen at üstünde Castel Sant'Angelo'ya vardı ve toplar ve askerler ile Vatikan'ı savundu.
 

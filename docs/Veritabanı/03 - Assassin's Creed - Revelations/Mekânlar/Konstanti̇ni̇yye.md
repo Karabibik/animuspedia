@@ -240,7 +240,9 @@ Takip eden yüzyıllar boyunca forum yeniden inşa edildi, depremler tarafından
 ## TOPHANE / THEODOSIUS LİMANI
 <img src="http://i.imgur.com/bscHpm7.png" alt="" />
 
-Şehrin Yunan sakinleri tarafından Elutherios Limanı olarak adlandırılan bu liman, Kostantiniyye'deki birçok limanın en büyüğüydü. İmparator Theodosius tarafından dördüncü yüzyılda genişletilerek tarım ürünleri ticareti için önemli limanlardan biri haline gelmiş, daha sonra da askeri bir karakol olmuştu. &lt;br&gt;&lt;br&gt;Osmanlılar'ın şehri ele geçirmesinden çok da uzun olmayan bir süre sonra limanın büyük miktarda siltasyona dayanamayacak hale geldiği ve kapatılıp yeniden inşa edildiği kayıt edilir. Yedinci yüzyıla gelindiğinde liman tamamen yok olmuştu. 21. yüzyılda bir proje için kazı yapan işçiler kumların derinlerine gömülmüş halde onlarca Bizans kadırgası kalıntısı buldular.
+Şehrin Yunan sakinleri tarafından Elutherios Limanı olarak adlandırılan bu liman, Kostantiniyye'deki birçok limanın en büyüğüydü. İmparator Theodosius tarafından dördüncü yüzyılda genişletilerek tarım ürünleri ticareti için önemli limanlardan biri haline gelmiş, daha sonra da askeri bir karakol olmuştu.
+
+Osmanlılar'ın şehri ele geçirmesinden çok da uzun olmayan bir süre sonra limanın büyük miktarda siltasyona dayanamayacak hale geldiği ve kapatılıp yeniden inşa edildiği kayıt edilir. Yedinci yüzyıla gelindiğinde liman tamamen yok olmuştu. 21. yüzyılda bir proje için kazı yapan işçiler kumların derinlerine gömülmüş halde onlarca Bizans kadırgası kalıntısı buldular.
 
 ## TOPKAPI SARAYI
 <img src="http://i.imgur.com/RG9RgXN.png" alt="" />
