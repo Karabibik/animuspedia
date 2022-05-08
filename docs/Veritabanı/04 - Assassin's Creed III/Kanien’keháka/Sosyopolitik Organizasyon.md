@@ -73,5 +73,3 @@ Bir şef göreve ömürlük olarak getirilir ve görevi ancak liyakat, hastalık
 
 ## TUSCARORA HALKI
 "Kenevir Yetiştiriciler" anlamına gelen Tuscoraro halkı Haudenosaunee Konfederasyonu'nun üyelerinden biridir. Aslen Kuzey Carolina'dan olan Tuscarora kuzeye doğru göç etmiş ve bunun sonucunda 1714-1722 yılları arasında Haudenosaunee tarafından kabul edilmiştir. Bundan sonra Haudenosaunee, Altı Halk Konfederasyonu olarak adlandırılmaya başlamıştır.
-
-&nbsp;

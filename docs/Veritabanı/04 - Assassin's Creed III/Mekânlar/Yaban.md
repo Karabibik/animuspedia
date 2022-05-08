@@ -71,5 +71,3 @@ Lexington milisleri John Parker liderliğinde köyün yeşilliğinde dizildi -mu
 Bir kaç milis öldürüldü, kalanlar geri çekildi. İngiliz'ler Concord'a karşı yürüdü – gerçi Boston yakınlarında tekrar milisler tarafından taciz edildiler.
 
 Lexington'da "Amerika için ne görkemli bir sabah" cümlesi bir özlü söz haline gelmiştir – muhtemelen öyle görünmediği için. “1775'ten beri hep ateş eder ve kaçarız!” cümlesi olaya daha bir uygun gibi. Her kasabanın övgü dolu sözleri olan çıkartmalara ihtiyacı vardır.
-
-&nbsp;

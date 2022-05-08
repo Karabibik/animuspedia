@@ -2,7 +2,7 @@
 ## ANTICO TEATRO ROMANO
 <img src="http://i.imgur.com/kF59eSG.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Benzer yapıya sahip olan Yunan tiyatrolarından esinlenmiş Antik Roma tiyatrolarının kalıntıları, hala bir zamanlar İmparatorluk'un hükmettiği topraklarda bulunabilir.
 
@@ -13,7 +13,7 @@ Hiç mermer olmadığını fark ettin mi? Rönesans İtalyanları Roma kalıntı
 ##  MONTE OLIVETO MAGGIORE
 <img src="http://i.imgur.com/Uo4n8HM.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 1313 yılında Bernardo Tolomei tarafından kurulan Monte Oliveto Maggiore Manastırı, temelde Benedikten'di. Benedikten keşişleri çoğunlukla hakim görüşü kabul eder, kendi yerel yönetimleri tarafından yönetilen otonom cemaatleri içinde yaşar ve "barış, dua ve çalışma" düsturuyla hareket ederlerdi.
 
@@ -49,7 +49,7 @@ Fakat 1348 yılındaki veba salgını San Gimignano'yu kırıp geçirdi. bakım 
 ## SANTA MARIA ASSUNTA
 <img src="http://i.imgur.com/O8YoC7j.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Şehirde hiç piskopos olmamasına rağmen, yerel halk tarafından Duomo ismiyle anılan Santa Maria Assunta 12. yüzyılda kuruldu. Şok edici bir şekilde, Kuleler Şehri San Gimignano'nun aksine şehirde hiç kule yoktu. Bir kilise zoruyla evlenmemeye benzeyen bu tavır muhtemelen akıllıca bir hareketti.
 
@@ -79,7 +79,7 @@ Kule Kıskançlığı: Bunun değişim için yeterli bir güç olmasını küç�
 ## TORRI DEI SALVUCCI
 <img src="http://i.imgur.com/A04sm3c.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Kuleleriyle ünlü bir şehirde, Salvucci ailesi 13. yüzyılın gücünü göstermek adına, bir değil iki kule dikti. Ve iki kule yapmakla kalmayıp, bunları San Gimignano'nun yöneticisinin (Podestà'nın) kulesinden daha yüksek yaptılar, hem de 1255'te çıkan ve böyle bariz bir şekilde agresif yapı inşa edilmesini yasaklayan kanuna rağmen.
 
@@ -88,7 +88,7 @@ Kuleleriyle ünlü bir şehirde, Salvucci ailesi 13. yüzyılın gücünü göst
 ## VILLA AUDITORE
 <img src="http://i.imgur.com/3PQyVs1.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 1290 yılında inşa edilen Villa Auditore erken dönem Rönesans mimarisinin orta çağdaki önemli öncülerinden biridir. Konağın muhteşem simetrisi ve düzenli geometrisi o zaman için bir devrim niteliğindeydi.
 

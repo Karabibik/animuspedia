@@ -14,10 +14,10 @@ theme:
       - navigation.top
       
     palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: amber
       accent: orange
 

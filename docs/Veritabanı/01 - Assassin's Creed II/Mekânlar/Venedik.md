@@ -16,9 +16,9 @@ Basilica di San Marco, ilk olarak İskenderiye'den çalınan Aziz Markos kutsal 
 ## CAMPANILE DI SAN MARCO
 <img src="http://i.imgur.com/5UmjNWp.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
-9. yüzyılda gözetleme kulesi olarak inşa edilen Campanile di San Marco, daha sonra bir çan kulesine dönüştürüldü. Beş çanın her birinin özel bir anlamı vardır: Biri Senato'yu duyurmak için, biri gün ortasını belirtmek, üçüncüsü iş gününün açılışını ve kapanışını duyurmak için, dördüncüsü konsey toplantılarını duyurmak için, beşinci ve sonuncusu ise idamlar içindir.
+9 . yüzyılda gözetleme kulesi olarak inşa edilen Campanile di San Marco, daha sonra bir çan kulesine dönüştürüldü. Beş çanın her birinin özel bir anlamı vardır: Biri Senato'yu duyurmak için, biri gün ortasını belirtmek, üçüncüsü iş gününün açılışını ve kapanışını duyurmak için, dördüncüsü konsey toplantılarını duyurmak için, beşinci ve sonuncusu ise idamlar içindir.
 
 ## CANNAREGIO SEMTİ
 <img src="http://i.imgur.com/JwQbNfk.jpg" alt="" />
@@ -42,7 +42,7 @@ Sanatçıların favori mekanı olan Dorsoduro Venedik'in festival merkeziydi. Bu
 ## GILDA DEI LADRI DI VENEZIA
 <img src="http://i.imgur.com/XHg266h.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 1465 yılı civarında kurulan Venedik Hırsız Loncası, yasadışı olması sebebiyle, sabit bir merkeze sahip değildi.
 
@@ -58,9 +58,9 @@ Kilise bunun bir ilahi müdahale olduğunu iddia etse de, hukukçular yangını 
 ## MADONNA DELL'ORTO
 <img src="http://i.imgur.com/f2L099G.jpg" alt="" />
 
-<em>REBECCAC84: Şu çan kulesine tırmanmak istediğini biliyorum.</em>
+_REBECCAC84: Şu çan kulesine tırmanmak istediğini biliyorum._
 
-14. yüzyılda, bir kefaret itikadı olan Humiliati tarafından yaptırılan Madonna dell'Orto, başlangıçta Aziz Kristof'a adanmıştır. Bakire Meryem'in "mucizevi" bir heykeli yakındaki bir meyve bahçesinde (İtalyanca Orto) bulunduğunda, kilisenin ismi değiştirildi. Cephe 1464 yılında eklenmiştir.
+14 . yüzyılda, bir kefaret itikadı olan Humiliati tarafından yaptırılan Madonna dell'Orto, başlangıçta Aziz Kristof'a adanmıştır. Bakire Meryem'in "mucizevi" bir heykeli yakındaki bir meyve bahçesinde (İtalyanca Orto) bulunduğunda, kilisenin ismi değiştirildi. Cephe 1464 yılında eklenmiştir.
 
 ## PALAZZO DELLA SETA
 <img src="http://i.imgur.com/W5k6a7D.jpg" alt="" />
@@ -81,7 +81,7 @@ Yüksek Konsey adayları yalnızca asil ailelerden gelenlerin olduğu çok küç
 ## PONTE DI RIALTO
 <img src="http://i.imgur.com/agtzj90.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Venedik'teki en eski, ve en ünlü köprü olan Rialto, San Marco ve San Polo semtleri arasındaki sınır çizgisidir. Köprü devasa kemer boyutunun yanında, yürüme yolu boyunca sıralanan dükkanlar ve tezgahlarıyla, yakın çevresindeki insanlar için sürekli canlı halde bir gezinti alanı ve toplanma yeri olmasıyla da kayda değerdir.
 
@@ -95,11 +95,11 @@ Bartolomeo D'Alviano daha sonraları hayatında daha büyük işler yaptı, Vene
 ## SAN GIACOMO DI RIALTO
 <img src="http://i.imgur.com/TdTJ8CJ.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 İlk olarak 421 yılında inşa edilen San Giacomo'nun, Venedik'teki en eski kilise olduğuna inanılır, ancak halihazırdaki yapı 1071 yılı civarında yapılmıştır.
 
-15. yüzyılda yapılan cephe kısmını muhteşem bir 24-saatlik çini saat süslemektedir. Rönesans döneminde, kilise etraftaki tüccarların gün içinde gelip ibadet ettikleri bir yer olarak kullanılıyordu. En azından, karılarına söyledikleri buydu.
+15 . yüzyılda yapılan cephe kısmını muhteşem bir 24-saatlik çini saat süslemektedir. Rönesans döneminde, kilise etraftaki tüccarların gün içinde gelip ibadet ettikleri bir yer olarak kullanılıyordu. En azından, karılarına söyledikleri buydu.
 
 ## SAN GIOBBE
 <img src="http://i.imgur.com/jK3vrNI.jpg" alt="" />
@@ -116,7 +116,7 @@ Venedik'in kalbi olan San Marco, yönetim semtidir. Her şey Piazza San Marco ve
 ## SAN PIETRO DI CASTELLO
 <img src="http://i.imgur.com/SILIzE9.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 İlk olarak 7. yüzyılda inşa edilen San Pietro di Castello Venedik Piskoposu'nun konağıydı. San Pietro di Castello Palazzo Ducale'ye ne kadar uzak, fark ettin mi? Bu uzaklık tesadüf değil, Venedik Docları'nın kiliseden bağımsız kalmaları istenirdi.
 
@@ -141,7 +141,7 @@ San Zaccaria 1105 yılında yandı, yangında 100'den fazla rahibe öldü. Kilis
 ## SANTA MARIA DEI CARMINI
 <img src="http://i.imgur.com/t0lwX8l.jpg" alt="" />
 
-<em>REBECCAC84: Bu girdiyi atladıysan, çoktan o kilisenin tepesine çıkmışsındır.</em>
+_REBECCAC84: Bu girdiyi atladıysan, çoktan o kilisenin tepesine çıkmışsındır._
 
 1300lerde inşa edilen Santa Maria dei Carmini (kısaca Carmini), geçimlerini yakınlardaki bir Carmelite manastırındaki keşişlere önlükler dikerek kazanan bir grup kadın tarafından kuruldu.
 
@@ -152,7 +152,7 @@ Bu yüzden, 200 yıl sonra bile, bir grup kadın hala Santa Maria dei Carmini'ye
 ## SANTA MARIA DELLA VISITAZIONE
 <img src="http://i.imgur.com/YbcyION.jpg" alt="" />
 
-<em>REBECCAC84: Bahse varım yukarıdaki manzara muhteşemdir!</em>
+_REBECCAC84: Bahse varım yukarıdaki manzara muhteşemdir!_
 
 Liman bölgesindeki Santa Maria della Visitazione Venedik'teki aynı isimli ikinci kilisedir, kendini yanlış düğünde bulman işten bile değil.
 
@@ -161,7 +161,7 @@ Kilise 1400lerde yapılmış ve kütüphanecilerin ve ansiklopedi yazıcıların
 ## SANTA MARIA GLORIOSA DEI FRARI
 <img src="http://i.imgur.com/WJxv9IT.jpg" alt="" />
 
-<em>REBECCAC84:Şu çan kulesi sana meydan okuyor!</em>
+_REBECCAC84:Şu çan kulesi sana meydan okuyor!_
 
 Fransisken keşişleri tarafından inşa edilen Santa Maria Gloriosa dei Frari (kısaca Frari), Venedik'teki ikinci en büyük kilisedir. Yoksulluğu yücelten Aziz Francis'ten ilham alan kilise, oldukça sade bir dış dekorasyona sahiptir.
 
@@ -181,7 +181,7 @@ Muhafızlar çuvalın içine bakmaya karar verdiklerinde, takipçileri Katerina'
 ## SANTO STEFANO
 <img src="http://i.imgur.com/5t1Wia1.jpg" alt="" />0
 
-<em>REBECCAC8484:Orada olsaydım, seninle kilise kulesinin tepesine kadar yarışırdım!</em>
+_REBECCAC8484:Orada olsaydım, seninle kilise kulesinin tepesine kadar yarışırdım!_
 
 Bu gotik kilise 13 yüzyılda inşa edilmiş, 14 yüzyılda tekrar yapılmıştır.
 
@@ -190,7 +190,7 @@ Bir dükanın (Andrea Contarini) dinlenme yeri olmasının yanında Martin Luthe
 ## SCUOLA GRANDE DI SAN MARCO
 <img src="http://i.imgur.com/uv7vFh7.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Scuola Grande di San Marco, halkın yiyecek, çeyiz, tören, evlilik, cenaze merasimi ve diğer her türlü ihtiyaçlarının karşılanması için kurulmuş, Venedik'in en büyük altı hayır kurumundan biriydi. Dikkate değer bir özellik olarak, üyelik yalnızca elitlere değil, her Venedik vatandaşına açıktı.
 
@@ -210,7 +210,7 @@ Sandalın sol tarafı sağ tarafından daha uzun olur, böylece gondolcu sol tar
 ## TORRE DELL'OROLOGIO
 <img src="http://i.imgur.com/TI5YcWR.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Venedik'in zenginliğini göstermesi için 15. yüzyılın sonlarında inşa edilen Torre dell’Orologio, saati, ayın mevcut fazını ve tüm insan davranışlarını yıldızlardaki küçük şekillerin belirlediğini düşünenler için, Zodyak'ta baskın burcu gösterir.
 
@@ -229,6 +229,6 @@ Konstantiniyye düştüğünde şehir, diğer birçok şeyin yanında San Marco 
 
 Venedik'in zenginliği artarken, donanması da büyüdü. Deniz savaşlarıyla Bizans bölgeleri ile Macar bölgelerini aldı ve Ceneviz donanmasını yok etti. Venedik'in serveti denize o kadar bağlıydı ki her yıl Doc gölcüğe bir yüzük atıp Latince şöyle derdi: "Biz seninle, denizle evliyiz, gerçek ve ezeli Rabbin işaretiyle." Deniz-insan ilişkilerinin tanrısallığı hakkında bir çok soru işareti oluşmasına rağmen, Papa bu evliliği kutsamıştı.
 
-15. yüzyılın sonunda, Venedik muhtemelen dünyadaki en zengin şehir ve Paris'ten sonra Avrupa'daki en büyük ikinci şehirdi ancak Avrupa'nın geri kalanı olanları yeteri kadar izlemişti. Fransa, İspanya, Avusturya ve Macaristan Cambrai Antlaşması ile güçlerini birleştirdiler ve Venedik'i yıkmak için Papa II. Julius'u da yanlarına aldılar.
+15 . yüzyılın sonunda, Venedik muhtemelen dünyadaki en zengin şehir ve Paris'ten sonra Avrupa'daki en büyük ikinci şehirdi ancak Avrupa'nın geri kalanı olanları yeteri kadar izlemişti. Fransa, İspanya, Avusturya ve Macaristan Cambrai Antlaşması ile güçlerini birleştirdiler ve Venedik'i yıkmak için Papa II. Julius'u da yanlarına aldılar.
 
 Ancak Venedik fırtınayı atlatmayı başarmış, bir kaç korkunç yenilgiye rağmen bile sonunda bölgelerini elinde tutmayı başarmıştı. Ancak bir daha asla genişleyemedi. 18. yüzyılda Osmanlı saldırdı ve Venedik, sonunda 1797 yılında Avusturya'nın Cumhuriyet'in kontrolünü ele geçirmesiyle sonlanan uzun bir gerileme dönemine girdi.

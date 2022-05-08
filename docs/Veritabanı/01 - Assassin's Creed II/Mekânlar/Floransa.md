@@ -18,7 +18,7 @@ Gerçek bir Da Vinci tarzıyla, tabloya başladı ama asla bitirmedi.
 
 M.Ö. 59 yılında Julius Sezar tarafından kurulan, Romalılar'ın verdiği adıyla Florentia, çabucak bir ticaret merkezi haline geldi.
 
-5. yüzyılda Roma'nın yağmalanmasından sonra Ostrogotlar kontrolü ele geçirdi. Onların yönetiminde, şehir sürekli olarak Bizanslıların saldırısı altındaydı, nüfus 1000 kişinin altına düşmüştü. Lombardiyalılar 6. yüzyılda güç kazandı ve Bizans saldırılarına son verdiler.
+Beşinci yüzyılda Roma'nın yağmalanmasından sonra Ostrogotlar kontrolü ele geçirdi. Onların yönetiminde, şehir sürekli olarak Bizanslıların saldırısı altındaydı, nüfus 1000 kişinin altına düşmüştü. Lombardiyalılar 6. yüzyılda güç kazandı ve Bizans saldırılarına son verdiler.
 
 Floransa 14. yüzyılda 80,000 nüfusa ulaştı ve bunun 25,000 kadarı yün sanayisinde çalışıyordu. 1378 yılında, alt sınıflar tarafından başlatılan büyük ayaklanma yün tarayıcılarının güçlenmesine ve hükumeti ele geçirmesine yol açtı. Onların ilerlemeci, radikal demokrasileri 2 aydan kısa sürdü, ardından üst sınıf kontrolü tekrar ele aldı fakat ayaklanma zenginleri o kadar korkutmuştu ki, olayın üstünden yüz yıl geçtikten sonra bile hala fısıltılarla konuşuluyordu. Tıpkı günümüzün 1960'lardaki hippi hareketi gibi.
 
@@ -48,12 +48,12 @@ Daha önce ziyaret edilmiş bir bölgeye hızlıca seyahat et.
 
 Benci de Cione ve Simone di Francesco Talenti tarafından 1376 ve 1382 yılları arasında yapılan Loggia dei Lanzi, Floransa'nın yöneticileri olan Signoria'nın yemin ederek göreve başlayan üyeleri için bir sığınak olarak inşa edilmişti.
 
-16. yüzyılda, Mediciler tepeye bir balkon yaptırdı, böylece Floransa şehri iplerin kimde olduğunu açıkça görebilecekti.
+16 . yüzyılda, Mediciler tepeye bir balkon yaptırdı, böylece Floransa şehri iplerin kimde olduğunu açıkça görebilecekti.
 
 ## MERCATO VECCHIO
 <img src="http://i.imgur.com/aT1XRvK.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Floransa iş merkezinin kalbi Mercato Vecchio, şehrin tüm alışveriş ihtiyaçlarını karşılardı. 14. yüzyıl Floransası şairi Antonio Pucci'den alıntılanırsa: "Hekimler her hastalıkla ilgilenirler ve işte keten elbiseler, ve kendir tüccarları, domuz satıcıları, ve şifacılar."
 
@@ -71,7 +71,7 @@ Floransa tarihinin sonraki dönemlerinde Medici, Pitti Sarayı'nı almış ve bu
 ## OSPEDALE DEGLI INNOCENTI
 <img src="http://i.imgur.com/pEGSLOr.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Filippo Brunelleschi tarafından tasarlanan ve 1445 yılında açılan Ospedale degli Innocenti (Masumlar Hastanesi) istenmeyen bebekler için bir yetimhaneydi. Görünen o ki, Floransalılar cesur insanlardı, çünkü bu bina amacı bakımından o dönem Avrupa'da bir ilkti.
 
@@ -109,7 +109,7 @@ Aslında, Cosimo avluyu onaylamış fakat Brunelleschi tarafından daha önceden
 ## PALAZZO PITTI
 <img src="http://i.imgur.com/pcUVCQ0.jpg" alt="" />
 
-<em>REBECCAC84: Çatıdaki manzaraya bir göz atmalısın!</em>
+_REBECCAC84: Çatıdaki manzaraya bir göz atmalısın!_
 
 Luca Pitti'nin müthiş zenginliğini göstermesi için yapımına başlanan Pitti Sarayı, Luca'nın parasının bitmesi ve 1472'de ölmesi üzerine yarım kaldı. Güçlü Roma tarzı mimarisi, Roma'nın dışında bulunan antik imparatorluk zamanı su köprülerinin keskin hatlı taş kemerlerini anımsatmaktadır.
 
@@ -134,7 +134,7 @@ San Giovanni, adını Floransa'nın koruyucu azizi Vaftizci Yahya'dan alır. Şe
 ## SAN LORENZO
 <img src="http://i.imgur.com/KMW4YW2.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 İçinde Mediciler'den birinin öldüğü Floransa'daki tüm kiliseler arasında, San Lorenzo'nun en eskisi olduğu söylenir. 393 yılında kutsanmıştır ve hala şehir duvarlarının dışındadır.
 
@@ -174,7 +174,7 @@ Fener, Brunelleschi 1446'da öldükten sonra eklendi ve sözde kutsal emanetleri
 ## SANTA MARIA NOVELLA
 <img src="http://i.imgur.com/ypcjUAG.jpg" alt="" />
 
-<em>REBECCAC84: Zor bir görev gördüğümde anlarım, git şu mezarı bul!</em>
+_REBECCAC84: Zor bir görev gördüğümde anlarım, git şu mezarı bul!_
 
 Floransa'daki ilk devasa bazilika olan Santa Maria Novella, 1420'de henüz bitmemiş olmasına rağmen takdis edildi. Ünlü hümanist, Leone Battista Alberti, üst cepheyi tasarlayıp 1470 yılında kiliseyi tamamlamıştı.
 

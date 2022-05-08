@@ -2,7 +2,7 @@
 ## ABBAZIA DI SAN MERCURIALE
 <img src="http://i.imgur.com/zuwgUnr.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Abbazia di San Mercuriale kulesi, 75 metrelik uzunluğuyla İtalya'daki en uzun kulelerden biridir. Alandaki ilk kilise 1173 yılında çıkan bir yangınla yanmıştı. Şu anki yapı Lombard-Romanesque tarzda taşla yalnızca 7 yılda yapıldı, bu İtalya tarihindeki en mucizevi yapı işlerinden biridir.
 
@@ -11,7 +11,7 @@ Kilisenin sağ tarafındaki sıra sütunlar manastırın kemerli yolunun bir par
 ## AVAMPOSTO VENEZIANO
 <img src="http://i.imgur.com/YtwmMuD.jpg" alt="" />
 
-<em>REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!</em>
+_REBECCAC84: Shaun'un bahsettiği şu garip Şekiller'den biri bu mekanda. Gidip onu bulmalısın!_
 
 Venedik deniz stratejisi Doğu'ya kadar olan ticaret rotaları üzerinde sağlam bir limanlar zinciri oluşturmaktı, böylece tüccarlar varacakları limana kadar korsanlar ya da Venedik'in düşmanları, Türkler tarafından saldırıya uğramadan gidip dönebilirlerdi.
 

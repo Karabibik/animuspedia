@@ -46,5 +46,3 @@ Bir dakika gülmem geçsin.
 Chapheau bir dava peşinde koşacak adamdı, ve aradığı davayı Vatanseverlerde buldu. O, 1765 yılında Damga Yasası'na karşı olan prostestolarına katıldığı Hürriyet Çocukları'nın ateşli bir taraftarıydı. Prostestocular 1765'de Vali Hutchinson'un konağı yağmalandığında oradaydı - büyük ihtimalle kalabalıkla beraber yumurta atıyordu. Ayrıca Boston Katliam'ına tanık olmuş (ve kısmen sebep olmuş) kişilerden biriydi.
 
 Chapheau sadece prostestolara katılmakla yetinmedi. 1760 ve 70'de alkollü olarak toplum düzenine kastetmek ve kavga etmek gerekçesiyle aldığı pek çok ceza kitaplarımın arasında - fırsat bulduğunda kavgadan çekinmiyordu görünüşe göre - ve devrim öncesi Boston'unda, her zaman bir fırsat vardı kavga için. Öfkeli bir ayyaş olmak için muhteşem bir zamandı – dünya istiridyendi.
-
-&nbsp;

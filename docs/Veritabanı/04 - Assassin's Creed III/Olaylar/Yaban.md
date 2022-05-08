@@ -113,5 +113,3 @@ Washington ve birliği Jumonville Glen'de bir Fransız karakoluna saldırdı ve 
 Ancak kaleyi "Eksiklik Kalesi"  olarak da adlandırabilirlerdi çünkü ikmal maddeleri çabucak tükendi ve milisler (ve İngiliz düzenli destekleri) kısa sürede yenik düştüler. 4 Temmuz'da, Washington teslim oldu ve geri çekilmesine izin verildi daha sonra ise kaleleri adlandırması için yerine bir başkası getirildi.
 
 Bu Washington’ın tek askeri teslim oluşuydu (daha önce çok kez "stratejik geri çekilme" yapmasına rağmen.).
-
-&nbsp;
