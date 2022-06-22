@@ -15,11 +15,23 @@ theme:
       
     palette:
     
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: amber
-      accent: orange
+        # Palette toggle for light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          primary: amber
+          accent: orange
+          toggle:
+            icon: material/brightness-7
+            name: Karanlık mod
+
+        # Palette toggle for dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: amber
+          accent: orange
+          toggle:
+            icon: material/brightness-4
+            name: Aydınlık mod
 
 # Extensions
 markdown_extensions:

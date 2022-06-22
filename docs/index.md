@@ -1,10 +1,10 @@
-# Animuspedia
+# Animuspedi
 Animus Projesi arşivi.
 
-## Rehberler
-- [[Çeviri Rehberi]]
+## Kodeks
 - [[Çevirmen Testi]]
 - [[Ekip Rehberleri]]
+- [[Google Sheets Eklentileri]]
 - [[Makine Çevirisi]]
 
 ## Projeler
@@ -19,3 +19,5 @@ Animus Projesi arşivi.
 - [[Resimler|Assassin's Creed - Brotherhood]]
 - [[Cemiyet|Assassin's Creed - Revelations]]
 - [[Gazeteler|Assassin's Creed III]]
+
+İletişim: `animusprojesi@gmail.com`
