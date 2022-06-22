@@ -1,5 +1,7 @@
 # Animuspedi
-Animus Projesi arşivi.
+Animus Projesi (2014 - 2022) arşivi.
+
+Mevcut içerikle ilgili soru sormak, düzeltme önermek veya yeni içerik eklemek için iletişim: `animusprojesi@gmail.com`
 
 ## Kodeks
 - [[Çevirmen Testi]]
@@ -19,5 +21,3 @@ Animus Projesi arşivi.
 - [[Resimler|Assassin's Creed - Brotherhood]]
 - [[Cemiyet|Assassin's Creed - Revelations]]
 - [[Gazeteler|Assassin's Creed III]]
-
-İletişim: `animusprojesi@gmail.com`
