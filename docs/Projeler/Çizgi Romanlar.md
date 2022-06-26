@@ -1,13 +1,39 @@
-|                   |                   |                |
-|:-----------------:|:-----------------:|:--------------:|
-|    ![[AC2.webp]]   |    ![[ACB.webp]]   |  ![[ACR.webp]]  |
-|    ![[AC3.webp]]   |    ![[AC4.webp]]   |  ![[ACU.webp]]  |
-|  ![[ACRogue.webp]] |   ![[ACCC.webp]]   |  ![[ACS.webp]]  |
-|    ![[ACO.webp]]   |   ![[AC_OD.webp]]  |  ![[ACV.webp]]  |
-|    ![[COL.webp]]   |   ![[CotDG.webp]]  | ![[DOSEE.webp]] |
-|   ![[dos2.webp]]   |    ![[DA2.webp]]   |  ![[DAI.webp]]  |
-|    ![[mea.webp]]   |    ![[MYZ.webp]]   |  ![[TLS.webp]]  |
-| ![[LoopHero.webp]] | ![[ObraDinn.webp]] | ![[Kotor.webp]] |
-|  ![[kotor2.webp]]  |  ![[trine4.webp]]  |  ![[UWD.webp]]  |
-|   ![[vtmb.webp]]   |     Catherine     |     Psycho     |
-|        EU4        |                   |                |
+![[CB.webp]]
+
+[Çizgi Bölgesi](https://www.cizgibolgesi.com/) ile ortaklaşa yaptığımız çizgi romanların sıralı listesine ve okuma bağlantılarına aşağıdan ulaşabilirsiniz.
+
+## Aliens
+Kurtuluş:
+
+## Assassin's Creed
+Başkaldırı (2020): 
+Shao Jun’un Kılıcı:
+Zafer Nidası (2021):
+
+## Black Widow
+Giriş: 
+
+## Daredevil
+Daredevil (2019): 
+Korkusu Olmayan Adam (2020): 
+
+## Dragon Age
+Dragon Age (2010): 
+Sessizlik Korusu: 
+Üçkağıt (2020): 
+
+## Mass Effect
+Kefaret: 
+Baskın ve Soruşturma
+Blasto: Sonsuzluk Ebedidir
+Mahkûmiyet
+Son Gülen İyi Güler
+
+## Terminator
+Sıfırıncı Gün Açığı: 
+
+## The Last of Us
+Amerikan Rüyaları: 
+
+## Tomb Raider
+Tomb Raider (2014): 

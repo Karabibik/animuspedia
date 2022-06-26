@@ -13,7 +13,7 @@ Aynı şeyi ortak çeviri ifadelerini bulmak için de kullanmak mümkün ama bir
 //@OnlyCurrentDoc
 
 // Only need to change these parts
-var text_page = "Texts_v133"
+var text_page  = "Texts_v133"
 var terms_page = "Terimler Sözlüğü" // A: EN, B: TR, C: Description
 var menu_title = "Animus++"
 
@@ -25,8 +25,8 @@ var terms = SpreadsheetApp.getActive().getSheetByName(terms_page)
 var max_row = terms.getLastRow().toString();
 
 // Get all ranges, make them a list
-var en_terms = terms.getRange("A2:A"+max_row).getValues().flat();
-var tr_terms = terms.getRange("B2:B"+max_row).getValues().flat();
+var en_terms  = terms.getRange("A2:A"+max_row).getValues().flat();
+var tr_terms  = terms.getRange("B2:B"+max_row).getValues().flat();
 var term_desc = terms.getRange("C2:C"+max_row).getValues().flat();
 
 function onOpen() {
@@ -144,11 +144,11 @@ function get_term_match(){
           // Add matches
           var i = 0;
           for (i = 0; i < my_array.length; i += 3) {
-            mytable += " <tr>";
-            mytable += " <td style=\"width: 75px\">" + my_array[i]     + "</td>";
-            mytable += " <td style=\"width: 75px\">" + my_array[i + 1] + "</td>";
-            mytable += " <td style=\"width: 125px\">" + my_array[i + 2] + "</td>";
-            mytable += " </tr>";
+            mytable += "<tr>";
+            mytable += "<td style=\"width: 75px\">" + my_array[i]   + "</td>";
+            mytable += "<td style=\"width: 75px\">" + my_array[i+1] + "</td>";
+            mytable += "<td style=\"width: 125px\">"+ my_array[i+2] + "</td>";
+            mytable += "</tr>";
           }
           
           // Display table
@@ -178,7 +178,7 @@ function MT() {
   var input = range.getValue();
 
   // Change here for tuning
-  var engine = "mk_zqYu7E80QOxu5EpCN2Gypw"
+  var engine = "mk_asdfasgq324fsdfvv2341w"
   var header = {
     'MMT-ApiKey' : "AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE"
   };
