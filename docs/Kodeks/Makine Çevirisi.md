@@ -1,6 +1,4 @@
-Ekip olarak makine çeviri teknolojilerine de göz attık. Proje yöneticilerimiz birkaç deneme yaptı ama büyük projelerde tüm çevirmenlerin kullanabileceği seviyede değil henüz bu teknoloji. Aşağıda birkaç tanesini detaylıca sıraladık ama tamamı için geçerli brkaç maddeyi önden yazalım:
-
-Bulgular:
+Ekip olarak makine çeviri teknolojilerine de göz attık. Proje yöneticilerimiz birkaç deneme yaptı ama büyük projelerde tüm çevirmenlerin kullanabileceği seviyede değil henüz bu teknoloji. Aşağıda birkaç tanesini detaylıca sıraladık ama tamamı için geçerli maddeleri önden yazalım:
 
 - **Hiçbir** sağlayıcının çevirisi, tecrübeli birinin kontrolünden geçmeden kullanılamıyor (Biz yalnızca proje yöneticileri ile iyi sonuç alabildik).
 - Çevirmenler, **makine çevirisi denetimi sırasında**, kendi çevirilerinde yapmayacakları hatalara sahip cümleleri "sorun yok" diye işaretleyebiliyorlar.
@@ -12,11 +10,10 @@ Makine çeviri kalitesini ölçmek için birkaç yol var, bunlardan biri de BLEU
 
 ![[BLEU.webp]]
 
-## Intento
-[Intento](https://inten.to/), piyasadaki çeviri motorlarını dillere göre karşılaştıran raporlar yayınlıyor; biz de bunlardan fazlasıyla yararlandık. Ayrıca yine uluslararası alanda Intento, Türkiye'de ise [Lugath](https://www.lugath.com/); farklı sağlayıcıları bir araya getirerek size çevirinin en doğru kaynaktan gelmesini sağlıyor. İsterseniz bunlara da göz atabilirsiniz.
+## [Intento](https://inten.to/)
+Intento, piyasadaki çeviri motorlarını dillere göre karşılaştıran raporlar yayınlıyor; biz de bunlardan fazlasıyla yararlandık. Ayrıca yine uluslararası alanda Intento, Türkiye'de ise [Lugath](https://www.lugath.com/); farklı sağlayıcıları bir araya getirerek size çevirinin en doğru kaynaktan gelmesini sağlıyor. İsterseniz bunlara da göz atabilirsiniz.
 
 [2020 Raporu](https://drive.google.com/file/d/14NSJ2luPgdta9I3d9G-0uxJB0UJfluhQ/view?usp=sharing)  
-
 [2021 Raporu](https://drive.google.com/file/d/1LHDeBUHJPVZ8sQiHNcrmCsyxjeKwDWGr/view?usp=sharing)
 
 ## [Amazon Translate](https://aws.amazon.com/tr/translate/)
@@ -38,7 +35,7 @@ Google'ın kendi temel motoru zaten ortalama sonuçlar veriyor. Kendi çeviriler
 
 Nedendir bilinmez makine çevirisi yapanların favorisi ama listedeki en kötü sonuçları bu motorla alıyorsunuz. Sanıyoruz kullananlar ne makaleyi okumuş ~~(İngilizce bilseler zaten...)~~ ne de istatistiklere bakmış.
 
-Makale: https://arxiv.org/abs/2005.14165
+Makale: https://arxiv.org/abs/2005.14165  
 İstatistikler: https://github.com/openai/gpt-3
 
 Türkçeden 3 kat daha fazla kelime okuduğu Rumencede bile BLEU puanını 20 yapabilmiş.
@@ -63,4 +60,4 @@ ModernMT, özellikle de Trados eklentisi ile, siz çeviri yaptıkça kullandığ
 ## [Systran](https://www.systran.net/en/translate/)
 **BLEU Puanı:** ~30
 
-Systran, ülkemizde [Dragoman](https://www.dragoman.ist/tr/anasayfa/) ile iş birliği yaparak ortaklaşa bir motor oluşturmuş. Verdiği sonuçlar da göze çarpacak kadar kötü değil ama istikrarlı olarak iyi sonuçlar da sunmuyor.
+Systran, ülkemizde [Dragoman](https://www.dragoman.ist/tr/anasayfa/) ile iş birliği yaparak ortaklaşa bir motor oluşturmuş. Bu yüzden diğer motorlara göre bazen gerçekten iyi sonuçlar verebiliyor. Ancak verdiği sonuçlar göze çarpacak kadar kötü olmasa da istikrarlı olarak iyi sonuçlar sunmuyor.
