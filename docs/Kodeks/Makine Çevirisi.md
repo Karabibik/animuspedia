@@ -1,6 +1,7 @@
 Ekip olarak makine çeviri teknolojilerine de göz attık. Proje yöneticilerimiz birkaç deneme yaptı ama büyük projelerde tüm çevirmenlerin kullanabileceği seviyede değil henüz bu teknoloji. Aşağıda birkaç tanesini detaylıca sıraladık ama tamamı için geçerli brkaç maddeyi önden yazalım:
 
 Bulgular:
+
 - **Hiçbir** sağlayıcının çevirisi, tecrübeli birinin kontrolünden geçmeden kullanılamıyor (Biz yalnızca proje yöneticileri ile iyi sonuç alabildik).
 - Çevirmenler, **makine çevirisi denetimi sırasında**, kendi çevirilerinde yapmayacakları hatalara sahip cümleleri "sorun yok" diye işaretleyebiliyorlar.
 - Yani gönüllü seviyedeki çevirmenin üstünden geçtiği makine çevirinin kalitesi bile **çevirmenin kendi yapacağı çeviriden daha düşük oluyor**. Boşuna zaman ve emek harcanmış oluyor.
@@ -14,7 +15,8 @@ Makine çeviri kalitesini ölçmek için birkaç yol var, bunlardan biri de BLEU
 ## Intento
 [Intento](https://inten.to/), piyasadaki çeviri motorlarını dillere göre karşılaştıran raporlar yayınlıyor; biz de bunlardan fazlasıyla yararlandık. Ayrıca yine uluslararası alanda Intento, Türkiye'de ise [Lugath](https://www.lugath.com/); farklı sağlayıcıları bir araya getirerek size çevirinin en doğru kaynaktan gelmesini sağlıyor. İsterseniz bunlara da göz atabilirsiniz.
 
-[2020 Raporu](https://drive.google.com/file/d/14NSJ2luPgdta9I3d9G-0uxJB0UJfluhQ/view?usp=sharing)
+[2020 Raporu](https://drive.google.com/file/d/14NSJ2luPgdta9I3d9G-0uxJB0UJfluhQ/view?usp=sharing)  
+
 [2021 Raporu](https://drive.google.com/file/d/1LHDeBUHJPVZ8sQiHNcrmCsyxjeKwDWGr/view?usp=sharing)
 
 ## [Amazon Translate](https://aws.amazon.com/tr/translate/)
@@ -47,6 +49,7 @@ Türkçeden 3 kat daha fazla kelime okuduğu Rumencede bile BLEU puanını 20 ya
 **BLEU Puanı:** ~40-50 (Listemizin birincisi)
 
 ModernMT'nin üç farklı seçeneği var:
+
 - Sitesinde tek seferde 5000 karaktere kadar ücretsiz çeviri yapabildiğiniz
 - Kendinizin ücretsiz şekilde sıfırdan eğitip kullanabileceğiniz
 - Var olan temel motorun üstüne kendiniz koyarak geliştirebildiğiniz
