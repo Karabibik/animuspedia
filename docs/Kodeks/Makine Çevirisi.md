@@ -1,12 +1,14 @@
-Ekip olarak makine çeviri teknolojilerine de göz attık. Proje yöneticilerimiz birkaç deneme yaptı ama büyük projelerde tüm çevirmenlerin kullanabileceği seviyede değil henüz bu teknoloji. Aşağıda birkaç tanesini detaylıca sıraladık ama tamamı için geçerli maddeleri önden yazalım:
+Ekip olarak makine çeviri teknolojilerine de göz attık. Proje yöneticilerimiz birkaç deneme yaptı ama büyük projelerde tüm çevirmenlerin kullanabileceği seviyede değil henüz bu teknoloji. Aşağıda birkaç tanesinin detaylı incelemesi mevcut ama tamamı için geçerli maddeleri önden yazalım:
 
-- **Hiçbir** sağlayıcının çevirisi, tecrübeli birinin kontrolünden geçmeden kullanılamıyor (Biz yalnızca proje yöneticileri ile iyi sonuç alabildik).
+- **Hiçbir** sağlayıcının çevirisi, tecrübeli birinin kontrolünden geçmeden kullanılamıyor (Biz yalnızca proje yöneticileri ve kıdemli çevirmenlerimiz ile iyi sonuç alabildik).
 - Çevirmenler, **makine çevirisi denetimi sırasında**, kendi çevirilerinde yapmayacakları hatalara sahip cümleleri "sorun yok" diye işaretleyebiliyorlar.
 - Yani gönüllü seviyedeki çevirmenin üstünden geçtiği makine çevirinin kalitesi bile **çevirmenin kendi yapacağı çeviriden daha düşük oluyor**. Boşuna zaman ve emek harcanmış oluyor.
 - **Terimce desteği** çoğu sağlayıcıda yok. Olanlarda ise çok basit "Bul-Değiştir"den öteye geçemediği için kullanmamak daha iyi oluyor.
 - Sağlayıcıların **tamamı**, İngilizce -> Türkçe yerine Türkçe -> İngilizce çevirilerde çok daha başarılı.
 
-Makine çeviri kalitesini ölçmek için birkaç yol var, bunlardan biri de BLEU metriği. Google'ın yaptığı puanlama tablosu aşağıda. Söylediği de şu; 30-40 ve altı puan çeviriler "anlaşılamaz derecede kötü", 30-40 bandındaki çeviriler ise "akıcı olmayan ama çeviri addedilebilen" sonuçlar.
+Yani *şimdilik*, yalnızca elinizde fazlasıyla tecrübeli çevirmenler yoksa, yazanları az buçuk anlamak isteyen siz İngilizce bilmiyorsanız veya ***"Ay'da olmaz, bir haftada çekmemiz lazım!"*** gibi bir derdiniz varsa kullanmanız işinize yarar. Diğer şartlarda çevirmenler aynı zamanda daha kaliteli işler çıkartıyor.
+
+Makine çeviri kalitesini ölçmek için birkaç yol var, bunlardan biri de **BLEU** metriği. [Google'ın yaptığı](https://cloud.google.com/translate/automl/docs/evaluate) puanlama tablosu aşağıda. Söylediği de şu; 30-40 puan ve altı çeviriler "anlaşılamaz derecede kötü", 30-40 bandındaki çeviriler ise "akıcı olmayan ama çeviri addedilebilen" sonuçlar.
 
 ![[BLEU.webp]]
 
@@ -19,26 +21,26 @@ Intento, piyasadaki çeviri motorlarını dillere göre karşılaştıran raporl
 ## [Amazon Translate](https://aws.amazon.com/tr/translate/)
 **BLEU Puanı:** ~30
 
-Amazon, dünyanın en büyük kitap satıcısı olduğu ve dijital formatları elinde bulunduğu için, özellikle didaktik metinlerde iyi sonuçlar veriyor. Ancak genel anlamda ve özellikle konuşma metinlerinde gelenler sonuçlar ortalamanın epey altında.
+Amazon, dünyanın en büyük kitap satıcısı olduğu ve dijital formatları elinde bulunduğu için, özellikle didaktik metinlerde iyi sonuçlar veriyor. Ancak genel bağlamda ve özellikle konuşma metinlerinde gelenler sonuçlar ortalamanın epey altında.
 
-Bu durum maalesef kendini kaliteli diyalog çevirisi sağladığınız durumlarda da geçerli ki onu da yakın zamanda getirdiler. Terimce desteği ise şaka gibi çalışıyor.
+Bu durum maalesef kendinizin kaliteli diyalog çevirisi sağladığınız durumlarda da geçerli, ki onu bile daha yeni getirdiler. Terimce desteği ise şaka gibi.
 
 ## [Google Cloud Translation](https://cloud.google.com/translate)
 **BLEU Puanı:** ~40
 
 Google'ın düz çeviri motoru o kadar başarılı değil. Burada bahsettiğimiz, kendi çevirilerinizi sağlayıp oyuna göre özelleştirebildiğiniz Cloud Translation motoru. Düz siteyi kullanan arkadaşlar en azından zahmete girip bulut tabanlı olanı bir denesinler.
 
-Google'ın kendi temel motoru zaten ortalama sonuçlar veriyor. Kendi çevirilerinizi sağladığınızda da oyun özelinde epey iyi sonuçlar verebiliyor yerine göre. Ancak eğitimi de sonrasında yaptığınız çeviriler de görece pahalı.
+Google'ın kendi temel motoru zaten ortalama sonuçlar veriyor. Kendi çevirilerinizi sağladığınızda da oyun özelinde epey iyi sonuçlar verebiliyor yerine göre. Ancak eğitimi de sonrasında yaptığınız çeviriler de görece pahalı. Terimce desteği ise yine şakayla karışık.
 
 ## [GPT-3](https://openai.com/api/)
-**BLEU Puanı:** 10-20
+**BLEU Puanı:** ~10
 
-Nedendir bilinmez makine çevirisi yapanların favorisi ama listedeki en kötü sonuçları bu motorla alıyorsunuz. Sanıyoruz kullananlar ne makaleyi okumuş ~~(İngilizce bilseler zaten...)~~ ne de istatistiklere bakmış.
+Nedendir bilinmez makine çevirisi yapanlar arasında göklere çıkarılıyor ama listedeki en kötü sonuçları bu motorla alıyorsunuz. Sanıyoruz kullananlar ne makaleyi okumuş ~~(İngilizce bilseler zaten...)~~ ne de istatistiklere bakmış.
 
 Makale: https://arxiv.org/abs/2005.14165  
 İstatistikler: https://github.com/openai/gpt-3
 
-Türkçeden 3 kat daha fazla kelime okuduğu Rumencede bile BLEU puanını 20 yapabilmiş.
+Türkçeden 3 kat daha fazla örnek okuduğu Rumencede bile BLEU puanını 20 yapabilmiş.
 ![[GPT3_BLEU.webp]]
 ![[GPT3_Word.webp]]
 
@@ -47,11 +49,11 @@ Türkçeden 3 kat daha fazla kelime okuduğu Rumencede bile BLEU puanını 20 ya
 
 ModernMT'nin üç farklı seçeneği var:
 
-- Sitesinde tek seferde 5000 karaktere kadar ücretsiz çeviri yapabildiğiniz
-- Kendinizin ücretsiz şekilde sıfırdan eğitip kullanabileceğiniz
+- Kendinizin ücretsiz şekilde sıfırdan eğitip kullanabileceğiniz ~~(gud lak)~~
+- Sitesinde tek seferde 5.000 karaktere kadar ücretsiz çeviri yapabildiğiniz ~~(çöp)~~
 - Var olan temel motorun üstüne kendiniz koyarak geliştirebildiğiniz
 
-Biz üçüncü seçeneği tartışacağız ama isterseniz sıfırdan eğitilebilecek sürümün bağlantısı da aşağıda. Dikkat, sitesindeki aşamaya bile getirmek için *çok* uğraşmak gerekiyor. ~~Gerçi sitedeki motoru kullanıp anlaşılmadığını sananlar da var ama işte...~~
+Biz üçüncü seçeneği tartışacağız ama isterseniz sıfırdan eğitilebilecek sürümün bağlantısı da aşağıda. Dikkat, sıfırdan eğittiğiniz seçeneği sitedeki kaliteye dahi getirmek (Google değilseniz) çok mümkün değil. Google Translate ile "çeviri yaptım" diyenler gibi sitesindeki sürümü kullanıp üstünden geçmek de başta bahsettiğimiz tırt ve makine çeviri olduğu fark edilen sonuçları çıkarıyor.
 
 Github: https://github.com/modernmt/modernmt
 

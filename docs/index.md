@@ -1,7 +1,8 @@
 # Animuspedi
-Animus Projesi (2014 - 2022) arşivi.
+Animus Projesi'nin 2014 - 2022 yılları arasında yaptığı çalışmaların bir arşivi.
 
-Mevcut içerikle ilgili soru sormak, düzeltme önermek veya yeni içerik eklemek için iletişim: `animusprojesi@gmail.com`
+Mevcut içerikle ilgili soru sormak, düzeltme önermek veya yeni içerik eklemek için iletişim:  
+`animusprojesi@gmail.com`
 
 ## Kodeks
 - [[Çevirmen Testi]]

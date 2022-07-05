@@ -1,6 +1,6 @@
 |                   |                   |                |
 |:-----------------:|:-----------------:|:--------------:|
-|    ![[AC2.webp]]   |    ![[ACB.webp]]   |  ![[ACR.webp]]  |
+|    [![[AC2.webp]]](https://karabibik.github.io/animuspedia/)   |    ![[ACB.webp]]   |  ![[ACR.webp]]  |
 |    ![[AC3.webp]]   |    ![[AC4.webp]]   |  ![[ACU.webp]]  |
 |  ![[ACRogue.webp]] |   ![[ACCC.webp]]   |  ![[ACS.webp]]  |
 |    ![[ACO.webp]]   |   ![[AC_OD.webp]]  |  ![[ACV.webp]]  |

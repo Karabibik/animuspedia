@@ -3,7 +3,7 @@
 
 	Sevgili Vincente,
 
-	En karanlık şüphemizin, kızının bir sahtekârla evlendiğinin kanıtları geçti elime. Leone, Guelphli olduğunu iddia etse de kendisi aslında Floransalı. Buradan, bu yalancı ve hilebazların hükümetimizi devirmek ve sahip olduğumuz azıcık özgürlüğü de almak istediği ne kadar açık görünüyor. Eğer bu mektubu okuduktan sonra senin de kanın benimki kadar kaynamaya başladıysa gel beraber onu Torre Grossa’ya atalım. Bu Floransa’ya iyi bir mesaj verir.
+	En karanlık şüphemizin, kızının bir sahtekârla evlendiğinin, kanıtları geçti elime. Leone, Guelphli olduğunu iddia etse de kendisi aslında Floransalı. Buradan, bu yalancı ve hilebazların hükümetimizi devirmek ve sahip olduğumuz azıcık özgürlüğü de almak istediği ne kadar açık görünüyor. Eğer bu mektubu okuduktan sonra senin de kanın benimki kadar kaynamaya başladıysa gel beraber onu Torre Grossa’ya atalım. Bu Floransa’ya iyi bir mesaj verir.
 
 	Sevgiler,
 
