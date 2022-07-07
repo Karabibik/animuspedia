@@ -13,8 +13,8 @@ Kurtuluş: [Yaratıklar - Kurtuluş #01] [https://www.cizgibolgesi.com/2022/06/y
 ![[comic_ac.webp]]
 ![[comic_aliens.webp]]
 ![[comic_me.webp]]
-![[comic_tr.jpg]]
-![[comic_daredevil.jpg]]
+![[comic_tr.webp]]
+![[comic_daredevil.webp]]
 ![[comic_terminator.webp]]
 ![[comic_tlou.webp]]
 

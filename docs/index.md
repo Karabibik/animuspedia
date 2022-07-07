@@ -1,5 +1,7 @@
 # Animuspedi
-Animus Projesi'nin 2014 - 2022 yılları arasında yaptığı çalışmaların bir arşivi.
+Animus Projesi'nin 2014 - 2022 yılları arasında yaptığı işlerin bir arşivi.
+
+![[Shepard.mp3]]
 
 Mevcut içerikle ilgili soru sormak, düzeltme önermek veya yeni içerik eklemek için iletişim:  
 `animusprojesi@gmail.com`
