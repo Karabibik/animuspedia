@@ -1,7 +1,7 @@
 # Animuspedi
 Animus Projesi'nin 2014 - 2022 yılları arasında yaptığı işlerin bir arşivi.
 
-![[Shepard.mp3]]
+<audio controls src="Görseller/Shepard.mp3" type="audio/mpeg"></audio>
 
 Mevcut içerikle ilgili soru sormak, düzeltme önermek veya yeni içerik eklemek için iletişim:  
 `animusprojesi@gmail.com`
