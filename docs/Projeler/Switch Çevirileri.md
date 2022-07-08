@@ -1,13 +1,66 @@
-|                   |       Switch Çevirileri            |                |
-|:-----------------:|:-----------------:|:--------------:|
-|    ![[AC2.webp]]   |    ![[ACB.webp]]   |  ![[ACR.webp]]  |
-|    ![[AC3.webp]]   |    ![[AC4.webp]]   |  ![[ACU.webp]]  |
-|  ![[ACRogue.webp]] |   ![[ACCC.webp]]   |  ![[ACS.webp]]  |
-|    ![[ACO.webp]]   |   ![[AC_OD.webp]]  |  ![[ACV.webp]]  |
-|    ![[COL.webp]]   |   ![[CotDG.webp]]  | ![[DOSEE.webp]] |
-|   ![[dos2.webp]]   |    ![[DA2.webp]]   |  ![[DAI.webp]]  |
-|    ![[mea.webp]]   |    ![[MYZ.webp]]   |  ![[TLS.webp]]  |
-| ![[LoopHero.webp]] | ![[ObraDinn.webp]] | ![[Kotor.webp]] |
-|  ![[kotor2.webp]]  |  ![[trine4.webp]]  |  ![[UWD.webp]]  |
-|   ![[vtmb.webp]]   |     Catherine     |     Psycho     |
-|        EU4        |                   |                |
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th style="text-align:center">Switch Çevirileri</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+	<td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC2.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/ACB.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/ACR.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC3.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC4.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/ACU.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/ACRogue.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/ACCC.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/ACS.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/ACO.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC_OD.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/ACV.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/COL.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/CotDG.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/DOSEE.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/dos2.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/DA2.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/DAI.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/mea.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/MYZ.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/TLS.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/LoopHero.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/ObraDinn.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/Kotor.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/kotor2.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/trine4.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/UWD.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/vtmb.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC2.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC2.webp"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC2.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC2.webp"/></a></td>
+    <td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC2.webp"/></a></td>
+  </tr>
+</tbody>
+</table>

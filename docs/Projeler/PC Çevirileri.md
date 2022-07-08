@@ -2,7 +2,7 @@
 <thead>
   <tr>
     <th></th>
-    <th>PC Çevirileri</th>
+    <th style="text-align:center">PC Çevirileri</th>
     <th></th>
   </tr>
 </thead>

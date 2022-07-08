@@ -24,5 +24,7 @@ Mevcut içerikle ilgili soru sormak, düzeltme önermek veya yeni içerik ekleme
 - [[Cemiyet|Assassin's Creed - Revelations]]
 - [[Gazeteler|Assassin's Creed III]]
 
-> <audio controls src="Görseller/Shepard.mp3" type="audio/mpeg"></audio>
+
+*Oyun Mecrasında Animus Projesi*
 > \- *Commander Shepard*
+> <audio controls src="Görseller/Shepard.mp3" type="audio/mpeg"></audio>
