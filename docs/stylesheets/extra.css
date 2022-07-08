@@ -23,7 +23,6 @@
 
 .cizgi table, tr, td {
     text-align: center;
-    font-weight: bold;
-    width: 25%;
+    width: 33%;
     border-style: hidden;
 }
