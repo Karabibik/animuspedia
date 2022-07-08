@@ -20,3 +20,10 @@
     width: 100%;
   }
 }
+
+.cizgi table, tr, td {
+    text-align: center;
+    font-weight: bold;
+    width: 25%;
+    border-style: hidden;
+}

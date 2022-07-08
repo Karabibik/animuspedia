@@ -18,6 +18,7 @@ Mevcut içerikle ilgili soru sormak, düzeltme önermek veya yeni içerik ekleme
 - [[PS4 Yamaları]]
 - [[Switch Yamaları]]
 - [[Seslendirme]]
+- [[Sizden Gelenler]]
 
 ## Veritabanı
 - [[Kodeks|Assassin's Creed II]]
