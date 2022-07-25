@@ -1,11 +1,4 @@
 <table class="tr_yama">
-<thead>
-  <tr>
-    <th></th>
-    <th style="text-align:center">PC Çevirileri</th>
-    <th></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
 	<td><a href="https://karabibik.github.io/animuspedia/"><img src="../../Görseller/AC2.webp"/></a></td>
