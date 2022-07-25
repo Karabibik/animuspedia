@@ -35,7 +35,7 @@ Google'ın kendi temel motoru zaten ortalama sonuçlar veriyor. Kendi çeviriler
 ## [GPT-3](https://openai.com/api/)
 **BLEU Puanı:** ~10
 
-Nedendir bilinmez makine çevirisi yapanlar arasında göklere çıkarılıyor ama listedeki en kötü sonuçları bu motorla alıyorsunuz. Sanıyoruz kullananlar ne makaleyi okumuş ~~(İngilizce bilseler zaten...)~~ ne de istatistiklere bakmış.
+Bu modelin haberlere konu olmasıyla çok öne çıktı bir ara ama doğrudan "çeviri" modeli olmadığı için listedeki en kötü sonuçları bu motorla alıyorsunuz. Bu modeli kullanarak çeviri yapmak isterseniz hem yüzlerce dolar para bayılır hem de bayıldığınızla kalırsınız yani. O yüzden "GPT-3 ile yaptım" diyenin çevirilerini bir de "Google" ile karşılaştırın. İsteyenler için makalesi ile istatistikleri de şurada:
 
 Makale: https://arxiv.org/abs/2005.14165  
 İstatistikler: https://github.com/openai/gpt-3

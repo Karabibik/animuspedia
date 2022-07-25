@@ -1,4 +1,4 @@
-<table>
+<table class="tr_yama">
 <thead>
   <tr>
     <th></th>

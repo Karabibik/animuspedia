@@ -8,14 +8,20 @@
 </thead>
 <tbody>
   <tr>
+    <!--
     <td>Prince of Persia: The Sands of Time <br> (CriminaL277, Deftones)</td>
     <td>Prince of Persia: Warrior Within  <br> (CriminaL277, Deftones)</td>
     <td>Prince of Persia: The Two Thrones  <br> (CriminaL277, Deftones)</td>
+    <td>Crypt of the Necrodancer <br> (Karabibik)</td>
+    -->
+	<td style="text-align:center">Bağımsız Çevirmen <br> (Hazırlanıyor)</td>
+    <td style="text-align:center">Bağımsız Çevirmen <br> (Hazırlanıyor)</td>
+    <td style="text-align:center">Bağımsız Çevirmen <br> (Hazırlanıyor)</td>
   </tr>
   <tr>
-    <td>Crypt of the Necrodancer <br> (Karabibik)</td>
-    <td>Pillars of Eternity <br> (Karabibik)</td>
-    <td>Lego: Bricktales <br> (Karabibik)</td>
+    <td style="text-align:center">Bağımsız Çevirmen <br> (Hazırlanıyor)</td>
+    <td style="text-align:center">Bağımsız Çevirmen <br> (Hazırlanıyor)</td>
+    <td style="text-align:center">Bağımsız Çevirmen <br> (Hazırlanıyor)</td>
   </tr>
 </tbody>
 </table></div>

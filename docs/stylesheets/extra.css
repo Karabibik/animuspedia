@@ -1,4 +1,12 @@
-.md-typeset table:not([class]) th {
+.tr_yama img{
+transition: transform .2s;
+}
+
+.tr_yama img:hover {
+transform: scale(1.10);
+}
+
+md-typeset table:not([class]) th {
 	min-width: 3rem;
 }
 
